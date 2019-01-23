@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Online CV
-url: 'https://will-rowe.github.io/'
+title: Online CV
+url: "https://will-rowe.github.io"
 baseurl: '/online-cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: orange # blue turquoise green berry orange ceramic
@@ -22,8 +22,3 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
-
-# Development Settings
-port: 4000
-host: 0.0.0.0
-safe: false
