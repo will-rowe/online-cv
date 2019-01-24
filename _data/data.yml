@@ -3,198 +3,182 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Will Rowe
     tagline: Computational Biologist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    avatar: profile.png
     # Sidebar links
     email: will.rowe@stfc.ac.uk
-    phone: 
-    website: will-rowe.github.io #do not add http://
+    website: will-rowe.github.io
     linkedin: will-rowe-13219b136
     github: will-rowe
-    gitlab:
-    bitbucket:
     twitter: '@wil_rowe'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: GCSE
 
     interests:
-      - item: Climbing
-        link:
+      - item: Guitar playing
+        link: https://www.youtube.com/watch?v=2RsqfuvBddY
 
-      - item: Snowboarding
+      - item: Rowing
         link:
 
       - item: Cooking
         link:
+    
+    education: True
+
+education:
+    - degree: PhD in Microbial Genomics
+      university: University of Cambridge
+      time: 2011 - 2015
+      details: |
+        Magdalene College, Cambridge, CB3 0AG
+
+        ‘Monitoring antibiotic resistance genes in the aquatic environment’
+
+    - degree: BSc in Human Genetics
+      university: Newcastle University
+      time: 2007 - 2010
+      details: |
+        University of Newcastle, Newcastle upon Tyne, NE1 7RU 
+
+        Human Genetics (2.i)
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      I'm Will Rowe, a computational biologist 
+      working in microbial genomics at UKRI.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Computational biologist
+      time: 2017 - Present
+      company: UK Research and Innovation
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Developing and implementing algorithms on HPC systems for the 
+        analysis of genomic and metagenomic data.
+        Projects include:
+        - metagenomic pipeline development
+        - computational methods for short read classification
+        - identification of antibiotic resistance genes and mobile genetic elements
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Postdoctoral Research Associate
+      time: 2016 - 2017
+      company: University of Liverpool
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Designing analysis pipelines, software and computational workflows 
+        to analyse, visualise and store large-scale genomic and transcriptomic 
+        data.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Trainee Clinical Scientist
+      time: 2015 - 2016
+      company: National Health Service
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Utilising bioinformatics and genomic sequencing to facilitate the 
+        identification of pathogenic variants in patient genome data.
 
-          - Bullet point
-          - Bullet point
+skills:
+    title: Skills &amp; Achievements
+    toolset:
+      - name: Programming
+        list: Go, C, Python, BASH
+        level: 90%
+
+      - name: Reproducibility
+        list: LSF, NextFlow, Conda, git 
+        level: 90%
+
+      - name: Visualisation
+        list: Jupyter, R, MatLab
+        level: 85%
+
+      - name: Web design
+        list: HTML5, CSS, Django, JS
+        level: 85%
+
+      - name: Cloud computing
+        list: Docker, AWS
+        level: 75%
+
+      - name: Machine Learning
+        list: RF, ANN, regression etc.
+        level: 60%
+
+publications:
+    title: Publications
+    intro: >
+      First author (and co-first author) publications are in bold. Please visit [Google Scholar](https://scholar.google.co.uk/citations?user=sVMdRQMAAAAJ&hl=en) for the most current list.
+
+    papers:
+      - title: The diversity, evolution and ecology of Salmonella in venomous snakes
+        authors: Caisey Victoria Pulford, Nicolas Wenner, Martha L Redway, Ella V Rodwell, Hermione J Webster, Roberta Escudero, Carsten Kröger, Rocío Canals, Will Rowe, Javier Lopez, Neil Hall, Paul D Rowley, Dorina Timofte, Robert A Harrison, Kate S Baker, Jay C. D. Hinton
+        conference: bioRxiv. 2019
+
+      - title: A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes
+        authors: Anna Paola Carrieri, <strong>Will Rowe</strong>, Martyn D Winn, Edward O Pyzer-Knapp
+        conference: IAAI. 2019
+
+      - title: Adding function to the genome of African Salmonella Typhimurium ST313 strain D23580
+        authors: Rocío Canals, Disa L Hammarlöf, Carsten Kröger, Siân V Owen, Wai Yee Fong, Lizeth Lacharme-Lora, Xiaojun Zhu, Nicolas Wenner, Sarah E Carden, Jared Honeycutt, Denise M Monack, Robert A Kingsley, Philip Brownridge, Roy R Chaudhuri, Will Rowe, Alexander V Predeus, Karsten Hokamp, Melita A Gordon, Jay CD Hinton
+        conference: PLoS biology. 2019
+
+      - title: Streaming histogram sketching for rapid microbiome analytics
+        authors: <strong>Will Rowe</strong>, Anna Paola Carrieri, Cristina Alcon-Giner, Shabhonam Caim, Alex Shaw, Kathleen Sim, J Simon Kroll, Lindsay Hall, Edward O Pyzer-Knapp, Martyn D Winn
+        conference: bioRxiv. 2018
+
+      - title: Indexed variation graphs for efficient and accurate resistome profiling
+        authors: <strong>Will Rowe</strong>, Martyn Winn
+        conference: Bioinformatics. 2018
+
+      - title: Public health surveillance in the UK revolutionises our understanding of the invasive Salmonella Typhimurium epidemic in Africa
+        authors: Philip M Ashton, Siân V Owen, Lukeki Kaindama, Will Rowe, Chris R Lane, Lesley Larkin, Satheesh Nair, Claire Jenkins, Elizabeth M de Pinna, Nicholas A Feasey, Jay CD Hinton, Timothy J Dallman
+        conference: Genome medicine. 2017
+
+      - title: Detection of the florfenicol resistance gene floR in Chryseobacterium isolates from rainbow trout. Exception to the general rule?
+        authors: David W Verner-Jeffreys, Thomas Brazier, Ramon Y Perez, David Ryder, Roderick M Card, Timothy J Welch, Rowena Hoare, Thao Ngo, Nikki McLaren, Richard Ellis, Kerry L Bartie, Stephen W Feist, Will Rowe, Alexandra Adams, Kim D Thompson
+        conference: FEMS microbiology ecology. 2017
+
+      - title: Overexpression of antibiotic resistance genes in hospital effluents over time
+        authors: <strong>Will Rowe</strong>, Craig Baker-Austin, David W Verner-Jeffreys, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
+        conference: Journal of Antimicrobial Chemotherapy. 2017
+
+      - title: Comparative metagenomics reveals a diverse range of antimicrobial resistance genes in effluents entering a river catchment
+        authors: <strong>Will Rowe</strong>, David W Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
+        conference: Water Science and Technology. 2016
+
+      - title: "Search engine for antimicrobial resistance: a cloud compatible pipeline and web interface for rapidly detecting antimicrobial resistance genes directly from sequence data"
+        authors: <strong>Will Rowe</strong>, Kate S Baker, David Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan Maskell, Gareth Pearce
+        conference: PLoS One. 2015
+
+      - title: Host subtraction, filtering and assembly validations for novel viral discovery using next generation sequencing data
+        authors: Gordon M Daly, Richard M Leggett, Will Rowe, Samuel Stubbs, Maxim Wilkinson, Ricardo H Ramirez-Gonzalez, Mario Caccamo, William Bernal, Jonathan L Heeney
+        conference: PLoS One. 2015
+
+      - title: Post-transcriptional exon shuffling events in humans can be evolutionarily conserved and abundant
+        authors: Haya H Al-Balool, David Weber, Yilei Liu, Mark Wade, Kamlesh Guleria, Pitsien Lang Ping Nam, Jake Clayton, Will Rowe, Jonathan Coxhead, Julie Irving, David J Elliott, Andrew G Hall, Mauro Santibanez-Koref, Michael S Jackson
+        conference: "Genome research. 2011"
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/will-rowe) page.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: GROOT
+        link: "https://github.com/will-rowe/groot"
+        tagline: "a tool to type Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: HULK
+        link: "https://github.com/will-rowe/hulk"
+        tagline: "a tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: DRAX
+        link: "https://github.com/will-rowe/drax"
+        tagline: "A pipeline for Detecting Resistome Associated taXa"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
