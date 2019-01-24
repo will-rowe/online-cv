@@ -56,17 +56,23 @@ career-profile:
       I'm Will Rowe, a computational biologist 
       working in microbial genomics at UKRI.
 
+      I write software to analyse metagenomic data.
+      My main areas of interest are in identifying genetic
+      variation within microbiomes using variation graphs,
+      as well classifying microbiome samples using
+      data sketching methods and machine learning.
+
 experiences:
     - role: Computational biologist
       time: 2017 - Present
       company: UK Research and Innovation
       details: |
-        Developing and implementing algorithms on HPC systems for the 
+        Developing and implementing algorithms for the 
         analysis of genomic and metagenomic data.
         Projects include:
-        - metagenomic pipeline development
-        - computational methods for short read classification
+        - computational methods for microbiome classification tasks
         - identification of antibiotic resistance genes and mobile genetic elements
+        - metagenomic pipeline development
 
     - role: Postdoctoral Research Associate
       time: 2016 - 2017
