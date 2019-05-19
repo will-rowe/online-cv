@@ -134,14 +134,14 @@ publications:
 
       - title: "The diversity, evolution and ecology of Salmonella in venomous snakes"
         authors: Caisey Victoria Pulford, Nicolas Wenner, Martha L Redway, Ella V Rodwell, Hermione J Webster, Roberta Escudero, Carsten Kröger, Rocío Canals, <strong>Will Rowe</strong>, Javier Lopez, Neil Hall, Paul D Rowley, Dorina Timofte, Robert A Harrison, Kate S Baker, Jay C. D. Hinton
-        conference: PLOS Neglected Tropical Diseases. 2019
+        conference: PLOS Neglected Tropical Diseases (in press). 2019
 
       - title: "A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes"
         authors: Anna Paola Carrieri, <strong>Will Rowe*</strong>, Martyn D Winn, Edward O Pyzer-Knapp
         conference: IAAI. 2019
 
       - title: "Streaming histogram sketching for rapid microbiome analytics"
-        authors: <strong>Will Rowe</strong>, Anna Paola Carrieri, Cristina Alcon-Giner, Shabhonam Caim, Alex Shaw, Kathleen Sim, J Simon Kroll, Lindsay Hall, Edward O Pyzer-Knapp, Martyn D Winn
+        authors: <strong>Will Rowe*</strong>, Anna Paola Carrieri, Cristina Alcon-Giner, Shabhonam Caim, Alex Shaw, Kathleen Sim, J Simon Kroll, Lindsay Hall, Edward O Pyzer-Knapp, Martyn D Winn
         conference: Microbiome. 2019
 
       - title: "Adding function to the genome of African Salmonella Typhimurium ST313 strain D23580"
