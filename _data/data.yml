@@ -183,8 +183,8 @@ publications:
 teaching:
   title: Teaching  &amp; Engagement
   uni:
-    - name: Genomics Masters course
-      description: designed and taught content (lectures and workshops) for the LIFE708 Masters degree at the University of Liverpool
+    - name: Genomics Masters module
+      description: designed and taught content (lectures and workshops) for a module of the LIFE708 Masters degree at the University of Liverpool
       date: 2017
   engagement:
     - name: Bioinformatics workshops
@@ -214,7 +214,7 @@ teaching:
       date: 2016
 
 skills:
-    title: Skills &amp; Achievements 
+    title: Skills
     toolset:
       - name: Programming
         list: Go, C, Python, BASH
