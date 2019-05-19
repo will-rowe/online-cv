@@ -1,0 +1,73 @@
+{% assign teaching = site.data.data.teaching %}
+{% if teaching %}
+<section class="section publications-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ teaching.title }}
+  </h2>
+
+  <div class="skillset">
+      <div class="item">
+          <div class="meta">
+            <div class="upper-row">
+              <h3 class="job-title">TEACHING:</h3>
+            </div>
+          </div>
+        </div>
+        {% for item in teaching.uni %}
+        <div class="item">
+          <div class="upper-row">
+            <h3 class="level-title">{{ item.name }}</h3>
+            <div class="time">{{ item.date }}</div>
+          </div>
+          <div class="company">{{ item.description }}</div>
+         </div>
+        {% endfor %}
+    </div>
+    <hr/>
+
+    <div class="skillset">
+        <div class="item">
+            <div class="meta">
+              <div class="upper-row">
+                <h3 class="job-title">ENGAGEMENT:</h3>
+              </div>
+            </div>
+          </div>
+          {% for item in teaching.engagement %}
+          <div class="item">
+            <div class="upper-row">
+              <h3 class="level-title">{{ item.name }}</h3>
+              <div class="time">{{ item.date }}</div>
+            </div>
+            <div class="company">{{ item.description }}</div>
+           </div>
+          {% endfor %}
+      </div>
+      <hr/>
+
+      <div class="skillset">
+          <div class="item">
+              <div class="meta">
+                <div class="upper-row">
+                  <h3 class="job-title">SPEAKING:</h3>
+                </div>
+              </div>
+            </div>
+            {% for item in teaching.speaking %}
+            <div class="item">
+              <div class="upper-row">
+                <h3 class="level-title">{{ item.name }}</h3>
+                <div class="time">{{ item.date }}</div>
+              </div>
+              <div class="company">{{ item.description }}</div>
+             </div>
+            {% endfor %}
+        </div>
+
+
+</section><!--//section-->
+{% endif %}

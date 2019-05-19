@@ -1,30 +1,25 @@
 {% assign skills = site.data.data.skills %}
 {% if skills %}
 <section class="skills-section section">
-
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ skills.title }}
-  </h2>
-
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ skills.title }}
+    </h2>
 
   <div class="skillset">
-
       <div class="item">
           <div class="meta">
             <div class="upper-row">
-              <h3 class="job-title">COMPUTING</h3>
+              <h3 class="job-title">COMPUTING:</h3>
             </div>
           </div>
         </div>
-
     {% for skill in skills.toolset %}
     <div class="item">
       <h3 class="level-title">{{ skill.name }}:<br/><div class="company">{{ skill.list }}</div></h3>
-
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
@@ -32,71 +27,5 @@
     </div><!--//item-->
     {% endfor %}
   </div>
-
-  <hr/>
-
-  <div class="skillset">
-    <div class="item">
-        <div class="meta">
-          <div class="upper-row">
-            <h3 class="job-title">PROJECT &amp; GRANT MANAGEMENT</h3>
-          </div>
-        </div>
-      </div>
-      <div class="item">
-        <div class="upper-row">
-          <h3 class="level-title">GlaxoSmithKline</h3>
-          <div class="time">£24000</div>
-        </div>
-        <div class="company">competitively awarded during PhD</div>
-      </div>
-      <div class="item">
-          <div class="upper-row">
-            <h3 class="level-title">GlaxoSmithKline</h3>
-            <div class="time">£10000</div>
-          </div>
-          <div class="company">competitively awarded during PhD</div>
-      </div>
-      <div class="item">
-          <div class="upper-row">
-            <h3 class="level-title">Institute of Integrative Biology</h3>
-            <div class="time">£4000</div>
-          </div>
-          <div class="company">competitively awarded during PostDoc</div>
-      </div>
-  </div>
-
-  <hr/>
-
-  <div class="skillset">
-    <div class="item">
-        <div class="meta">
-          <div class="upper-row">
-            <h3 class="job-title">TEACHING &amp; ENGAGEMENT</h3>
-          </div>
-        </div>
-      </div>
-      <div class="item">
-        <div class="upper-row">
-          <h3 class="level-title">Teaching</h3>
-        </div>
-        <div class="company">design and delivery of Genomic Science lectures and workshops (LIFE708 - Uni. of Liverpool)</div>
-      </div>
-      <div class="item">
-          <div class="upper-row">
-            <h3 class="level-title">Seminars</h3>
-          </div>
-          <div class="company">initated and ran weekly bioinformatics seminar series (Uni. of Liverpool)</div>
-      </div>
-      <div class="item">
-        <div class="upper-row">
-          <h3 class="level-title">Speaking</h3>
-        </div>
-        <div class="company">Genome Science 2018, COMMET 2017 (invited), BSAC 2015, MicroBioSoc 2014</div>
-      </div>
-  </div>
-
-
-
 </section><!--//skills-section-->
 {% endif %}

@@ -53,8 +53,7 @@ education:
 career-profile:
     title: Career Profile
     summary: |
-      I'm Will Rowe, a computational biologist 
-      working in microbial genomics at UKRI.
+      I'm Will Rowe, a computational biologist working in microbial genomics.
 
       I write software to analyse metagenomic data.
       My main areas of interest are in identifying genetic
@@ -89,8 +88,133 @@ experiences:
         Utilising bioinformatics and genomic sequencing to facilitate the 
         identification of pathogenic variants in patient genome data.
 
+publications:
+    title: Grants, Software &amp; Publications
+
+    grants:
+      - description: BBSRC (CoI)
+        amount: £724612
+        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
+
+      - description: Dragons Den funding
+        amount: £4000
+        notes:  Institute of Integrative Biology funding scheme; competitively awarded during PostDoc
+
+      - description: GlaxoSmithKline
+        amount: £34000
+        notes: 2 rounds of competitive funding, awarded during PhD
+
+    software-intro: >
+      Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/will-rowe) page.
+
+    software:
+      - title: Baby GROOT
+        link: "https://github.com/will-rowe/baby-groot"
+        description: "appromiately weighted variation graphs for haplotype identification"
+
+      - title: GROOT
+        link: "https://github.com/will-rowe/groot"
+        description: "a tool to type Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
+
+      - title: HULK
+        link: "https://github.com/will-rowe/hulk"
+        description: "a tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
+
+      - title: DRAX
+        link: "https://github.com/will-rowe/drax"
+        description: "A pipeline for Detecting Resistome Associated taXa"
+
+    papers-intro: >
+      Co-first author publications are indicated by *. Please visit [Google Scholar](https://scholar.google.co.uk/citations?user=sVMdRQMAAAAJ&hl=en) for the most current list.
+
+    papers:
+      - title: "When The Levee Breaks: a practical guide to sketching algorithms for processing the flood of genomic data"
+        authors: <strong>Will Rowe</strong>
+        conference: Genome Biology (agreed review; under review). 2019
+
+      - title: "The diversity, evolution and ecology of Salmonella in venomous snakes"
+        authors: Caisey Victoria Pulford, Nicolas Wenner, Martha L Redway, Ella V Rodwell, Hermione J Webster, Roberta Escudero, Carsten Kröger, Rocío Canals, <strong>Will Rowe</strong>, Javier Lopez, Neil Hall, Paul D Rowley, Dorina Timofte, Robert A Harrison, Kate S Baker, Jay C. D. Hinton
+        conference: PLOS Neglected Tropical Diseases. 2019
+
+      - title: "A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes"
+        authors: Anna Paola Carrieri, <strong>Will Rowe*</strong>, Martyn D Winn, Edward O Pyzer-Knapp
+        conference: IAAI. 2019
+
+      - title: "Streaming histogram sketching for rapid microbiome analytics"
+        authors: <strong>Will Rowe</strong>, Anna Paola Carrieri, Cristina Alcon-Giner, Shabhonam Caim, Alex Shaw, Kathleen Sim, J Simon Kroll, Lindsay Hall, Edward O Pyzer-Knapp, Martyn D Winn
+        conference: Microbiome. 2019
+
+      - title: "Adding function to the genome of African Salmonella Typhimurium ST313 strain D23580"
+        authors: Rocío Canals, Disa L Hammarlöf, Carsten Kröger, Siân V Owen, Wai Yee Fong, Lizeth Lacharme-Lora, Xiaojun Zhu, Nicolas Wenner, Sarah E Carden, Jared Honeycutt, Denise M Monack, Robert A Kingsley, Philip Brownridge, Roy R Chaudhuri, <strong>Will Rowe</strong>, Alexander V Predeus, Karsten Hokamp, Melita A Gordon, Jay CD Hinton
+        conference: PLoS biology. 2019
+
+      - title: "Indexed variation graphs for efficient and accurate resistome profiling"
+        authors: <strong>Will Rowe</strong>, Martyn Winn
+        conference: Bioinformatics. 2018
+
+      - title: "Public health surveillance in the UK revolutionises our understanding of the invasive Salmonella Typhimurium epidemic in Africa"
+        authors: Philip M Ashton, Siân V Owen, Lukeki Kaindama, <strong>Will Rowe</strong>, Chris R Lane, Lesley Larkin, Satheesh Nair, Claire Jenkins, Elizabeth M de Pinna, Nicholas A Feasey, Jay CD Hinton, Timothy J Dallman
+        conference: Genome medicine. 2017
+
+      - title: Detection of the florfenicol resistance gene floR in Chryseobacterium isolates from rainbow trout. Exception to the general rule?
+        authors: David W Verner-Jeffreys, Thomas Brazier, Ramon Y Perez, David Ryder, Roderick M Card, Timothy J Welch, Rowena Hoare, Thao Ngo, Nikki McLaren, Richard Ellis, Kerry L Bartie, Stephen W Feist, <strong>Will Rowe</strong>, Alexandra Adams, Kim D Thompson
+        conference: FEMS microbiology ecology. 2017
+
+      - title: Overexpression of antibiotic resistance genes in hospital effluents over time
+        authors: <strong>Will Rowe</strong>, Craig Baker-Austin, David W Verner-Jeffreys, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
+        conference: Journal of Antimicrobial Chemotherapy. 2017
+
+      - title: Comparative metagenomics reveals a diverse range of antimicrobial resistance genes in effluents entering a river catchment
+        authors: <strong>Will Rowe</strong>, David W Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
+        conference: Water Science and Technology. 2016
+
+      - title: "Search engine for antimicrobial resistance: a cloud compatible pipeline and web interface for rapidly detecting antimicrobial resistance genes directly from sequence data"
+        authors: <strong>Will Rowe</strong>, Kate S Baker, David Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan Maskell, Gareth Pearce
+        conference: PLoS One. 2015
+
+      - title: Host subtraction, filtering and assembly validations for novel viral discovery using next generation sequencing data
+        authors: Gordon M Daly, Richard M Leggett, <strong>Will Rowe</strong>, Samuel Stubbs, Maxim Wilkinson, Ricardo H Ramirez-Gonzalez, Mario Caccamo, William Bernal, Jonathan L Heeney
+        conference: PLoS One. 2015
+
+      - title: Post-transcriptional exon shuffling events in humans can be evolutionarily conserved and abundant
+        authors: Haya H Al-Balool, David Weber, Yilei Liu, Mark Wade, Kamlesh Guleria, Pitsien Lang Ping Nam, Jake Clayton, <strong>Will Rowe</strong>, Jonathan Coxhead, Julie Irving, David J Elliott, Andrew G Hall, Mauro Santibanez-Koref, Michael S Jackson
+        conference: Genome research. 2011
+
+teaching:
+  title: Teaching  &amp; Engagement
+  uni:
+    - name: Genomics Masters course
+      description: designed and taught content (lectures and workshops) for the LIFE708 Masters degree at the University of Liverpool
+      date: 2017
+  engagement:
+    - name: Bioinformatics workshops
+      description: organised and ran weekly bioinformatics workshops at the Institute of Integrative Biology
+      date: 2016-2018
+    - name: HiPy
+      description: assisted at university-wide Python workshops as an instructor
+      date: 2016-2018
+  speaking:
+    - name: ABPHM conference
+      description: oral talk
+      date: 2019
+    - name: Doherty Inst. Melbourne
+      description: invited seminar
+      date: 2018
+    - name: SMBE Genome Evolution in Pathogen Transmission and Disease conference
+      description: lightning talk
+      date: 2018
+    - name: Genome Science conference
+      description: oral talk
+      date: 2018
+    - name: COMMET conference
+      description: invited oral talk
+      date: 2017
+    - name: BSAC conference
+      description: oral talk
+      date: 2016
+
 skills:
-    title: Skills &amp; Achievements
+    title: Skills &amp; Achievements 
     toolset:
       - name: Programming
         list: Go, C, Python, BASH
@@ -115,76 +239,3 @@ skills:
       - name: Machine Learning
         list: RF, ANN, regression etc.
         level: 60%
-
-publications:
-    title: Publications
-    intro: >
-      First author (and co-first author) publications are in bold. Please visit [Google Scholar](https://scholar.google.co.uk/citations?user=sVMdRQMAAAAJ&hl=en) for the most current list.
-
-    papers:
-      - title: The diversity, evolution and ecology of Salmonella in venomous snakes
-        authors: Caisey Victoria Pulford, Nicolas Wenner, Martha L Redway, Ella V Rodwell, Hermione J Webster, Roberta Escudero, Carsten Kröger, Rocío Canals, Will Rowe, Javier Lopez, Neil Hall, Paul D Rowley, Dorina Timofte, Robert A Harrison, Kate S Baker, Jay C. D. Hinton
-        conference: bioRxiv. 2019
-
-      - title: A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes
-        authors: Anna Paola Carrieri, <strong>Will Rowe</strong>, Martyn D Winn, Edward O Pyzer-Knapp
-        conference: IAAI. 2019
-
-      - title: Adding function to the genome of African Salmonella Typhimurium ST313 strain D23580
-        authors: Rocío Canals, Disa L Hammarlöf, Carsten Kröger, Siân V Owen, Wai Yee Fong, Lizeth Lacharme-Lora, Xiaojun Zhu, Nicolas Wenner, Sarah E Carden, Jared Honeycutt, Denise M Monack, Robert A Kingsley, Philip Brownridge, Roy R Chaudhuri, Will Rowe, Alexander V Predeus, Karsten Hokamp, Melita A Gordon, Jay CD Hinton
-        conference: PLoS biology. 2019
-
-      - title: Streaming histogram sketching for rapid microbiome analytics
-        authors: <strong>Will Rowe</strong>, Anna Paola Carrieri, Cristina Alcon-Giner, Shabhonam Caim, Alex Shaw, Kathleen Sim, J Simon Kroll, Lindsay Hall, Edward O Pyzer-Knapp, Martyn D Winn
-        conference: Microbiome. 2019
-
-      - title: Indexed variation graphs for efficient and accurate resistome profiling
-        authors: <strong>Will Rowe</strong>, Martyn Winn
-        conference: Bioinformatics. 2018
-
-      - title: Public health surveillance in the UK revolutionises our understanding of the invasive Salmonella Typhimurium epidemic in Africa
-        authors: Philip M Ashton, Siân V Owen, Lukeki Kaindama, Will Rowe, Chris R Lane, Lesley Larkin, Satheesh Nair, Claire Jenkins, Elizabeth M de Pinna, Nicholas A Feasey, Jay CD Hinton, Timothy J Dallman
-        conference: Genome medicine. 2017
-
-      - title: Detection of the florfenicol resistance gene floR in Chryseobacterium isolates from rainbow trout. Exception to the general rule?
-        authors: David W Verner-Jeffreys, Thomas Brazier, Ramon Y Perez, David Ryder, Roderick M Card, Timothy J Welch, Rowena Hoare, Thao Ngo, Nikki McLaren, Richard Ellis, Kerry L Bartie, Stephen W Feist, Will Rowe, Alexandra Adams, Kim D Thompson
-        conference: FEMS microbiology ecology. 2017
-
-      - title: Overexpression of antibiotic resistance genes in hospital effluents over time
-        authors: <strong>Will Rowe</strong>, Craig Baker-Austin, David W Verner-Jeffreys, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
-        conference: Journal of Antimicrobial Chemotherapy. 2017
-
-      - title: Comparative metagenomics reveals a diverse range of antimicrobial resistance genes in effluents entering a river catchment
-        authors: <strong>Will Rowe</strong>, David W Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan J Maskell, Gareth P Pearce
-        conference: Water Science and Technology. 2016
-
-      - title: "Search engine for antimicrobial resistance: a cloud compatible pipeline and web interface for rapidly detecting antimicrobial resistance genes directly from sequence data"
-        authors: <strong>Will Rowe</strong>, Kate S Baker, David Verner-Jeffreys, Craig Baker-Austin, Jim J Ryan, Duncan Maskell, Gareth Pearce
-        conference: PLoS One. 2015
-
-      - title: Host subtraction, filtering and assembly validations for novel viral discovery using next generation sequencing data
-        authors: Gordon M Daly, Richard M Leggett, Will Rowe, Samuel Stubbs, Maxim Wilkinson, Ricardo H Ramirez-Gonzalez, Mario Caccamo, William Bernal, Jonathan L Heeney
-        conference: PLoS One. 2015
-
-      - title: Post-transcriptional exon shuffling events in humans can be evolutionarily conserved and abundant
-        authors: Haya H Al-Balool, David Weber, Yilei Liu, Mark Wade, Kamlesh Guleria, Pitsien Lang Ping Nam, Jake Clayton, Will Rowe, Jonathan Coxhead, Julie Irving, David J Elliott, Andrew G Hall, Mauro Santibanez-Koref, Michael S Jackson
-        conference: "Genome research. 2011"
-
-projects:
-    title: Projects
-    intro: >
-      Here are a selection of my most recent projects. Please click on the links to find out more or visit my [GitHub](https://github.com/will-rowe) page.
-
-    assignments:
-      - title: GROOT
-        link: "https://github.com/will-rowe/groot"
-        tagline: "a tool to type Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
-
-      - title: HULK
-        link: "https://github.com/will-rowe/hulk"
-        tagline: "a tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
-
-      - title: DRAX
-        link: "https://github.com/will-rowe/drax"
-        tagline: "A pipeline for Detecting Resistome Associated taXa"
-

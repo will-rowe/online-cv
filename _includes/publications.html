@@ -10,12 +10,67 @@
     {{ publications.title }}
   </h2>
 
-  {% if publications.intro %}
-  <div class="intro">
-    {{ publications.intro | markdownify }}
-  </div><!--//intro-->
-  {% endif %}
+  {% if publications.grants %}
+  <div class="skillset">
+      <div class="item">
+          <div class="meta">
+            <div class="upper-row">
+              <h3 class="job-title">GRANTS:</h3>
+            </div>
+          </div>
+        </div>
+        {% for grant in publications.grants %}
+        <div class="item">
+          <div class="upper-row">
+            <h3 class="level-title">{{ grant.description }}</h3>
+            <div class="time">{{ grant.amount }}</div>
+          </div>
+          <div class="company">{{ grant.notes }}</div>
+         </div>
+        {% endfor %}
+    </div>
+    <hr/>
+    {% endif %}
 
+    {% if publications.software %}
+    <div class="skillset">
+        <div class="item">
+            <div class="meta">
+              <div class="upper-row">
+                <h3 class="job-title">SOFTWARE:</h3>
+              </div>
+            </div>
+          </div>
+          {% if publications.software-intro %}
+          <div class="intro">
+            {{ publications.software-intro | markdownify }}
+          </div>
+          {% endif %}
+          {% for software in publications.software %}
+          <div class="item">
+            <div class="upper-row">
+              <h3 class="level-title">{{ software.title }}</h3>
+              <div class="time"><a href="{{ software.link }}">view code</a></div>
+            </div>
+            <div class="company">{{ software.description }}</div>
+           </div>
+          {% endfor %}
+      </div>
+      <hr/>
+      {% endif %}
+
+    <div class="item">
+        <div class="meta">
+          <div class="upper-row">
+            <h3 class="job-title">PUBLICATIONS:</h3>
+          </div>
+        </div>
+      </div>
+      {% if publications.papers-intro %}
+      <div class="intro">
+        {{ publications.papers-intro | markdownify }}
+      </div>
+      {% endif %}
   {% for publication in publications.papers %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
