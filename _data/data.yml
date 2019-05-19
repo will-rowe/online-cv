@@ -194,23 +194,23 @@ teaching:
       description: assisted at university-wide Python workshops as an instructor
       date: 2016-2018
   speaking:
-    - name: ABPHM conference
-      description: oral talk
+    - name: ABPHM
+      description: oral talk at the Applied Bioinformatics & Public Health Microbiology conference
       date: 2019
-    - name: Doherty Inst. Melbourne
-      description: invited seminar
+    - name: Doherty Institute
+      description: invited seminar at the Doherty Institute, University of Melbourne
       date: 2018
-    - name: SMBE Genome Evolution in Pathogen Transmission and Disease conference
-      description: lightning talk
+    - name: Society for Molecular Biology & Evolution
+      description: lightning talk for the Genome Evolution in Pathogen Transmission and Disease conference Kyoto
       date: 2018
-    - name: Genome Science conference
-      description: oral talk
+    - name: Genome Science
+      description: oral talk for the Genome Science conference
       date: 2018
-    - name: COMMET conference
-      description: invited oral talk
+    - name: COMMET
+      description: invited oral talk for Community Network in Metagenomics conference
       date: 2017
     - name: BSAC conference
-      description: oral talk
+      description: oral talk for British Society of Antimicrobial Chemotherapy confernce
       date: 2016
 
 skills:
