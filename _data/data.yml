@@ -8,8 +8,8 @@ sidebar:
     tagline: Computational Biologist
     avatar: profile.png
     # Sidebar links
-    email: will.rowe@stfc.ac.uk
-    website: will-rowe.github.io
+    email: w.rowe@bham.ac.uk
+    website: willrowe.net
     linkedin: will-rowe-13219b136
     github: will-rowe
     twitter: '@wil_rowe'
@@ -62,13 +62,21 @@ career-profile:
       data sketching methods and machine learning.
 
 experiences:
+    - role: Postdoctoral Research Associate
+      time: 2019 - present
+      company: University of Birmingham
+      details: |
+        Working in the [Loman Lab](https://lab.loman.net/) on the [ARTIC network](http://artic.network/) project.
+        Projects include:
+        - developing software for real-time molecular epidemiology
+
     - role: Computational biologist
-      time: 2017 - Present
+      time: 2017 - 2019
       company: UK Research and Innovation
       details: |
         Developing and implementing algorithms for the 
         analysis of genomic and metagenomic data.
-        Projects include:
+        Projects included:
         - computational methods for microbiome classification tasks
         - identification of antibiotic resistance genes and mobile genetic elements
         - metagenomic pipeline development
@@ -130,11 +138,11 @@ publications:
     papers:
       - title: "When The Levee Breaks: a practical guide to sketching algorithms for processing the flood of genomic data"
         authors: <strong>Will Rowe</strong>
-        conference: Genome Biology (agreed review; under review). 2019
+        conference: Genome Biology. 2019
 
       - title: "The diversity, evolution and ecology of Salmonella in venomous snakes"
         authors: Caisey Victoria Pulford, Nicolas Wenner, Martha L Redway, Ella V Rodwell, Hermione J Webster, Roberta Escudero, Carsten Kröger, Rocío Canals, <strong>Will Rowe</strong>, Javier Lopez, Neil Hall, Paul D Rowley, Dorina Timofte, Robert A Harrison, Kate S Baker, Jay C. D. Hinton
-        conference: PLOS Neglected Tropical Diseases (in press). 2019
+        conference: PLOS Neglected Tropical Diseases. 2019
 
       - title: "A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole Shotgun Metagenomes"
         authors: Anna Paola Carrieri, <strong>Will Rowe*</strong>, Martyn D Winn, Edward O Pyzer-Knapp
