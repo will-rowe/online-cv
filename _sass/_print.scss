@@ -4,37 +4,35 @@
 * @lastmodified    16.06.2016
 */
 
-
 @media print {
-   @page {
-      size: A4;
-      width: 100%; 
-      margin: 1cm; 
-      float: none;
-      -webkit-print-color-adjust: exact !important;
-      color-adjust: exact;
-   }
-   body {
-       font-size: 12pt;
-   }
-   a {
-       page-break-inside:avoid
-   }
-   a[href]:after {
-      content: none !important;
+    @page {
+        size: A4;
+        width: 100%;
+        margin: 1cm;
+        float: none;
+        -webkit-print-color-adjust: exact !important;
+        color-adjust: exact;
     }
-   .sidebar-wrapper {
-      position: static;
-      float: right;
-      width: 35%;
-      -webkit-print-color-adjust: exact; 
+    body {
+        font-size: 12pt;
+    }
+    a {
+        page-break-inside: avoid
+    }
+    a[href]:after {
+        content: none !important;
+    }
+    .sidebar-wrapper {
+        position: static;
+        float: right;
+        width: 30%;
+        -webkit-print-color-adjust: exact;
     }
     .skillset .level-bar-inner {
-      background-color: black !important;
-      -webkit-print-color-adjust: exact; 
-   }
-
-   footer {
-    display: none;
-   }
+        background-color: black !important;
+        -webkit-print-color-adjust: exact;
+    }
+    footer {
+        display: none;
+    }
 }

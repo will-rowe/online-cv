@@ -1,83 +1,104 @@
-{% assign publications = site.data.data.publications %}
-{% if publications %}
+{% assign publications = site.data.info.publications %} {% if publications %}
 <section class="section publications-section">
+    <h2 class="section-title" id={{ publications.slug }}>
+        <span class="fa-stack fa-xs">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+        </span> {{ publications.title }}
+    </h2>
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title }}
-  </h2>
-
-  {% if publications.grants %}
-  <div class="skillset">
-      <div class="item">
-          <div class="meta">
-            <div class="upper-row">
-              <h3 class="job-title">GRANTS:</h3>
-            </div>
-          </div>
-        </div>
-        {% for grant in publications.grants %}
-        <div class="item">
-          <div class="upper-row">
-            <h3 class="level-title">{{ grant.description }}</h3>
-            <div class="time">{{ grant.amount }}</div>
-          </div>
-          <div class="company">{{ grant.notes }}</div>
-         </div>
-        {% endfor %}
-    </div>
-    <hr/>
-    {% endif %}
-
-    {% if publications.software %}
-    <div class="skillset">
-        <div class="item">
-            <div class="meta">
-              <div class="upper-row">
-                <h3 class="job-title">SOFTWARE:</h3>
-              </div>
-            </div>
-          </div>
-          {% if publications.software-intro %}
-          <div class="intro">
-            {{ publications.software-intro | markdownify }}
-          </div>
-          {% endif %}
-          {% for software in publications.software %}
-          <div class="item">
-            <div class="upper-row">
-              <h3 class="level-title">{{ software.title }}</h3>
-              <div class="time"><a href="{{ software.link }}">view code</a></div>
-            </div>
-            <div class="company">{{ software.description }}</div>
-           </div>
-          {% endfor %}
-      </div>
-      <hr/>
-      {% endif %}
-
+    <!--- GRANTS --->
+    {% assign funding = publications.funding %} {% if funding %}
     <div class="item">
         <div class="meta">
-          <div class="upper-row">
-            <h3 class="job-title">PUBLICATIONS:</h3>
-          </div>
+            <div class="upper-row">
+                <h3 class="level-title">{{ funding.title }}</h3>
+            </div>
         </div>
-      </div>
-      {% if publications.papers-intro %}
-      <div class="intro">
-        {{ publications.papers-intro | markdownify }}
-      </div>
-      {% endif %}
-  {% for publication in publications.papers %}
-  <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
+        {% if funding.introduction %}
+        <div class=" intro ">
+            {{ funding.introduction | markdownify }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="skillset">
+        {% for grant in funding.grants %}
+        <div class="item">
+            <div class="upper-row">
+                <h3 class="level-title">{{ grant.description }}</h3>
+                <div class="time">{{ grant.amount }}</div>
+            </div>
+            <div class="company">{{ grant.notes }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    <hr /> {% endif %}
+    <!--- //GRANTS --->
 
-</section><!--//section-->
+    <!--- PAPERS -->
+    {% assign scholar = site.data.googleScholar %} {% if scholar.papers %}
+    <div class="item ">
+        <div class="meta ">
+            <div class="upper-row ">
+                <h3 class="level-title ">{{ scholar.title }}</h3>
+            </div>
+        </div>
+        {% if scholar.introduction %}
+        <div class="intro ">
+            {{ scholar.introduction | markdownify }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="skillset">
+        {% for paper in scholar.papers %}
+        <div class="item ">
+            <div class="publication-title ">{{ paper.title }}</div>
+            <div class="publication-authors ">{{ paper.authors }}</div>
+            <div class="publication-conference ">{{ paper.journal }} - <a href={{ paper.link }}>abstract</a></div>
+        </div>
+        {% endfor %}
+    </div>
+    <hr /> {% endif %}
+    <!---//PAPERS -->
+
+    <!--- SOFTWARE --->
+    {% assign software = publications.software %} {% if software %}
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3 class="level-title">{{ software.title }}</h3>
+            </div>
+        </div>
+        {% if software.introduction %}
+        <div class=" intro ">
+            {{ software.introduction | markdownify }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="skillset">
+        {% for repo in software.repos %}
+        <div class="item ">
+            <div class="upper-row ">
+                <h3 class="level-title ">{{ repo.title }}</h3>
+                <div class="time "><a href="{{ repo.link }} ">view code</a></div>
+            </div>
+            <div class="company ">{{ repo.description }}</div>
+            <div class="publication-conference ">
+                {% if repo.github %}
+                <img src="https://img.shields.io/github/stars/{{ repo.github }}" alt="GitHub stars">
+                <img src="https://img.shields.io/github/languages/top/{{ repo.github }}" alt="GitHub top language">
+                <img src="https://img.shields.io/github/last-commit/{{ repo.github }}" alt="GitHub last commit"> {% endif %}
+                <!---{% if repo.zenodo %}<a href="https://zenodo.org/badge/latestdoi/{{ repo.zenodo }} "><img src="https://zenodo.org/badge/{{ repo.zenodo }}.svg " alt="DOI "></a>{% endif %}--->
+                {% if repo.conda %}
+                <a href="https://bioconda.github.io/recipes/{{ repo.conda }}/README.html "><img src="https://anaconda.org/bioconda/{{ repo.conda }}/badges/downloads.svg " alt="bioconda "></a>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <hr /> {% endif %}
+    <!--- //SOFTWARE --->
+
+</section>
+<!--//section-->
 {% endif %}

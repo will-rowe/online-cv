@@ -1,26 +1,49 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign sidebar = site.data.info.sidebar %}
 <div class="sidebar-wrapper">
 
-  <div class="profile-container">
+    <div class="profile-container">
 
-    {% if sidebar.name %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
-    {% endif %}
+        {% if sidebar.name %}
+        <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" /> {% endif %} {% if sidebar.name %}
+        <h1 class="name">{{ sidebar.name }}</h1>
+        {% endif %} {% if sidebar.tagline %}
+        <h3 class="tagline">{{ sidebar.tagline }}</h3>
+        {% endif %}
 
-    {% if sidebar.name %}
-    <h1 class="name">{{ sidebar.name }}</h1>
-    {% endif %}
+    </div>
+    <!--//profile-container-->
 
-    {% if sidebar.tagline %}
-    <h3 class="tagline">{{ sidebar.tagline }}</h3>
-    {% endif %}
+    <ul class="list-unstyled interests-list">
+        {% for interest in interests %} {% if interest.link %}
+        <li><a href="{{ interest.link }}" target="_blank">{{ interest.item }}</a></li>
+        {% else %}
+        <li>{{ interest.item }}</li>
+        {% endif %} {% endfor %}
+    </ul>
 
-  </div><!--//profile-container-->
 
-  {% include contact.html %}
+    <div class="interests-container container-block">
+        <h2 class="container-block-title">
+            Quick Links
+        </h2>
+        {% assign career = site.data.info.career-profile %} {% assign experience = site.data.info.experience %} {% assign publications = site.data.info.publications %} {% assign teaching = site.data.info.teaching %} {% assign skills = site.data.info.skills %}
+        <ul class="list-unstyled interests-list">
 
-  {% include education.html %}
+            {% if experience.slug %}
+            <li><a href=#{{ experience.slug }}>{{ experience.title }}</a></li>
+            {% endif %} {% if publications.slug %}
+            <li><a href=#{{ publications.slug }}>{{ publications.title }}</a></li>
+            {% endif %} {% if teaching.slug %}
+            <li><a href=#{{ teaching.slug }}>{{ teaching.title }}</a></li>
+            {% endif %} {% if skills.slug %}
+            <li><a href=#{{ skills.slug }}>{{ skills.title }}</a></li>
+            {% endif %}
 
-  {% include interests.html %}
+        </ul>
+    </div>
+    <!--//toc-container-->
 
-</div><!--//sidebar-wrapper-->
+    {% include contact.html %} {% include education.html %} {% include interests.html %}
+
+</div>
+<!--//sidebar-wrapper-->

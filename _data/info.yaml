@@ -1,0 +1,310 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  # Profile information
+  name: Will Rowe
+  tagline: Computational Biologist
+  avatar: profile.png
+  # Sidebar links
+  email: w.rowe@bham.ac.uk
+  website: willrowe.net
+  linkedin: will-rowe-13219b136
+  github: will-rowe
+  twitter: "@wil_rowe"
+
+  languages:
+    - idiom: English
+      level: Native
+
+    - idiom: Spanish
+      level: GCSE
+
+  interests:
+    - item: Guitar playing
+      link: https://www.youtube.com/watch?v=2RsqfuvBddY
+
+    - item: Rowing
+      link:
+
+    - item: Cooking
+      link:
+
+  education: True
+
+education:
+  - degree: PhD in Microbial Genomics
+    university: University of Cambridge
+    time: 2011 - 2015
+    details: |
+      Magdalene College, Cambridge, CB3 0AG
+
+      ‘Monitoring antibiotic resistance genes in the aquatic environment’
+
+  - degree: BSc in Human Genetics (2.i)
+    university: Newcastle University
+    time: 2007 - 2010
+    details: |
+      University of Newcastle, Newcastle upon Tyne, NE1 7RU 
+
+      Human Genetics (2.i)
+
+career-profile:
+  title: Career Profile
+  summary: |
+    I'm Will Rowe, a computational biologist currently working in in the [Loman Lab](https://lab.loman.net/) on the 
+    [ARTIC Network](http://artic.network/) and [COG-UK consortium](https://www.cogconsortium.uk/) projects.
+
+    I work on algorithmic bioinformatics and genomics. I develop algorithms for a range of applications; 
+    incorporating the latest advances in data sketching, machine learning and graph theory into my scientific 
+    software and biological research portfolio. I apply my algorithmic work to biological problems, such as: 
+    real-time genomic epidemiology of viral outbreaks, gene dynamics in the gut microbiome, and antimicrobial 
+    resistance gene surveillance. 
+
+    My future research strategy focusses on making large-scale genomic research accessible and tractable at 
+    pace with advances in sequencing technologies; and applying this to global public health problems such 
+    as antimicrobial resistance. This includes developing algorithms for indexing, augmenting and querying 
+    genomic data collections using tiered computing infrastructure; ranging from low-cost laptops, phones 
+    and chips, through to cloud and high-performance computing.
+
+    I’m a strong proponent of open science and will continue to release open source software, teaching materials and research.
+
+experience:
+  title: "Employment Record"
+  slug: "experience"
+  jobs:
+    - role: "Postdoctoral Research Associate"
+      time: "2019 - present"
+      institute: "Institute of Microbiology and Infection"
+      organisation: "University of Birmingham"
+      details:
+
+    - role: "Visiting scientist"
+      time: "2019 - present"
+      institute: "Science and Technology Facilities Council"
+      organisation: "UK Research and Innovation"
+      details:
+
+    - role: "Computational biologist"
+      time: "2017 - 2019"
+      institute: "Hartree Centre (IBM/Science and Technology Facilities Council)"
+      organisation: "UK Research and Innovation"
+      details:
+
+    - role: "Postdoctoral Research Associate"
+      time: "2016 - 2017"
+      institute: "Institute of Integrative Biology"
+      organisation: "University of Liverpool"
+      details:
+
+    - role: "Trainee Clinical Scientist"
+      time: "2015 - 2016"
+      institute: "Addenbrooke’s Hospital (Cambridge University Hospitals)"
+      organisation: "National Health Service"
+      details:
+
+publications:
+  title: "Funding, Papers &amp; Software"
+  slug: "publications"
+  funding:
+    title: "Funding"
+    introduction: ""
+    grants:
+      - description: "BBSRC (CoI)"
+        amount: "£724612"
+        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
+
+      - description: "Dragons Den funding"
+        amount: "£4000"
+        notes: "Institute of Integrative Biology funding scheme; competitively awarded during PostDoc"
+
+      - description: "GlaxoSmithKline"
+        amount: "£34000"
+        notes: "2 rounds of competitive funding, awarded during PhD"
+
+  software:
+    title: "Software"
+    introduction: |
+      All of my software is open sourced and available via my [GitHub](https://github.com/will-rowe) repositories.
+      My software is actively maintained, with strong community engagement in the form of GitHub issues, project
+      forking and pull requests. My software is also packaged for Conda, Brew and BaseSpace. I also contribute to 
+      open source projects such as [ARTIC Network](https://github.com/artic-network/), BioConda, JOSS and HiPy.
+
+      Here are my current GitHub stats and a selection of my most recent projects:
+
+      ![](https://img.shields.io/badge/dynamic/json?logo=github&label=will-rowe%20-%20Total%20GitHub%20Stars&style=round&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/will-rowe)
+      ![](https://img.shields.io/badge/dynamic/json?logo=github&label=will-rowe%20-%20Total%20GitHub%20Forks&style=round&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/will-rowe)
+
+    #![](https://github-readme-stats.vercel.app/api?username=will-rowe&title_color=FDA246&text_color=3F4650&hide_title=False&hide_rank=False&line_height=30)
+
+    repos:
+      - title: "ARTIC tools"
+        link: "https://github.com/will-rowe/artic-tools"
+        description: "A set of tools for viral amplicon schemes"
+        conda: "artic-tools"
+        zenodo: 280260660
+        github: "will-rowe/artic-tools"
+
+      - title: "ARTIC pipeline"
+        link: "https://github.com/artic-network/fieldbioinformatics"
+        description: "A pipeline for working with virus sequencing data sequenced with nanopore"
+        conda: "artic"
+        github: "artic-network/fieldbioinformatics"
+
+      - title: "STARK"
+        link: "https://github.com/will-rowe/stark"
+        description: "IPFS-backed database for recording and distributing sequencing data"
+        github: "will-rowe/stark"
+
+      - title: "Baby GROOT"
+        link: "https://github.com/will-rowe/baby-groot"
+        description: "Appromiately weighted variation graphs for haplotype identification"
+        github: "will-rowe/baby-groot"
+
+      - title: "GROOT"
+        link: "https://github.com/will-rowe/groot"
+        description: "Identification of Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
+        conda: "groot"
+        zenodo: 117543539
+        github: "will-rowe/groot"
+
+      - title: "HULK"
+        link: "https://github.com/will-rowe/hulk"
+        description: "A tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
+        conda: "hulk"
+        zenodo: 143890875
+        github: "will-rowe/hulk"
+
+      - title: "DRAX"
+        link: "https://github.com/will-rowe/drax"
+        description: "A pipeline for Detecting Resistome Associated taXa"
+        conda: "drax"
+        github: "will-rowe/drax"
+
+teaching:
+  title: "Teaching, Leadership &amp; Speaking"
+  slug: "teaching"
+
+  experiences:
+    title: "Teaching &amp Engagement"
+    introduction: ""
+    items:
+      - title: "Genomics Masters module"
+        date: "2016-2017"
+        description: "Designed and taught content (lectures and workshops) for a module of the LIFE708 Masters degree at the University of Liverpool"
+      - title: "Bioinformatics supervision"
+        date: "2016-2017"
+        description: "Provided bioinformatic supervision for PhD students at the University of Liverpool"
+      - title: "Bioinformatics workshops"
+        date: "2016-2018"
+        description: "Organised and ran weekly bioinformatics workshops for the institute"
+      - title: "HiPy"
+        date: "2016-2018"
+        description: "Assisted at university-wide Python workshops as an instructor"
+
+  leadership:
+    title: "Leadership, Professional &amp Collegial Experience"
+    introduction: ""
+    items:
+      - title: "Editorial board member"
+        date: "2019 - "
+        description: "Journal of Open Source Software"
+      - title: "Balti and Bioinformatics"
+        date: "2019 - "
+        description: "This is a 1-day conference that attracts ~75 delegates per year. I organised and chaired this year’s event"
+      - title: "Grant reviewer"
+        date: "2019 - "
+        description: "I reviewed a grant application for the Auckland Medical Research Foundation, New Zealand."
+      - title: "Publication reviewer"
+        date: "2015 - "
+        description: "I review for a number of journals including JOSS, PLoS One and Microbial Ecology."
+      - title: "Captain of Boats"
+        date: "2012 - 2013"
+        description: "Magdalene College, University of Cambridge"
+      - title: "MCR Social Secretary"
+        date: "2012 - 2013"
+        description: "Magdalene College, University of Cambridge"
+
+  industry:
+    title: "Industrial Collaboration"
+    introduction: ""
+    items:
+      - title: "UKRI Innovation Return on Research"
+        date: "2017 - 2019"
+        description: |
+          As part of the IROR programme, I consulted with several companies
+          and research institutes (incl. Unilever, Rothamsted Research, Quadram 
+          Institute) to deliver high performance computing solutions for 
+          genomics applications. This resulted in several pieces of software being 
+          commercially licensed and registered as intellectual property.
+      - title: "Industrial Collaborative Award in Science and Engineering (ICASE)"
+        date: "2011 - 2015"
+        description: |
+          As part of my PhD training, I spent several months in the labs of the 
+          Centre for Environment, Fisheries and Aquaculture Science, and 
+          GlaxoSmithKline, enacting knowledge transfer, data generation 
+          and report production focussed on antimicrobial resistance gene 
+          dynamics in the environment.
+
+  speaking:
+    title: "Speaking"
+    introduction: ""
+    items:
+      - title: "ABPHM"
+        date: 2019
+        description: "Oral talk at the Applied Bioinformatics & Public Health Microbiology conference, Hinxton"
+      - title: "Doherty Institute"
+        date: 2018
+        description: "Invited seminar at the Doherty Institute, University of Melbourne"
+      - title: "SMBE"
+        date: 2018
+        description: "Lightning talk for the Genome Evolution in Pathogen Transmission and Disease conference, Kyoto"
+      - title: "Genome Science"
+        date: 2018
+        description: "Invited oral talk for the Genome Science conference, Nottingham"
+      - title: "COMMET"
+        date: 2017
+        description: "Invited oral talk for Community Network in Metagenomics conference, Warwick"
+      - title: "BSAC"
+        date: 2016
+        description: "Oral talk for British Society of Antimicrobial Chemotherapy confernce. London"
+
+other:
+  title: "Industrial Collaboration, Other Training &amp Activities"
+  slug: "other"
+  collaboration:
+    - name: "Industrial Collaboration"
+      date: ""
+      description: ""
+    - name: "Bioinformatics supervision"
+      date: ""
+      description: ""
+
+skills:
+  title: "Skills &amp; Stats"
+  slug: "skills"
+  toolset:
+    - name: Programming
+      list: Go, C, CPP, Python, BASH
+      level: 90%
+
+    - name: Reproducibility
+      list: LSF, NextFlow, Conda, git
+      level: 90%
+
+    - name: Visualisation
+      list: Jupyter, R, MatLab
+      level: 85%
+
+    - name: Web design
+      list: HTML5, CSS, Django, JS
+      level: 85%
+
+    - name: Cloud computing
+      list: Docker, AWS
+      level: 75%
+
+    - name: Machine Learning
+      list: RF, ANN, regression etc.
+      level: 60%
