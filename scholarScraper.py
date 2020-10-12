@@ -12,7 +12,7 @@ authorName = ["WPM Rowe", "W Rowe"]
 scholarID = "sVMdRQMAAAAJ"
 baseURL = "https://scholar.google.co.uk"
 outFile = "./_data/googleScholar.yaml"
-
+maxResults = "100"
 
 def printDetails(baseURL, scholarID, authorName, stats):
     timeStamp = datetime.datetime.now()
@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
     # scrape Google Scholar page
     scholarPage = baseURL + "/citations?hl=en&user=" + \
-        scholarID + "&view_op=list_works&sortby=pubdate"
+        scholarID + "&view_op=list_works&sortby=pubdate&pagesize=" + maxResults
     page = urllib.request.urlopen(scholarPage)
     scrapedContent = BeautifulSoup(page, 'html.parser')
 
