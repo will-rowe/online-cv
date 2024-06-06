@@ -7,60 +7,6 @@
         </span> {{ publications.title }}
     </h2>
 
-    <!--- GRANTS --->
-    {% assign funding = publications.funding %} {% if funding %}
-    <div class="item">
-        <div class="meta">
-            <div class="upper-row">
-                <h3 class="level-title">{{ funding.title }}</h3>
-            </div>
-        </div>
-        {% if funding.introduction %}
-        <div class=" intro ">
-            {{ funding.introduction | markdownify }}
-        </div>
-        {% endif %}
-    </div>
-    <div class="skillset">
-        {% for grant in funding.grants %}
-        <div class="item">
-            <div class="upper-row">
-                <h3 class="level-title">{{ grant.description }}</h3>
-                <div class="time">{{ grant.amount }}</div>
-            </div>
-            <div class="company">{{ grant.notes }}</div>
-        </div>
-        {% endfor %}
-    </div>
-    <hr /> {% endif %}
-    <!--- //GRANTS --->
-
-    <!--- PAPERS -->
-    {% assign scholar = site.data.googleScholar %} {% if scholar.papers %}
-    <div class="item ">
-        <div class="meta ">
-            <div class="upper-row ">
-                <h3 class="level-title ">{{ scholar.title }}</h3>
-            </div>
-        </div>
-        {% if scholar.introduction %}
-        <div class="intro ">
-            {{ scholar.introduction | markdownify }}
-        </div>
-        {% endif %}
-    </div>
-    <div class="skillset">
-        {% for paper in scholar.papers %}
-        <div class="item ">
-            <div class="publication-title ">{{ paper.title }}</div>
-            <div class="publication-authors ">{{ paper.authors }}</div>
-            <div class="publication-conference ">{{ paper.journal }} - <a href={{ paper.link }}>abstract</a></div>
-        </div>
-        {% endfor %}
-    </div>
-    <hr /> {% endif %}
-    <!---//PAPERS -->
-
     <!--- SOFTWARE --->
     {% assign software = publications.software %} {% if software %}
     <div class="item">
@@ -98,6 +44,60 @@
     </div>
     <hr /> {% endif %}
     <!--- //SOFTWARE --->
+
+    <!--- PAPERS -->
+    {% assign scholar = site.data.googleScholar %} {% if scholar.papers %}
+    <div class="item ">
+        <div class="meta ">
+            <div class="upper-row ">
+                <h3 class="level-title ">{{ scholar.title }}</h3>
+            </div>
+        </div>
+        {% if scholar.introduction %}
+        <div class="intro ">
+            {{ scholar.introduction | markdownify }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="skillset">
+        {% for paper in scholar.papers %}
+        <div class="item ">
+            <div class="publication-title ">{{ paper.title }}</div>
+            <div class="publication-authors ">{{ paper.authors }}</div>
+            <div class="publication-conference ">{{ paper.journal }} - <a href={{ paper.link }}>abstract</a></div>
+        </div>
+        {% endfor %}
+    </div>
+    <hr /> {% endif %}
+    <!---//PAPERS -->
+
+    <!--- GRANTS --->
+    {% assign funding = publications.funding %} {% if funding %}
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3 class="level-title">{{ funding.title }}</h3>
+            </div>
+        </div>
+        {% if funding.introduction %}
+        <div class=" intro ">
+            {{ funding.introduction | markdownify }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="skillset">
+        {% for grant in funding.grants %}
+        <div class="item">
+            <div class="upper-row">
+                <h3 class="level-title">{{ grant.description }}</h3>
+                <div class="time">{{ grant.amount }}</div>
+            </div>
+            <div class="company">{{ grant.notes }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    <hr /> {% endif %}
+    <!--- //GRANTS --->
 
 </section>
 <!--//section-->

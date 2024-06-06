@@ -33,7 +33,7 @@ def parseScrape(soup):
     year_box = soup.find_all(
         'span', attrs={'class': 'gsc_a_h gsc_a_hc gs_ibl'})
     years = [year.text.strip() for year in year_box]
-    links = [paper['data-href'] for paper in paper_box]
+    links = [paper['href'] for paper in paper_box]
     cited_box = soup.find_all('td', attrs={'class': 'gsc_rsb_std'})
     stats = [stat.text.strip() for stat in cited_box]
     return papers, authors, years, links, stats
@@ -57,6 +57,7 @@ if __name__ == "__main__":
         fh.write("introduction: \"%s\"\n" %
                  printDetails(baseURL, scholarID, authorName, stats))
         fh.write("papers:\n")
+        authorList = authorList[1:]
         for i in range(len(yearList)):
             fh.write("  - title: \"" + paperList.pop(0) + "\"\n")
             # put the author name in bold

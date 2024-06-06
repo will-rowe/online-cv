@@ -5,10 +5,10 @@
 sidebar:
   # Profile information
   name: Will Rowe
-  tagline: Computational Biologist
+  tagline: Software Engineer
   avatar: profile.png
   # Sidebar links
-  email: w.rowe@bham.ac.uk
+  email: will.rowe@live.co.uk
   website: willrowe.net
   linkedin: will-rowe-13219b136
   github: will-rowe
@@ -53,35 +53,40 @@ education:
 career-profile:
   title: Career Profile
   summary: |
-    I'm Will Rowe, a computational biologist currently working in in the [Loman Lab](https://lab.loman.net/) on the 
-    [ARTIC Network](http://artic.network/) and [COG-UK consortium](https://www.cogconsortium.uk/) projects.
+    I'm Will Rowe, a software engineer currently working at [GRAIL](https://grail.com/) in the UK engineering
+    team. I mainly work on software for running our clinical trials but I also contribute to the 
+    machine learning classifier and bioinformatics pipeline teams.
 
-    I work on algorithmic bioinformatics and genomics. I develop algorithms for a range of applications; 
+    I like to work on algorithmic bioinformatics and genomics problems, developing algorithms for a range of applications and 
     incorporating the latest advances in data sketching, machine learning and graph theory into my scientific 
     software and biological research portfolio. I apply my algorithmic work to biological problems, such as: 
-    real-time genomic epidemiology of viral outbreaks, gene dynamics in the gut microbiome, and antimicrobial 
-    resistance gene surveillance. 
-
-    My future research strategy focusses on making large-scale genomic research accessible and tractable at 
-    pace with advances in sequencing technologies; and applying this to global public health problems such 
-    as antimicrobial resistance. This includes developing algorithms for indexing, augmenting and querying 
-    genomic data collections using tiered computing infrastructure; ranging from low-cost laptops, phones 
-    and chips, through to cloud and high-performance computing.
-
-    I’m a strong proponent of open science and will continue to release open source software, teaching materials and research.
+    featurisation of genetic markers for population screening, real-time genomic epidemiology of viral outbreaks, 
+    gene dynamics in the gut microbiome, and antimicrobial resistance gene surveillance.
 
 experience:
   title: "Employment Record"
   slug: "experience"
   jobs:
+    - role: "Staff Software Engineer"
+      time: "2023 - present"
+      institute:
+      organisation: "GRAIL"
+      details:
+
+    - role: "Senior Software Engineer"
+      time: "2021 - 2023"
+      institute:
+      organisation: "GRAIL"
+      details:
+
     - role: "Postdoctoral Research Associate"
-      time: "2019 - present"
+      time: "2019 - 2021"
       institute: "Institute of Microbiology and Infection"
       organisation: "University of Birmingham"
       details:
 
-    - role: "Visiting scientist"
-      time: "2019 - present"
+    - role: "Visiting Scientist"
+      time: "2019 - 2021"
       institute: "Science and Technology Facilities Council"
       organisation: "UK Research and Innovation"
       details:
@@ -104,24 +109,37 @@ experience:
       organisation: "National Health Service"
       details:
 
+skills:
+  title: "Skills &amp; Strengths"
+  slug: "skills"
+  toolset:
+    - name: Programming
+      list: Go, C, CPP, Python, Typescript, BASH
+      level: 100%
+
+    - name: Reproducibility
+      list: LSF, NextFlow, Conda, git
+      level: 90%
+
+    - name: Visualisation
+      list: Jupyter, R, MatLab
+      level: 85%
+
+    - name: Web design
+      list: React, WASM, HTML5, CSS, Django
+      level: 80%
+
+    - name: Cloud computing
+      list: Docker, AWS, Terraform
+      level: 100%
+
+    - name: Machine Learning
+      list: RF, ANN, regression etc.
+      level: 60%
+
 publications:
-  title: "Funding, Papers &amp; Software"
+  title: "Software, Papers &amp; Funding"
   slug: "publications"
-  funding:
-    title: "Funding"
-    introduction: ""
-    grants:
-      - description: "BBSRC (CoI)"
-        amount: "£724612"
-        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
-
-      - description: "Dragons Den funding"
-        amount: "£4000"
-        notes: "Institute of Integrative Biology funding scheme; competitively awarded during PostDoc"
-
-      - description: "GlaxoSmithKline"
-        amount: "£34000"
-        notes: "2 rounds of competitive funding, awarded during PhD"
 
   software:
     title: "Software"
@@ -178,9 +196,25 @@ publications:
 
       - title: "DRAX"
         link: "https://github.com/will-rowe/drax"
-        description: "A pipeline for Detecting Resistome Associated taXa"
+        description: "A nextflow pipeline for Detecting Resistome Associated taXa"
         conda: "drax"
         github: "will-rowe/drax"
+
+  funding:
+    title: "Funding"
+    introduction: ""
+    grants:
+      - description: "BBSRC (CoI)"
+        amount: "£724612"
+        notes: "Reservoirs of mobile antibiotic resistance genes in the gut microbiome of preterm infants"
+
+      - description: "Dragons Den funding"
+        amount: "£4000"
+        notes: "Institute of Integrative Biology funding scheme; competitively awarded during PostDoc"
+
+      - description: "GlaxoSmithKline"
+        amount: "£34000"
+        notes: "2 rounds of competitive funding, awarded during PhD"
 
 teaching:
   title: "Teaching, Leadership &amp; Speaking"
@@ -208,13 +242,13 @@ teaching:
     introduction: ""
     items:
       - title: "Editorial board member"
-        date: "2019 - "
+        date: "2019 - 2021"
         description: "Journal of Open Source Software"
       - title: "Balti and Bioinformatics"
-        date: "2019 - "
+        date: "2019 - 2021"
         description: "This is a 1-day conference that attracts ~75 delegates per year. I organised and chaired this year’s event"
       - title: "Grant reviewer"
-        date: "2019 - "
+        date: "2019 - 2021"
         description: "I reviewed a grant application for the Auckland Medical Research Foundation, New Zealand."
       - title: "Publication reviewer"
         date: "2015 - "
@@ -280,31 +314,3 @@ other:
     - name: "Bioinformatics supervision"
       date: ""
       description: ""
-
-skills:
-  title: "Skills &amp; Stats"
-  slug: "skills"
-  toolset:
-    - name: Programming
-      list: Go, C, CPP, Python, BASH
-      level: 90%
-
-    - name: Reproducibility
-      list: LSF, NextFlow, Conda, git
-      level: 90%
-
-    - name: Visualisation
-      list: Jupyter, R, MatLab
-      level: 85%
-
-    - name: Web design
-      list: HTML5, CSS, Django, JS
-      level: 85%
-
-    - name: Cloud computing
-      list: Docker, AWS
-      level: 75%
-
-    - name: Machine Learning
-      list: RF, ANN, regression etc.
-      level: 60%
