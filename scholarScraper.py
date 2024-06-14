@@ -51,6 +51,9 @@ if __name__ == "__main__":
     paperList, authorList, yearList, linkList, stats = parseScrape(
         scrapedContent)
 
+    # keep track of first author
+    firstAuthor = []
+
     # write the papers to a yaml file
     with open(outFile, 'w', encoding='utf-8') as fh:
         fh.write("title: \"Papers\"\n")
@@ -59,13 +62,23 @@ if __name__ == "__main__":
         fh.write("papers:\n")
         authorList = authorList[1:]
         for i in range(len(yearList)):
-            fh.write("  - title: \"" + paperList.pop(0) + "\"\n")
             # put the author name in bold
             authors = authorList.pop(0)
             for name in authorName:
                 authors = authors.replace(
                     name, "<strong>%s</strong>" % name)
-            fh.write("    authors: \"" + authors + "\"\n")
-            fh.write("    journal: \"" + authorList.pop(0) + "\"\n")
-            fh.write("    year: \"" + yearList.pop(0) + "\"\n")
-            fh.write("    link: \"" + baseURL + linkList.pop(0) + "\"\n")
+            t, a, j, y, l = paperList.pop(0), authors, authorList.pop(0), yearList.pop(0), linkList.pop(0)
+            if authors.startswith("<strong>"):
+                firstAuthor.append([t, a, j, y, l])
+            fh.write("  - title: \"" + t + "\"\n")
+            fh.write("    authors: \"" + a + "\"\n")
+            fh.write("    journal: \"" + j + "\"\n")
+            fh.write("    year: \"" + y + "\"\n")
+            fh.write("    link: \"" + baseURL + l + "\"\n")
+        fh.write("firstAuthorPapers:\n")
+        for i in range(len(firstAuthor)):
+            fh.write("  - title: \"" + firstAuthor[i][0] + "\"\n")
+            fh.write("    authors: \"" + firstAuthor[i][1] + "\"\n")
+            fh.write("    journal: \"" + firstAuthor[i][2] + "\"\n")
+            fh.write("    year: \"" + firstAuthor[i][3] + "\"\n")
+            fh.write("    link: \"" + baseURL + firstAuthor[i][4] + "\"\n")

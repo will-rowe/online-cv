@@ -59,8 +59,11 @@
         </div>
         {% endif %}
     </div>
+    <div class="upper-row ">
+        <h4 class="level-title ">First author papers:</h4>
+    </div>
     <div class="skillset">
-        {% for paper in scholar.papers %}
+        {% for paper in scholar.firstAuthorPapers %}
         <div class="item ">
             <div class="publication-title ">{{ paper.title }}</div>
             <div class="publication-authors ">{{ paper.authors }}</div>
@@ -68,6 +71,22 @@
         </div>
         {% endfor %}
     </div>
+
+    <details>
+        <summary>
+            <h4 class="level-title ">Contributor papers (hidden, click to expand):</h4>
+        </summary>
+        <div class="skillset">
+            {% for paper in scholar.papers %}
+            <div class="item ">
+                <div class="publication-title ">{{ paper.title }}</div>
+                <div class="publication-authors ">{{ paper.authors }}</div>
+                <div class="publication-conference ">{{ paper.journal }} - <a href={{ paper.link }}>abstract</a></div>
+            </div>
+            {% endfor %}
+        </div>
+    </details>
+
     <hr /> {% endif %}
     <!---//PAPERS -->
 
