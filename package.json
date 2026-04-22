@@ -1,0 +1,9 @@
+{
+  "name": "online-cv",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "jekyll build --destination public",
+    "deploy": "wrangler pages deploy"
+  }
+}
