@@ -1,0 +1,31 @@
+/* Tablet — single column */
+@media (max-width: 768px) {
+    .cv {
+        grid-template-columns: 1fr;
+    }
+    .sidebar {
+        position: static;
+        height: auto;
+    }
+    .cv-sections {
+        padding: 1.5rem;
+    }
+    .timeline-item .timeline-header {
+        flex-direction: column;
+        gap: 0.1rem;
+    }
+    .skill-group {
+        flex-direction: column;
+        gap: 0.35rem;
+    }
+    .repo-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Phone */
+@media (max-width: 480px) {
+    .repo-grid {
+        grid-template-columns: 1fr;
+    }
+}

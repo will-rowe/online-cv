@@ -1,0 +1,23 @@
+---
+const { experience = {} } = Astro.props;
+---
+
+{(experience as any)?.jobs?.length > 0 && (
+  <section class="section" id={(experience as any).slug}>
+    <h2 class="section-title">{(experience as any).title}</h2>
+    <div class="timeline">
+      {(experience as any).jobs.map((job: any) => (
+        <div class="timeline-item">
+          <div class="timeline-header">
+            <h3 class="role">{job.role}</h3>
+            <span class="period">{job.time}</span>
+          </div>
+          <p class="organisation">
+            {job.organisation}{job.institute ? `, ${job.institute}` : ''}
+          </p>
+          {job.details && <div class="item-details">{job.details}</div>}
+        </div>
+      ))}
+    </div>
+  </section>
+)}

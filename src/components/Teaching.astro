@@ -1,0 +1,20 @@
+---
+const { teaching = {} } = Astro.props;
+---
+
+{(teaching as any)?.experiences?.items?.length > 0 && (
+  <section class="section" id={(teaching as any).slug}>
+    <h2 class="section-title" set:html={(teaching as any).title} />
+    <div class="teaching-list">
+      {(teaching as any).experiences.items.map((it: any) => (
+        <div class="teaching-item">
+          <div class="teaching-row">
+            <h3 class="teaching-title">{it.title}</h3>
+            <span class="teaching-date">{it.date}</span>
+          </div>
+          {it.description && <p class="teaching-desc">{it.description}</p>}
+        </div>
+      ))}
+    </div>
+  </section>
+)}

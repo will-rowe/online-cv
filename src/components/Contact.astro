@@ -1,0 +1,19 @@
+---
+import fs from 'fs/promises';
+import yaml from 'js-yaml';
+
+const dataPath = new URL('../../_data/info.yaml', import.meta.url);
+const raw = await fs.readFile(dataPath, 'utf-8');
+const info = yaml.load(raw);
+const sidebar = info.sidebar || {};
+---
+
+<div class="contact container-block">
+  <h2 class="container-block-title">Contact</h2>
+  <ul>
+    {sidebar.email && <li>Email: <a href={`mailto:${sidebar.email}`}>{sidebar.email}</a></li>}
+    {sidebar.website && <li>Website: <a href={`https://${sidebar.website}`}>{sidebar.website}</a></li>}
+    {sidebar.github && <li>GitHub: <a href={`https://github.com/${sidebar.github}`}>{sidebar.github}</a></li>}
+    {sidebar.linkedin && <li>LinkedIn: <a href={`https://linkedin.com/in/${sidebar.linkedin}`}>{sidebar.linkedin}</a></li>}
+  </ul>
+</div>

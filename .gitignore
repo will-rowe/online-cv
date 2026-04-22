@@ -1,3 +1,21 @@
-_site/
-.sass-cache/
-.jekyll-metadata
+### Node
+node_modules/
+
+### Astro / build
+dist/
+.astro/
+.cache/
+.vercel/
+.netlify/
+
+### Environment
+.env
+.env.*
+
+### OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+.wrangler

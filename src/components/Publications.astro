@@ -1,0 +1,64 @@
+---
+import { marked } from 'marked';
+const { pubs = {}, ghRepos = [], papers = [], scholarIntro = '' } = Astro.props;
+const md = (text: any) => (text ? marked.parse(String(text), { mangle: false, headerIds: false } as any) : '');
+
+// Prefer live GitHub data; fall back to YAML repos
+const repos: any[] = (ghRepos as any[]).length > 0
+  ? (ghRepos as any[]).map((r) => ({
+      title: r.name,
+      link: r.html_url,
+      description: r.description ?? '',
+      stars: r.stargazers_count,
+      language: r.language,
+    }))
+  : ((pubs as any)?.software?.repos ?? []);
+---
+
+{(pubs as any) && (
+  <section class="section" id={(pubs as any).slug}>
+    <h2 class="section-title" set:html={(pubs as any).title} />
+
+    <div class="pubs-subsection">
+      <h3 class="subsection-title">Software</h3>
+      {(ghRepos as any[]).length === 0 && (pubs as any).software?.introduction && (
+        <div class="pubs-intro" set:html={md((pubs as any).software.introduction)} />
+      )}
+      <div class="repo-grid">
+        {repos.map((r) => (
+          <a href={r.link} class="repo-card" target="_blank" rel="noopener">
+            <p class="repo-name">{r.title}</p>
+            <p class="repo-desc">{r.description}</p>
+            {(r.stars !== undefined || r.language) && (
+              <div class="repo-meta">
+                {r.stars !== undefined && <span class="repo-stars">★ {r.stars.toLocaleString()}</span>}
+                {r.language && <span class="repo-lang">{r.language}</span>}
+              </div>
+            )}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    {(papers as any[]).length > 0 && (
+      <div class="pubs-subsection">
+        <h3 class="subsection-title">Selected Papers</h3>
+        {scholarIntro && (
+          <p class="scholar-intro" set:html={md(scholarIntro)} />
+        )}
+        <ol class="papers-list">
+          {(papers as any[]).map((p) => (
+            <li class="paper-item">
+              <a href={p.url} class="paper-title" target="_blank" rel="noopener">{p.title}</a>
+              <div class="paper-meta">
+                {p.authors && <span class="paper-authors" set:html={p.authors} />}
+                {p.year && <span class="paper-year">{p.year}</span>}
+                {p.journal && <span class="paper-venue">{p.journal}</span>}
+              </div>
+            </li>
+          ))}
+        </ol>
+      </div>
+    )}
+  </section>
+)}

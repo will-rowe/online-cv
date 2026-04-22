@@ -1,0 +1,30 @@
+---
+const { skills = {}, ghSkills = [] } = Astro.props;
+
+// Prefer live GitHub-derived groups; fall back to YAML toolset
+const useGh = (ghSkills as any[]).length > 0;
+const groups: Array<{ name: string; tags: string[] }> = useGh
+  ? (ghSkills as any[])
+  : ((skills as any)?.toolset ?? []).map((t: any) => ({
+      name: t.name,
+      tags: t.list.split(',').map((s: string) => s.trim()),
+    }));
+---
+
+{groups.length > 0 && (
+  <section class="section" id={(skills as any).slug}>
+    <h2 class="section-title" set:html={(skills as any).title} />
+    <div class="skill-groups">
+      {groups.map((g) => (
+        <div class="skill-group">
+          <span class="skill-name">{g.name}</span>
+          <div class="skill-tags">
+            {g.tags.map((tag: string) => (
+              <span class="tag">{tag}</span>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
