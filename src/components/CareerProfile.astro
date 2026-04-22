@@ -1,0 +1,12 @@
+---
+import { marked } from 'marked';
+const { profile } = Astro.props;
+const md = (text: any) => (text ? marked.parse(String(text), { mangle: false, headerIds: false } as any) : '');
+---
+
+{profile && (
+  <section class="section">
+    <h2 class="section-title">{profile.title}</h2>
+    <div class="summary" set:html={md(profile.summary)} />
+  </section>
+)}

@@ -1,9 +1,19 @@
 {
   "name": "online-cv",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "build": "jekyll build --destination public",
-    "deploy": "wrangler pages deploy"
+    "dev": "astro dev",
+    "build": "astro build",
+    "test": "echo 'No tests configured'",
+    "deploy": "npm run build && npx wrangler pages deploy ./dist"
+  },
+  "devDependencies": {
+    "node":"24.15.0",
+    "astro": "^6.1.8",
+    "sass": "^1.80.0",
+    "js-yaml": "^4.1.0",
+    "marked": "^5.0.4"
   }
 }

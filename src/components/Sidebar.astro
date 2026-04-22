@@ -1,0 +1,73 @@
+---
+const { sidebar = {}, education = [] } = Astro.props;
+---
+
+<aside class="sidebar">
+  <div class="sidebar-profile">
+    {sidebar.avatar && (
+      <img class="avatar" src={`/images/${sidebar.avatar}`} alt="profile picture" />
+    )}
+    {sidebar.name && <h1 class="name">{sidebar.name}</h1>}
+    {sidebar.tagline && <p class="tagline">{sidebar.tagline}</p>}
+  </div>
+
+  <div class="sidebar-block">
+    <h2 class="sidebar-heading">Contact</h2>
+    <ul class="contact-list">
+      {sidebar.email && (
+        <li>
+          <span class="contact-label">Email</span>
+          <a href={`mailto:${sidebar.email}`}>{sidebar.email}</a>
+        </li>
+      )}
+      {sidebar.website && (
+        <li>
+          <span class="contact-label">Web</span>
+          <a href={`https://${sidebar.website}`} target="_blank" rel="noopener">{sidebar.website}</a>
+        </li>
+      )}
+      {sidebar.github && (
+        <li>
+          <span class="contact-label">GitHub</span>
+          <a href={`https://github.com/${sidebar.github}`} target="_blank" rel="noopener">{sidebar.github}</a>
+        </li>
+      )}
+      {sidebar.linkedin && (
+        <li>
+          <span class="contact-label">LinkedIn</span>
+          <a href={`https://linkedin.com/in/${sidebar.linkedin}`} target="_blank" rel="noopener">will-rowe</a>
+        </li>
+      )}
+    </ul>
+  </div>
+
+  {(education as any[]).length > 0 && (
+    <div class="sidebar-block">
+      <h2 class="sidebar-heading">Education</h2>
+      <ul class="edu-list">
+        {(education as any[]).map((e) => (
+          <li class="edu-item">
+            <p class="degree">{e.degree}</p>
+            <p class="university">{e.university}</p>
+            <span class="edu-time">{e.time}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {sidebar.interests && sidebar.interests.length > 0 && (
+    <div class="sidebar-block">
+      <h2 class="sidebar-heading">Interests</h2>
+      <ul class="interests-list">
+        {sidebar.interests.map((it: any) => (
+          <li>
+            {it.link
+              ? <a href={it.link} target="_blank" rel="noopener">{it.item}</a>
+              : it.item}
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+</aside>

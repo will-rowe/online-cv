@@ -1,239 +1,1555 @@
-title: "Papers"
-introduction: "5044 citations, h-index 28. Please click on the abstract links for more information. Data last scraped from [Google Scholar](https://scholar.google.co.uk/citations?user=sVMdRQMAAAAJ&hl=en) on 14.6.2024."
+title: Papers
+introduction: 5295 citations, h-index 20. Please click on the abstract links for more
+  information. Data fetched from Semantic Scholar on 22.4.2026.
 papers:
-  - title: "Succinate utilisation by Salmonella is inhibited by multiple regulatory systems"
-    authors: "N Wenner, X Zhu, <strong>WPM Rowe</strong>, K Händler, JCD Hinton"
-    journal: "PLoS genetics 20 (3), e1011142, 2024"
-    year: "2024"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:hC7cP41nSMkC"
-  - title: "Investigation of hospital discharge cases and SARS-CoV-2 introduction into Lothian care homes"
-    authors: "S Cotton, MP McHugh, R Dewar, JG Haas, K Templeton, SC Robson, ..."
-    journal: "Journal of Hospital Infection 135, 28-36, 2023"
-    year: "2023"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:qUcmZB5y_30C"
-  - title: "Salmonella succinate utilisation is inhibited by multiple regulatory systems"
-    authors: "N Wenner, X Zhu, <strong>WPM Rowe</strong>, K Händler, JCD Hinton"
-    journal: "bioRxiv, 2022.12. 21.521472, 2022"
-    year: "2022"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:IWHjjKOFINEC"
-  - title: "How to sequence 10,000 bacterial genomes and retain your sanity: an accessible, efficient and global approach"
-    authors: "B Perez-Sepulveda, D Heavens, C Pulford, A Predeus, R Low, H Webster, ..."
-    journal: "Access Microbiology 4 (5), po0645, 2022"
-    year: "2022"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:L8Ckcad2t8MC"
-  - title: "Combined epidemiological and genomic analysis of nosocomial SARS-CoV-2 infection early in the pandemic and the role of unidentified cases in transmission"
-    authors: "LB Snell, CL Fisher, U Taj, O Stirrup, B Merrick, A Alcolea-Medina, ..."
-    journal: "Clinical Microbiology and Infection 28 (1), 93-100, 2022"
-    year: "2022"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:mVmsd5A6BfQC"
-  - title: "Hospital admission and emergency care attendance risk for SARS-CoV-2 delta (B. 1.617. 2) compared with alpha (B. 1.1. 7) variants of concern: a cohort study"
-    authors: "KA Twohig, T Nyberg, A Zaidi, S Thelwall, MA Sinnathamby, S Aliabadi, ..."
-    journal: "The Lancet Infectious Diseases 22 (1), 35-42, 2022"
-    year: "2022"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Wp0gIr-vW9MC"
-  - title: "CLIMB-COVID: continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance"
-    authors: "SM Nicholls, R Poplawski, MJ Bull, A Underwood, M Chapman, ..."
-    journal: "Genome biology 22, 1-21, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:qxL8FJ1GzNcC"
-  - title: "An accessible, efficient and global approach for the large-scale sequencing of bacterial genomes"
-    authors: "BM Perez-Sepulveda, D Heavens, CV Pulford, AV Predeus, R Low, ..."
-    journal: "Genome biology 22, 1-18, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:hqOjcs7Dif8C"
-  - title: "The impact of viral mutations on recognition by SARS-CoV-2 specific T cells"
-    authors: "TI de Silva, G Liu, BB Lindsey, D Dong, SC Moore, NS Hsu, D Shah, ..."
-    journal: "Iscience 24 (11), 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:QIV2ME_5wuYC"
-  - title: "Exponential growth, high prevalence of SARS-CoV-2, and vaccine effectiveness associated with the Delta variant"
-    authors: "P Elliott, D Haw, H Wang, O Eales, CE Walters, KEC Ainslie, C Atchison, ..."
-    journal: "Science 374 (6574), eabl9551, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:9ZlFYXVOiuMC"
-  - title: "Recurrent emergence of SARS-CoV-2 spike deletion H69/V70 and its role in the Alpha variant B. 1.1. 7"
-    authors: "B Meng, SA Kemp, G Papa, R Datir, IATM Ferreira, S Marelli, WT Harvey, ..."
-    journal: "Cell reports 35 (13), 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:aqlVkmm33-oC"
-  - title: "Large-scale sequencing of SARS-CoV-2 genomes from one region allows detailed epidemiology and enables local outbreak management"
-    authors: "AJ Page, AE Mather, T Le-Viet, EJ Meader, NF Alikhan, GL Kay, ..."
-    journal: "Microbial genomics 7 (6), 000589, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:3fE2CSJIrl8C"
-  - title: "Retrospective screening of routine respiratory samples revealed undetected community transmission and missed intervention opportunities for SARS-CoV-2 in the United Kingdom"
-    authors: "JG Chappell, T Tsoleridis, G Clark, L Berry, N Holmes, C Moore, M Carlile, ..."
-    journal: "Journal of General Virology 102 (6), 001595, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:kNdYIx-mwKoC"
-  - title: "Changes in symptomatology, reinfection, and transmissibility associated with the SARS-CoV-2 variant B. 1.1. 7: an ecological study"
-    authors: "MS Graham, CH Sudre, A May, M Antonelli, B Murray, T Varsavsky, ..."
-    journal: "The Lancet Public Health 6 (5), e335-e345, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:4TOpqqG69KYC"
-  - title: "Genome-Wide Identification and Expression Analysis of SOS Response Genes in Salmonella enterica Serovar Typhimurium"
-    authors: "A Mérida-Floriano, <strong>WPM Rowe</strong>, J Casadesús"
-    journal: "Cells 10 (4), 943, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:M3ejUd6NZC8C"
-  - title: "Stepwise evolution of Salmonella Typhimurium ST313 causing bloodstream infection in Africa"
-    authors: "CV Pulford, BM Perez-Sepulveda, R Canals, JA Bevington, RJ Bengtsson, ..."
-    journal: "Nature microbiology 6 (3), 327-338, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Zph67rFs4hoC"
-  - title: "Explainable AI reveals changes in skin microbiome composition linked to phenotypic differences"
-    authors: "AP Carrieri, N Haiminen, S Maudsley-Barton, LJ Gardiner, B Murphy, ..."
-    journal: "Scientific reports 11 (1), 4565, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:KlAtU1dfN6UC"
-  - title: "Establishment and lineage dynamics of the SARS-CoV-2 epidemic in the UK"
-    authors: "L Du Plessis, JT McCrone, AE Zarebski, V Hill, C Ruis, B Gutierrez, ..."
-    journal: "Science 371 (6530), 708-712, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:ULOm3_A8WrAC"
-  - title: "Evaluating the effects of SARS-CoV-2 spike mutation D614G on transmissibility and pathogenicity"
-    authors: "E Volz, V Hill, JT McCrone, A Price, D Jorgensen, Á O’Toole, J Southgate, ..."
-    journal: "Cell 184 (1), 64-75. e11, 2021"
-    year: "2021"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:8k81kl-MbHgC"
-  - title: "Increased risk of SARS-CoV-2 infection in staff working across different care homes: enhanced CoVID-19 outbreak investigations in London care Homes"
-    authors: "SN Ladhani, JY Chow, R Janarthanan, J Fok, E Crawley-Boevey, ..."
-    journal: "Journal of Infection 81 (4), 621-624, 2020"
-    year: "2020"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:MXK_kJrjxJIC"
-  - title: "Geographical and temporal distribution of SARS-CoV-2 clades in the WHO European Region, January to June 2020"
-    authors: "E Alm, EK Broberg, T Connor, EB Hodcroft, AB Komissarov, ..."
-    journal: "Eurosurveillance 25 (32), 2001410, 2020"
-    year: "2020"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:5nxA0vEk-isC"
-  - title: "An integrated national scale SARS-CoV-2 genomic surveillance network"
-    authors: "T COVID"
-    journal: "The Lancet. Microbe 1 (3), e99, 2020"
-    year: "2020"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:0EnyYjriUFMC"
-  - title: "nCoV-2019 novel coronavirus bioinformatics protocol"
-    authors: "N Loman, <strong>W Rowe</strong>, A Rambaut"
-    journal: "Artic Network, 2020"
-    year: "2020"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:4DMP91E08xMC"
-  - title: "When the levee breaks: a practical guide to sketching algorithms for processing the flood of genomic data"
-    authors: "<strong>WPM Rowe</strong>"
-    journal: "Genome biology 20, 1-12, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Se3iqnhoufwC"
-  - title: "Streaming histogram sketching for rapid microbiome analytics"
-    authors: "<strong>WPM Rowe</strong>, AP Carrieri, C Alcon-Giner, S Caim, A Shaw, K Sim, JS Kroll, ..."
-    journal: "Microbiome 7, 1-13, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:WF5omc3nYNoC"
-  - title: "A fast machine learning workflow for rapid phenotype prediction from whole shotgun metagenomes"
-    authors: "AP Carrieri, <strong>WPM Rowe</strong>, M Winn, EO Pyzer-Knapp"
-    journal: "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 9434-9439, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:roLk4NBRz8UC"
-  - title: "The diversity, evolution and ecology of Salmonella in venomous snakes"
-    authors: "CV Pulford, N Wenner, ML Redway, EV Rodwell, HJ Webster, R Escudero, ..."
-    journal: "PLoS neglected tropical diseases 13 (6), e0007169, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:LkGwnXOMwfcC"
-  - title: "Adding function to the genome of African Salmonella Typhimurium ST313 strain D23580"
-    authors: "R Canals, DL Hammarlöf, C Kröger, SV Owen, WY Fong, ..."
-    journal: "PLoS biology 17 (1), e3000059, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:_FxGoFyzp5QC"
-  - title: "Use of chitin and chitosan to produce new chitooligosaccharides by chitinase Chit42: enzymatic activity and structural basis of protein specificity"
-    authors: "PE Kidibule, P Santos-Moriano, E Jiménez-Ortega, M Ramírez-Escudero, ..."
-    journal: "Microbial Cell Factories 17, 1-13, 2018"
-    year: "2018"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:7PzlFSSx8tAC"
-  - title: "Indexed variation graphs for efficient and accurate resistome profiling"
-    authors: "<strong>WPM Rowe</strong>, MD Winn"
-    journal: "Bioinformatics 34 (21), 3601-3608, 2018"
-    year: "2018"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:YsMSGLbcyi4C"
-  - title: "International phase I study protocol to develop a patient-reported outcome measure for adolescents and adults receiving gender-affirming treatments (the GENDER-Q)"
-    authors: "AF Klassen, M Kaur, N Johnson, BPC Kreukels, G McEvenue, ..."
-    journal: "BMJ open 8 (10), e025435, 2018"
-    year: "2018"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:dhFuZR0502QC"
-  - title: "Public health surveillance in the UK revolutionises our understanding of the invasive Salmonella Typhimurium epidemic in Africa"
-    authors: "PM Ashton, SV Owen, L Kaindama, <strong>WPM Rowe</strong>, CR Lane, L Larkin, ..."
-    journal: "Genome medicine 9, 1-13, 2017"
-    year: "2017"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Y0pCki6q_DkC"
-  - title: "Overexpression of antibiotic resistance genes in hospital effluents over time"
-    authors: "<strong>WPM Rowe</strong>, C Baker-Austin, DW Verner-Jeffreys, JJ Ryan, C Micallef, ..."
-    journal: "Journal of Antimicrobial Chemotherapy 72 (6), 1617-1623, 2017"
-    year: "2017"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:IjCSPb-OGe4C"
-  - title: "Salmonella enterica serovar Typhimurium ST313 responsible for gastroenteritis in the UK are genetically distinct from isolates causing bloodstream infections in …"
-    authors: "PM Ashton, SV Owen, L Kaindama, <strong>WPM Rowe</strong>, C Lane, L Larkin, S Nair, ..."
-    journal: "BioRxiv, 139576, 2017"
-    year: "2017"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Tyk-4Ss8FVUC"
-  - title: "Detection of the florfenicol resistance gene floR in Chryseobacterium isolates from rainbow trout. Exception to the general rule?"
-    authors: "DW Verner-Jeffreys, T Brazier, RY Perez, D Ryder, RM Card, TJ Welch, ..."
-    journal: "FEMS Microbiology Ecology 93 (4), fix015, 2017"
-    year: "2017"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:zYLM7Y9cAGgC"
-  - title: "Comparative metagenomics reveals a diverse range of antimicrobial resistance genes in effluents entering a river catchment"
-    authors: "<strong>W Rowe</strong>, DW Verner-Jeffreys, C Baker-Austin, JJ Ryan, DJ Maskell, ..."
-    journal: "Water Science and Technology 73 (7), 1541-1549, 2016"
-    year: "2016"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:u-x6o8ySG0sC"
-  - title: "Antimicrobial resistance gene monitoring in aquatic environments (thesis)"
-    authors: "<strong>W Rowe</strong>"
-    journal: "University of Cambridge, 2016"
-    year: "2016"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:qjMakFHDy7sC"
-  - title: "Search engine for antimicrobial resistance: a cloud compatible pipeline and web interface for rapidly detecting antimicrobial resistance genes directly from sequence data"
-    authors: "<strong>W Rowe</strong>, KS Baker, D Verner-Jeffreys, C Baker-Austin, JJ Ryan, ..."
-    journal: "PLoS One 10 (7), e0133492, 2015"
-    year: "2015"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:u5HHmVD_uO8C"
-  - title: "Host subtraction, filtering and assembly validations for novel viral discovery using next generation sequencing data"
-    authors: "GM Daly, RM Leggett, <strong>W Rowe</strong>, S Stubbs, M Wilkinson, ..."
-    journal: "PloS one 10 (6), e0129059, 2015"
-    year: "2015"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:9yKSN-GCB0IC"
-  - title: "Post-transcriptional exon shuffling events in humans can be evolutionarily conserved and abundant"
-    authors: "HH Al-Balool, D Weber, Y Liu, M Wade, K Guleria, PLP Nam, J Clayton, ..."
-    journal: "Genome research 21 (11), 1788-1799, 2011"
-    year: "2011"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:2osOgNQ5qMEC"
+- title: Human whole epigenome modelling for clinical applications with Pleiades
+  authors: Pouya Niki, Christoforos Nalmpantis, J. Ganbat, Donal Byrne, Husam Babikir,
+    A. Jhutty, <strong>W. Rowe</strong>, Timing Liu, Netanel Loyfer, S. Toniolo, Masud
+    Husain, Sanjay G. Manohar, Sian Thompson, Ivan Koychev, Henrik Zetterberg, Robert
+    Sugar, A. Malinauskas, Khaled Saab, Hannah Madan, J. Wan, R. Solanki
+  journal: bioRxiv
+  year: '2025'
+  cites: 0
+  link: https://doi.org/10.1101/2025.07.16.665231
+- title: Staphylococcus haemolyticus is a reservoir of antibiotic resistance genes
+    in the preterm infant gut
+  authors: Lisa E. Lamberte, Elizabeth M. Darby, R. Kiu, Robert A. Moran, Antia Acuna-Gonzalez,
+    Kathleen Sim, Alexander G. Shaw, J. S. Kroll, G. Belteki, Paul Clarke, H. Felgate,
+    Mark A. Webber, <strong>Will P. M. Rowe</strong>, L. Hall, Willem van Schaik
+  journal: bioRxiv
+  year: '2025'
+  cites: 1
+  link: https://doi.org/10.1080/19490976.2025.2519700
+- title: Succinate utilisation by Salmonella is inhibited by multiple regulatory systems
+  authors: Nicolas Wenner, Xiaojun Zhu, <strong>W. Rowe</strong>, Kristian Händler,
+    Jay C D Hinton
+  journal: PLoS Genetics
+  year: '2024'
+  cites: 1
+  link: https://doi.org/10.1371/journal.pgen.1011142
+- title: Investigation of hospital discharge cases and SARS-CoV-2 introduction into
+    Lothian care homes
+  authors: S. Cotton, M. McHugh, R. Dewar, J. G. Haas, K. Templeton, S. Robson, T.
+    Connor, N. Loman, T. Golubchik, Rocio Martinez Nunez, D. Bonsall, A. Rambaut,
+    L. Snell, R. Livett, C. Ludden, S. Corden, E. Nastouli, G. Nebbia, I. Johnston,
+    J. Prieto, K. Saeed, David K. Jackson, C. Houlihan, D. Frampton, W. Hamilton,
+    A. Witney, G. Bucca, C. Pope, Catherine Moore, E. Thomson, T. Cutino-Moguel, E.
+    Harrison, Colin P. Smith, Fiona Rogan, Shaun M. Beckwith, Abigail Murray, D. Singleton,
+    K. Eastick, L. Sheridan, P. Randell, L. Jackson, C. Ariani, S. Gonçalves, D. Fairley,
+    M. Loose, J. Watkins, S. Moses, S. Nicholls, M. Bull, R. Amato, Darren L. Smith,
+    D. Aanensen, J. Barrett, B. Kele, D. Aggarwal, J. Shepherd, M. Curran, S. Parmar,
+    M. Parker, Catryn Williams, S. Glaysher, A. Underwood, M. Bashton, Nicole Pacchiarini,
+    Katie F. Loveson, M. Byott, A. Carabelli, K. Templeton, S. Peacock, T. D. de Silva,
+    Dennis Wang, C. Langford, J. Sillitoe, R. Gunson, S. Cottrell, J. O’Grady, Dominic
+    P. Kwiatkowski, P. Lillie, N. Cortes, N. Moore, Claire Thomas, P. Burns, T. Mahungu,
+    S. Liggett, A. Beckett, M. Holden, L. Levett, H. Osman, M. Hassan-Ibrahim, D.
+    A. Simpson, M. Chand, R. Gupta, A. Darby, S. Paterson, O. Pybus, E. Volz, D. De
+    Angelis, David L. Robertson, A. Page, I. Martincorena, Louise Aigrain, Andrew
+    R. Bassett, Nick Wong, Yusri Taha, Michelle J. Erkiert, M. Spencer Chapman, R.
+    Dewar, M. McHugh, S. Mookerjee, Stephen Aplin, M. Harvey, T. Sass, H. Umpleby,
+    H. Wheeler, J. McKenna, B. Warne, Joshua F. Taylor, Y. Chaudhry, Rhys Izuagbe,
+    A. Jahun, G. Young, C. McMurray, C. McCann, Andrew Nelson, Scott Elliott, Hannah
+    Lowe, A. Price, M. Crown, S. Rey, Sunando Roy, Ben Temperton, Sharif Shaaban,
+    A. Hesketh, K. Laing, I. Monahan, J. Heaney, E. Pelosi, Siona Silviera, E. Wilson-Davies,
+    H. Fryer, Helen Adams, L. du Plessis, Robert Johnson, William T. Harvey, J. Hughes,
+    R. Orton, Lewis G. Spurgin, Y. Bourgeois, C. Ruis, Á. O'toole, M. Gourtovaia,
+    T. Sanderson, C. Fraser, J. Edgeworth, Judith Breuer, S. Michell, J. Todd, M.
+    John, D. Buck, K. Gajee, Gemma L. Kay, David Heyburn, T. Charalampous, A. Alcolea-Medina,
+    Katie Kitchman, A. McNally, David T. Pritchard, S. Dervisevic, P. Muir, E. Robinson,
+    Barry B. Vipond, Newara Ramadan, Christopher Jeanes, Danni Weldon, Jana Catalan,
+    Neil Jones, A. da Silva Filipe, Chris Williams, Marc Fuchs, Julia Miskelly, A.
+    Jeffries, Karen Oliver, Naomi R. Park, Amy Ash, C. Koshy, Magdalena Barrow, S.
+    Buchan, Anna Mantzouratou, G. Clark, C. Holmes, Sharon Campbell, Thomas Davis,
+    Ngee Keong Tan, Julianne R. Brown, K. Harris, S. Kidd, P. Grant, Li Xu-McCrae,
+    A. Cox, P. Madona, M. Pond, P. Randell, Karen T. Withell, Cheryl Williams, Clive
+    Graham, Rebecca Denton-Smith, E. Swindells, Robyn Turnbull, T. Sloan, A. Bosworth,
+    S. Hutchings, Hannah M. Pymont, A. Casey, Liz Ratcliffe, Christopher R. Jones,
+    B. Knight, T. Haque, J. Hart, Dianne Irish-Tavares, E. Witele, Craig Mower, Louisa
+    K Watson DipHE, J. Collins, G. Eltringham, Dorian Crudgington, B. Macklin, M.
+    Iturriza-Gómara, Anita O. Lucaci, P. McClure, Matthew Carlile, Nadine Holmes,
+    Christopher Moore, N. Storey, Stefan Rooke, G. Yebra, N. Craine, Malorie Perry,
+    N. Alikhan, S. Bridgett, Kate F. Cook, C. Fearn, S. Goudarzi, R. Lyons, T. Williams,
+    S. Haldenby, J. Durham, Steven Leonard, Robert M. Davies, R. Batra, B. Blane,
+    M. Spyer, P. Smith, Mehmet Yavus, Rachel J. Williams, A. Mahanama, Buddhini Samaraweera,
+    Sophia T. Girgis, Samantha E Hansford CSci, A. Green, C. Beaver, Katherine L.
+    Bellis, Matthew J. Dorman, Sally Kay, Liam J. Prestwood, S. Rajatileka, J. Quick,
+    Radoslaw Poplawski, N. Reynolds, A. Mack, A. Morriss, Thomas Whalley, Bindi Patel,
+    I. Georgana, M. Hosmillo, M. Pinckert, Joanne Stockton, J. H. Henderson, Amy Hollis,
+    W. Stanley, W. Yew, R. Myers, A. Thornton, Alexander Adams, Tara Annett, H. Asad,
+    Alec Birchley, J. Coombes, John Evans, L. Fina, Bree Gatica-Wilcox, L. Gilbert,
+    Lee H. Graham, Jessica Hey, Ember Hilvers, Sophie Jones, H. Jones, Sara Kumžiene-Summerhayes,
+    C. McKerr, Jessica Powell, G. Pugh, Sarah Taylor, A. Trotter, C. Williams, L.
+    Kermack, B. Foulkes, M. Gallis, H. Hornsby, S. Louka, Manoj Baliram Pohare, P.
+    Wolverson, Peijun Zhang, G. Macintyre-Cockett, A. Trebes, Robin J. Moll, Lynne
+    Ferguson, E. Goldstein, A. Maclean, Rachael M Tomb, Igor Starinskij, L. Thomson,
+    Joel Southgate, M. Kraemer, J. Raghwani, A. Zarebski, O. Boyd, L. Geidelberg,
+    Christopher J. R. Illingworth, Christopher H Jackson, D. Pascall, S. Vattipally,
+    T. Freeman, S. N. Hsu, B. Lindsey, Keith James, Kevin Lewis, G. Tonkin-Hill, Jaime
+    M. Tovar-Corona, MacGregor Cox, K. AbuDahab, Mirko Menegazzo, Ben Taylor, C. Yeats,
+    Afrida Mukaddas, Derek W. Wright, L. de Oliveira Martins, R. Colquhoun, V. Hill,
+    B. Jackson, J. McCrone, N. Medd, Emily Scher, J. Keatley, T. Curran, Sian Morgan,
+    P. Maxwell, Ken Smith, Sahar Eldirdiri, Anita Kenyon, A. Holmes, J. Price, Tim
+    Wyatt, A. Mather, T. Skvortsov, J. Hartley, Martyn F Guest, C. Kitchen, I. Merrick,
+    R. Munn, B. Bertolusso, J. Lynch, G. Vernet, S. Kirk, E. Wastnedge, Rachael Stanley,
+    Giles Idle, D. Bradley, N. Killough, Jennifer Poyner, M. Mori, Owen Jones, V.
+    Wright, E. Brooks, C. Churcher, Laia Delgado Callico, Mireille Fragakis, Katerina
+    Galai, A. Jermy, Sarah Judges, Anna Markov, Georgina M. McManus, Kim S. Smith,
+    Peter M D Thomas-McEwen, Elaine Westwick, S. Attwood, F. Bolt, A. Davies, E. De
+    Lacy, Fatima Downing, Sue Edwards, Lizzie Meadows, Sarah Jeremiah, Nikki Smith,
+    Luke Foulser, Amita Patel, L. Berry, T. Boswell, Vicki M. Fleming, H. Howson-Wells,
+    A. Joseph, Manjinder Khakh, M. Lister, P. Bird, K. Fallon, Thomas Helmer, C. McMurray,
+    Minaxshi Odedra, Jessica Shaw, Julian W. Tang, Nicholas J. Willford, Victoria
+    Blakey, Veena Raviprakash, Nicola Sheriff, L. Williams, T. Feltwell, L. Bedford,
+    J. Cargill, W. Hughes, J. Moore, Susanne Stonehouse, Laura Atkinson, Jack C. D.
+    Lee, D. Shah, Natasha Ohemeng-Kumi, J. Ramble, Jasveen K. Sehmi, Rebecca Williams,
+    W. Chatterton, Monika Pusok, William Everson, Anibolina Castigador, E. Macnaughton,
+    K. El Bouzidi, Temi Lampejo, M. Sudhanva, Cathy Breen, Graciela Sluga, Shazaad
+    Ahmad, R. George, Nicholas W. Machin, D. Binns, Victoria L. James, Rachel M Blacow,
+    Lindsay J. Coupland, Louise Smith, E. Barton, D. Padgett, Garren Scott, A. Cross,
+    M. Mirfenderesky, J. Greenaway, Kevin R. Cole, P. Clarke, Nichola Duckworth, Sarah
+    Walsh, K. Bicknell, R. Impey, S. Wyllie, R. Hopes, Chloe Bishop, Vicki Chalker,
+    Ian Harrison, Laura Gifford, Z. Molnár, C. Auckland, C. Evans, Katie Johnson,
+    D. Partridge, M. Raza, P. Baker, S. Bonner, S. Essex, Leanne J. Murray, Andrew
+    I. Lawton, S. Burton-Fanning, Brendan A. I. Payne, S. Waugh, Andrea N. Gomes,
+    Maimuna Kimuli, D. Murray, Paula Ashfield, D. Dobie, F. Ashford, A. Best, L. Crawford,
+    Nicola Cumley, M. Mayhew, O. Megram, J. Mirza, E. Moles-Garcia, B. Percival
+  journal: Journal of Hospital Infection
+  year: '2023'
+  cites: 5
+  link: https://doi.org/10.1016/j.jhin.2023.02.010
+- title: Salmonella succinate utilisation is inhibited by multiple regulatory systems
+  authors: N. Wenner, Xiaojun Zhu, <strong>W. Rowe</strong>, Kristian Händler, J.
+    Hinton
+  journal: bioRxiv
+  year: '2022'
+  cites: 1
+  link: https://doi.org/10.1101/2022.12.21.521472
+- title: 'COVID-19 due to the B.1.617.2 (Delta) variant compared to B.1.1.7 (Alpha)
+    variant of SARS-CoV-2: a prospective observational cohort study'
+  authors: Kerstin Kläser, E. Molteni, M. Graham, L. Canas, M. F. Österdahl, M. Antonelli,
+    Liyuan Chen, J. Deng, B. Murray, E. Kerfoot, Jonathan Wolf, A. May, B. Fox, J.
+    Capdevila, David M. Khalil Helen Alexander Safiah Dinesh Shazaad S. Aanensen Abudahab
+    Adams Adams Afifi Aggarwal Ahmad, D. Aanensen, K. AbuDahab, Helen Adams, Alexander
+    Adams, Safiah Afifi, D. Aggarwal, Shazaad Ahmad, Louise Aigrain, A. Alcolea-Medina,
+    N. Alikhan, Elias Allara, R. Amato, A. Angyal, Tara Annett, Stephen Aplin, C.
+    Ariani, H. Asad, Amy Ash, Paula Ashfield, F. Ashford, Laura Atkinson, S. Attwood,
+    C. Auckland, Alp Aydin, David J. Baker, P. Baker, Carlos E. Balcazar, J. Ball,
+    J. Barrett, Magdalena Barrow, E. Barton, M. Bashton, Andrew Bassett, R. Batra,
+    Chris Baxter, N. Bayzid, C. Beaver, A. Beckett, Shaun M. Beckwith, L. Bedford,
+    Robert Beer, A. Beggs, Katherine L. Bellis, L. Berry, B. Bertolusso, A. Best,
+    Emma Betteridge, D. Bibby, K. Bicknell, D. Binns, Alec Birchley, P. Bird, Chloe
+    Bishop, Rachel M Blacow, Victoria Blakey, B. Blane, F. Bolt, J. Bonfield, S. Bonner,
+    D. Bonsall, T. Boswell, A. Bosworth, Y. Bourgeois, O. Boyd, D. Bradley, Cathy
+    Breen, C. Bresner, Judith Breuer, S. Bridgett, I. Bronner, E. Brooks, Alice Broos,
+    J. Brown, G. Bucca, S. Buchan, D. Buck, M. Bull, P. Burns, S. Burton-Fanning,
+    T. Byaruhanga, M. Byott, Sharon Campbell, A. Carabelli, J. S. Cargill, Matthew
+    Carlile, S. F. Carvalho, A. Casey, Anibolina Castigador, Jana Catalan, Vicki Chalker,
+    Nicola J. Chaloner, M. Chand, J. Chappell, T. Charalampous, W. Chatterton, Y.
+    Chaudhry, C. Churcher, G. Clark, P. Clarke, Benjamin J. Cogger, Kevin R. Cole,
+    J. Collins, R. Colquhoun, T. Connor, Kate F. Cook, J. Coombes, S. Corden, C. Cormie,
+    N. Cortes, M. Cotic, S. Cotton, S. Cottrell, Lindsay J. Coupland, MacGregor Cox,
+    A. Cox, N. Craine, L. Crawford, A. Cross, M. Crown, Dorian Crudgington, Nicola
+    Cumley, T. Curran, M. Curran, A. da Silva Filipe, G. Dabrera, A. Darby, Rose K.
+    Davidson, A. Davies, Robert M. Davies, Thomas Davis, D. De Angelis, E. De Lacy,
+    L. de Oliveira Martins, T. D. de Silva, Johnny Debebe, Rebecca Denton-Smith, S.
+    Dervisevic, R. Dewar, Jayasree Dey, Joana Dias, D. Dobie, Matthew J. Dorman, Fatima
+    Downing, M. Driscoll, L. du Plessis, Nichola Duckworth, J. Durham, K. Eastick,
+    Lisa J. Easton, R. Eccles, J. Edgeworth, Sue Edwards, Kate El Bouzidi, Sahar Eldirdiri,
+    N. Ellaby, Scott Elliott, G. Eltringham, L. Ensell, Michelle J. Erkiert, M. Zamudio,
+    S. Essex, John Evans, C. Evans, William Everson, D. Fairley, K. Fallon, Arezou
+    Fanaie, Ben W. Farr, C. Fearn, T. Feltwell, Lynne Ferguson, L. Fina, F. Flaviani,
+    Vicki M. Fleming, S. Forrest, Ebenezer Foster-Nyarko, B. Foulkes, Luke Foulser,
+    Mireille Fragakis, D. Frampton, Sarah François, C. Fraser, T. Freeman, H. Fryer,
+    Marc Fuchs, William Fuller, K. Gajee, Katerina Galai, Abbie Gallagher, E. Gallagher,
+    Michael D. Gallagher, M. Gallis, Amy Gaskin, Bree Gatica-Wilcox, L. Geidelberg,
+    M. Gemmell, I. Georgana, R. George, Laura Gifford, L. Gilbert, Sophia T. Girgis,
+    S. Glaysher, E. Goldstein, T. Golubchik, Andrea N. Gomes, S. Gonçalves, I. Goodfellow,
+    S. Goodwin, S. Goudarzi, M. Gourtovaia, Clive Graham, Lee H. Graham, Paul R. Grant,
+    Luke R. Green, A. Green, J. Greenaway, R. Gregory, Martyn F Guest, R. Gunson,
+    R. Gupta, B. Gutiérrez, S. Haldenby, W. Hamilton, Samantha E Hansford, T. Haque,
+    K. A. Harris, Ian Harrison, E. Harrison, J. Hart, John A Hartley, William T. Harvey,
+    M. Harvey, M. Hassan-Ibrahim, J. Heaney, Thomas Helmer, J. H. Henderson, Andrew
+    R. Hesketh, Jessica Hey, David Heyburn, E. Higginson, V. Hill, Jack D. Hill, Rachel
+    A. Hilson, Ember Hilvers, Matthew T. G. Holden, Amy Hollis, C. Holmes, N. Holmes,
+    Alice Holmes, R. Hopes, H. Hornsby, M. Hosmillo, C. Houlihan, H. Howson-Wells,
+    S. N. Hsu, Jonathan Hubb, Hannah Huckson, W. Hughes, J. Hughes, Margaret Hughes,
+    S. Hutchings, Giles Idle, C. Illingworth, R. Impey, Dianne Irish-Tavares, M. Iturriza-Gómara,
+    Rhys Izuagbe, Christopher H Jackson, B. Jackson, Leigh M. Jackson, K. Jackson,
+    David K. Jackson, A. Jahun, Victoria L. James, Keith James, Christopher Jeanes,
+    Aaron R. Jeffries, Sarah Jeremiah, A. Jermy, M. John, Robert Johnson, Katie Johnson,
+    I. Johnston, Owen Jones, Sophie Jones, H. Jones, Christopher R. Jones, Neil Jones,
+    A. Joseph, Sarah Judges, Gemma L. Kay, Sally Kay, J. Keatley, A. Keeley, Anita
+    Kenyon, L. Kermack, Manjinder Khakh, Stephen P. Kidd, Maimuna Kimuli, S. Kirk,
+    C. Kitchen, Katie Kitchman, Bridget A. Knight, Cherian Koshy, M. Kraemer, Sara
+    Kumžiene-Summerhayes, Dominic P. Kwiatkowski, A. Lackenby, K. Laing, Temi Lampejo,
+    CORDELIA F. Langford, Deborah Lavin, Andrew I. Lawton, Jack C. D. Lee, David Lee,
+    Stefanie V. Lensing, Steven Leonard, L. Levett, Thanh Le-Viet, Jonathan Lewis,
+    Kevin Lewis, Jennifier Liddle, S. Liggett, P. Lillie, B. Lindsey, M. Lister, R.
+    Livett, Stephanie H. Lo, N. Loman, M. Loose, S. Louka, Katie F. Loveson, Sarah
+    Lowdon, Hannah Lowe, Helen L Lowe, Anita O. Lucaci, C. Ludden, J. Lynch, R. Lyons,
+    K. Lythgoe, Nicholas W. Machin, G. Macintyre-Cockett, A. Mack, B. Macklin, A.
+    Maclean, E. Macnaughton, P. Madona, Mailis Maes, Laurentiu Maftei, A. Mahanama,
+    T. Mahungu, D. Mair, Joshua Maksimovic, Cassandra S. Malone, Daniel S. Maloney,
+    Nikos Manesis, R. Manley, Anna Mantzouratou, A. Marchbank, Arun Mariappan, I.
+    Martincorena, R. M. Nunez, A. Mather, P. Maxwell, M. Mayhew, T. Mbisa, C. McCann,
+    Shane A. McCarthy, Kathryn Mccluggage, P. McClure, J. McCrone, M. McHugh, J. McKenna,
+    C. McKerr, Georgina M. McManus, C. McMurray, C. McMurray, Alan McNally, Lizzie
+    Meadows, N. Medd, O. Megram, Mirko Menegazzo, I. Merrick, S. Michell, M. Michelsen,
+    M. Mirfenderesky, J. Mirza, Julia Miskelly, E. Moles-Garcia, Robin J. Moll, Z.
+    Molnár, Irene M. Monahan, Matteo Mondani, S. Mookerjee, Christopher Moore, J.
+    Moore, N. Moore, Catherine Moore, Helen Morcrette, Sian Morgan, M. Morgan, M.
+    Mori, A. Morriss, S. Moses, Craig Mower, P. Muir, Afrida Mukaddas, Florence Munemo,
+    R. Munn, Abigail Murray, Leanne J. Murray, D. Murray, Manasa Mutingwende, R. Myers,
+    E. Nastouli, G. Nebbia, Andrew Nelson, Charlotte Nelson, S. Nicholls, J. Nichols,
+    Roberto Nicodemi, K. Nomikou, Justin O’Grady, S. O’Brien, Minaxshi Odedra, Natasha
+    Ohemeng-Kumi, Karen Oliver, R. Orton, H. Osman, Á. O'toole, Nicole Pacchiarini,
+    D. Padgett, A. Page, Emily J. Park, Naomi R. Park, M. Parker, S. Parmar, D. Partridge,
+    D. Pascall, Amita Patel, Bindi Patel, Steve Paterson, Brendan A. I. Payne, Sharon
+    J. Peacock, C. Pearson, E. Pelosi, B. Percival, Jonathan S Perkins, Malorie Perry,
+    M. Pinckert, S. Platt, Olga Podplomyk, Manoj Baliram Pohare, M. Pond, C. Pope,
+    Radoslaw Poplawski, Jessica Powell, Jennifer Poyner, Liam J. Prestwood, A. Price,
+    J. Price, Jacqui A. Prieto, David T. Pritchard, Sophie J Prosolek, G. Pugh, Monika
+    Pusok, O. Pybus, Hannah M. Pymont, Michael A. Quail, Joshua Quick, Clara H. Radulescu,
+    J. Raghwani, M. Ragonnet-Cronin, L. Rainbow, D. Rajan, S. Rajatileka, Newara Ramadan,
+    A. Rambaut, J. Ramble, P. Randell, P. Randell, Liz Ratcliffe, Veena Raviprakash,
+    M. Raza, Nicholas M. Redshaw
+  journal: Scientific Reports
+  year: '2022'
+  cites: 29
+  link: https://doi.org/10.1038/s41598-022-14016-0
+- title: Genomic assessment of quarantine measures to prevent SARS-CoV-2 importation
+    and transmission
+  authors: D. Aggarwal, A. Page, Ulf Schaefer, G. Savva, R. Myers, Erik M. Volz, N.
+    Ellaby, S. Platt, N. Groves, E. Gallagher, N. Tumelty, Thanh Le Viet, G. Hughes,
+    Cong Chen, C. Turner, Sophie Logan, Abbie Harrison, Cherian Amy Emma Nathan Matilde
+    Nick Jessica Stephen Derek Koshy Ash Wise Moore Mori Cortes Lynch Kidd Fairle,
+    C. Koshy, Amy Ash, Emma Wise, N. Moore, M. Mori, N. Cortes, J. Lynch, Stephen
+    P. Kidd, D. Fairley, T. Curran, J. McKenna, Helen Adams, C. Fraser, T. Golubchik,
+    D. Bonsall, M. Hassan-Ibrahim, Cassandra S. Malone, Benjamin J. Cogger, Michelle
+    Wantoch, N. Reynolds, B. Warne, Joshua Maksimovic, Karla Spellman, Kathryn Mccluggage,
+    M. John, Robert Beer, Safiah Afifi, Sian Morgan, A. Marchbank, A. Price, C. Kitchen,
+    Huw Gulliver, I. Merrick, Joel Southgate, Martyn F Guest, R. Munn, T. Workman,
+    T. Connor, William Fuller, C. Bresner, L. Snell, Amita Patel, T. Charalampous,
+    G. Nebbia, R. Batra, J. Edgeworth, S. Robson, A. Beckett, D. Aanensen, Anthony
+    Underwood, C. Yeats, K. AbuDahab, Ben Taylor, Mirko Menegazzo, G. Clark, Wendy
+    A. Smith, Manjinder Khakh, Vicki M. Fleming, M. Lister, H. Howson-Wells, L. Berry,
+    T. Boswell, A. Joseph, Iona Willingham, Carl Jones, C. Holmes, P. Bird, Thomas
+    Helmer, K. Fallon, Julian W. Tang, Veena Raviprakash, Sharon Campbell, Nicola
+    Sheriff, Victoria Blakey, L. Williams, M. Loose, N. Holmes, Christopher Moore,
+    Matthew Carlile, V. Wright, Fei Sang, Johnny Debebe, Francesc Coll, A. Signell,
+    G. Betancor, Harry D. Wilson, Sahar Eldirdiri, Anita Kenyon, Thomas Davis, O.
+    Pybus, L. du Plessis, A. Zarebski, J. Raghwani, M. Kraemer, Sarah François, S.
+    Attwood, T. Vasylyeva, M. Zamudio, B. Gutiérrez, M. Torok, W. Hamilton, I. Goodfellow,
+    G. Hall, A. Jahun, Y. Chaudhry, M. Hosmillo, M. Pinckert, I. Georgana, S. Moses,
+    Hannah Lowe, L. Bedford, J. Moore, Susanne Stonehouse, Chloe Fisher, A. R. Awan,
+    John Boyes, Judith Breuer, K. A. Harris, J. Brown, D. Shah, Laura Atkinson, Jack
+    C. D. Lee, N. Storey, F. Flaviani, A. Alcolea-Medina, Rebecca Williams, G. Vernet,
+    Michael Chapman, L. Levett, J. Heaney, W. Chatterton, Monika Pusok, Li Xu-McCrae,
+    Darren L. Smith, M. Bashton, G. Young, Alice Holmes, P. Randell, A. Cox, P. Madona,
+    F. Bolt, J. Price, S. Mookerjee, M. Ragonnet-Cronin, F. F. Nascimento, D. Jorgensen,
+    Igor Siveroni, Robert Johnson, O. Boyd, L. Geidelberg, Erik M. Volz, A. Rowan,
+    Graham P. Taylor, Katherine Smollett, N. Loman, Joshua Quick, C. McMurray, Joanne
+    Stockton, S. Nicholls, <strong>W. Rowe</strong>, Radoslaw Poplawski, Alan McNally,
+    R. M. Nunez, J. Mason, T. Robinson, E. O’Toole, Joanne Watts, Cathy Breen, A.
+    Cowell, Graciela Sluga, Nicholas W. Machin, Shazaad Ahmad, R. George, F. Halstead,
+    Venkat Sivaprakasam, Wendy Hogsden, C. Illingworth, Christopher H Jackson, E.
+    Thomson, J. Shepherd, P. Asamaphan, M. Niebel, Kathy K Li, Rajiv Shah, Natasha
+    Jesudason, Lily Tong, Alice Broos, D. Mair, J. Nichols, Stephen Carmichael, K.
+    Nomikou, Elihu Aranday-Cortes, N. Johnson, Igor Starinskij, A. da Silva Filipe,
+    David L. Robertson, R. Orton, Joseph Hughes, S. Vattipally, Joshua B. Singer,
+    Seema Nickbakhsh, Antony D. Hale, L. Macfarlane-Smith, Katherine L. Harper, H.
+    Carden, Yusri Taha, Brendan A. I. Payne, S. Burton-Fanning, S. Waugh, J. Collins,
+    G. Eltringham, S. Rushton, S. O’Brien, A. Bradley, A. Maclean, Guy Mollett, Rachel
+    M Blacow, K. Templeton, Martin P. McHugh, R. Dewar, Elizabeth Wastenge, S. Dervisevic,
+    Rachael Stanley, E. Meader, Lindsay J. Coupland, Louise Smith, Clive Graham, E.
+    Barton, D. Padgett, Garren Scott, E. Swindells, J. Greenaway, Andrew Nelson, C.
+    McCann, W. Yew, Monique Andersson, T. Peto, A. Justice, David Eyre, Derrick W
+    Crook, T. Sloan, Nichola Duckworth, Sarah Walsh, Anoop J. Chauhan, S. Glaysher,
+    K. Bicknell, S. Wyllie, Scott Elliott, Allyson Lloyd, R. Impey, Nick Levene, Lynn
+    Monaghan, D. Bradley, Tim Wyatt, Elias Allara, C. Pearson, H. Osman, A. Bosworth,
+    E. Robinson, P. Muir, I. Vipond, R. Hopes, Hannah M. Pymont, S. Hutchings, M.
+    Curran, S. Parmar, A. Lackenby, T. Mbisa, S. Miah, D. Bibby, C. Manso, Jonathan
+    Hubb, G. Dabrera, M. Ramsay, D. Bradshaw, Alicia Thornton, David Lee, David Williams,
+    Ian Harrison, H. Hartman, Nikos Manesis, Vineet Patel, Chloe Bishop, Vicki Chalker,
+    Juan Ledesma, K. Twohig, Matthew T. G. Holden, Sharif Shaaban, Alec Birchley,
+    Alexander Adams, A. Davies, Amy Gaskin, Amy Plimmer, Bree Gatica-Wilcox, C. McKerr,
+    Catherine Moore, Chris Williams, David Heyburn, E. De Lacy, Ember Hilvers, Fatima
+    Downing, Giri Shankar, H. Jones, H. Asad, J. Coombes, J. Watkins, John Evans,
+    L. Fina, Laura Gifford, L. Gilbert, Lee H. Graham, Malorie Perry, M. Morgan, M.
+    Bull, M. Cronin, Nicole Pacchiarini, N. Craine, Rachel Jones, R. Howe, S. Corden,
+    S. Rey, Sara Kumžiene-Summerhayes, Sarah Taylor, S. Cottrell, Sophie Jones, Sue
+    Edwards, Justin O’Grady, A. Mather, David J. Baker, Steven Rudder, Alp Aydin,
+    Gemma L. Kay, A. Trotter, N. Alikhan, L. de Oliveira Martins, Thanh Le-Viet, Lizzie
+    Meadows, A. Casey, Liz Ratcliffe, D. A. Simpson, Z. Molnár, T. Thompson, Erwan
+    Acheson, Jane A. H. Masoli, Bridget A. Knight, Sian Ellard, C. Auckland, Christopher
+    R. Jones, T. Mahungu, Dianne Irish-Tavares, T. Haque, J. Hart, E. Witele, M. Fenton,
+    Ashok Dadrah, Amanda Symmonds, T. Saluja, Y. Bourgeois, G. Scarlett, Katie F.
+    Loveson, S. Goudarzi, C. Fearn, Kate F. Cook, Hannah Dent, Hannah L. Paul, David
+    G. Partridge, M. Raza, C. Evans, Katie Johnson, S. Liggett, P. Baker, S. Bonner,
+    S. Essex, R. Lyons, K. Saeed, A. Mahanama, Buddhini Samaraweera, S. Silveira,
+    E. Pelosi, E. Wilson-Davies, Rachel J. Williams, Mark Kristiansen, Sunando Roy,
+    C. Williams, M. Cotic, N. Bayzid, A. Westhorpe, John A Hartley, Riaz Jannoo, Helen
+    L Lowe, Angeliki Karamani, L. Ensell, Jacqui A. Prieto, Sarah Jeremiah, D. Grammatopoulos,
+    Sarojini Pandey, L. Berry, K. Jones, Alex Richter, A. Beggs, A. Best, B. Percival,
+    J. Mirza, O. Megram, M. Mayhew, L. Crawford, F. Ashcroft, E. Moles-Garcia, Nicola
+    Cumley, Colin P. Smith, G. Bucca, Andrew R. Hesketh, B. Blane, Sophia T. Girgis,
+    D. Leek, S. Sridhar, S. Forrest, C. Cormie, Harmeet Gill, Joana Dias, E. Higginson,
+    Mailis Maes, Jamie Young, L. Kermack, R. Gupta, C. Ludden, Sharon J. Peacock,
+    Sophie Palmer, C. Churcher, Nazreen F. Hadjirin, A. Carabelli, E. Brooks, Kim
+    S. Smith, Katerina Galai, Georgina M. McManus, C. Ruis, Rose K. Davidson, A. Rambaut,
+    T. Williams, Carlos E. Balcazar, Michael D. Gallagher, Á. O'toole, Stefan Rooke,
+    V. Hill, K. Williamson, Thomas D. Stanton, S. Michell, C. Bewshea, Ben Temperton,
+    M. Michelsen, J. Warwick-Dugdale, R. Manley, A. Farbos, James W. Harrison, C.
+    Sambles, D. Studholme, Aaron R. Jeffries, A. Darby, J. Hiscox, Steve Paterson,
+    M. Iturriza-Gómara, K. Jackson, Anita O. Lucaci, Edith E. Vamos, Margaret Hughes,
+    L. Rainbow, R. Eccles, Charlotte Nelson, Mark Whitehead, L. Turtle, S. Haldenby,
+    R. Gregory, M. Gemmell, C. Wierzbicki, H. Webster, T. D. de Silva, Nikki Smith,
+    A. Angyal, B. Lindsey, Danielle C. Groves, Luke R. Green, Dennis Wang
+  journal: Nature Communications
+  year: '2022'
+  cites: 9
+  link: https://doi.org/10.1038/s41467-022-28371-z
+- title: SARS-CoV-2 Omicron is an immune escape variant with an altered cell entry
+    pathway
+  authors: B. Willett, J. Grove, O. MacLean, C. Wilkie, G. De Lorenzo, Wilhelm Furnon,
+    D. Cantoni, S. Scott, N. Logan, Shirin Ashraf, Maria Manali, Agnieszka M. Szemiel,
+    V. Cowton, Elen Vink, William T. Harvey, Chris Davis, P. Asamaphan, Katherine
+    Smollett, Lily Tong, Richard J. Orton, Joseph Hughes, P. Holland, Vanessa Silva,
+    D. Pascall, K. Puxty, A. da Silva Filipe, G. Yebra, Sharif Shaaban, Matthew T.
+    G. Holden, R. Pinto, R. Gunson, K. Templeton, P. Murcia, Arvind H. Patel, Paul
+    Klenerman, S. Dunachie, Susanna Paul Eleanor Anthony Sandra Barbara Sam M. Priyank
+    Dunachie Klenerman Barnes Brown Adele Kronsteiner , S. Dunachie, Paul Klenerman,
+    Eleanor Barnes, Anthony Brown, S. Adele, B. Kronsteiner, Sam M. Murray, P. Abraham,
+    A. Deeks, M. Ansari, T. D. de Silva, L. Turtle, S. Moore, J. Austin, Alex Richter,
+    C. Duncan, R. Payne, Amy Cherian Beatrix Teresa Derek J. James P. Tanya Hel Ash
+    Koshy Kele Cutino-Moguel Fairley McKenna Curra, Amy Ash, C. Koshy, B. Kele, T.
+    Cutino-Moguel, D. Fairley, J. McKenna, T. Curran, Helen Adams, C. Fraser, D. Bonsall,
+    H. Fryer, K. Lythgoe, L. Thomson, T. Golubchik, Abigail Murray, D. Singleton,
+    Shaun M. Beckwith, Anna Mantzouratou, Magdalena Barrow, S. Buchan, N. Reynolds,
+    B. Warne, Joshua Maksimovic, Karla Spellman, Kathryn Mccluggage, M. John, Robert
+    Beer, Safiah Afifi, Sian Morgan, A. Mack, A. Marchbank, A. Price, A. Morriss,
+    C. Bresner, C. Kitchen, I. Merrick, Joel Southgate, Martyn F Guest, Owen Jones,
+    R. Munn, T. Connor, Thomas Whalley, T. Workman, William Fuller, Amita Patel, Bindi
+    Patel, G. Nebbia, J. Edgeworth, L. Snell, R. Batra, T. Charalampous, A. Beckett,
+    E. Shelest, S. Robson, A. Underwood, Ben Taylor, C. Yeats, D. Aanensen, K. AbuDahab,
+    Mirko Menegazzo, A. Joseph, G. Clark, H. Howson-Wells, L. Berry, Manjinder Khakh,
+    M. Lister, T. Boswell, Vicki M. Fleming, C. Holmes, C. McMurray, Jessica Shaw,
+    Julian W. Tang, K. Fallon, Minaxshi Odedra, Nicholas J. Willford, P. Bird, Thomas
+    Helmer, L. Williams, Nicola Sheriff, Sharon Campbell, Veena Raviprakash, Victoria
+    Blakey, Christopher Moore, Fei Sang, Johnny Debebe, Matthew Carlile, M. Loose,
+    N. Holmes, V. Wright, M. Torok, W. Hamilton, A. Carabelli, A. Jermy, B. Blane,
+    C. Churcher, C. Ludden, D. Aggarwal, Elaine Westwick, E. Brooks, Georgina M. McManus,
+    Katerina Galai, Kenneth G. C. Smith, Kim S. Smith, MacGregor Cox, Mireille Fragakis,
+    P. Maxwell, Sarah Judges, S. Peacock, T. Feltwell, Anita Kenyon, Sahar Eldirdiri,
+    Thomas Davis, Joshua F. Taylor, Ngee Keong Tan, A. Zarebski, B. Gutiérrez, J.
+    Raghwani, L. du Plessis, M. Kraemer, O. Pybus, Sarah François, S. Attwood, T.
+    Vasylyeva, A. Jahun, I. Goodfellow, I. Georgana, M. Pinckert, M. Hosmillo, Rhys
+    Izuagbe, Y. Chaudhry, Felicity Ryan, Hannah Lowe, S. Moses, L. Bedford, J. Cargill,
+    W. Hughes, J. Moore, Susanne Stonehouse, D. Shah, Jack C. D. Lee, Julianne R.
+    Brown, K. Harris, Laura Atkinson, N. Storey, M. Spyer, F. Flaviani, A. Alcolea-Medina,
+    J. Sehmi, J. Ramble, Natasha Ohemeng-Kumi, P. Smith, B. Bertolusso, Claire Thomas,
+    G. Vernet, J. Lynch, N. Moore, N. Cortes, Rebecca Williams, S. Kidd, L. Levett,
+    Monika Pusok, P. Grant, S. Kirk, W. Chatterton, Li Xu-McCrae, Darren L. Smith,
+    G. Young, M. Bashton, Katie Kitchman, K. Gajee, K. Eastick, P. Lillie, P. Burns,
+    William Everson, A. Cox, A. Holmes, F. Bolt, J. Price, M. Pond, P. Randell, P.
+    Madona, S. Mookerjee, E. Volz, L. Geidelberg, M. Ragonnet-Cronin, O. Boyd, Robert
+    Johnson, C. Pope, A. Witney, I. Monahan, K. Laing, Katherine Smollett, A. McNally,
+    C. McMurray, Joanne Stockton, J. Quick, N. Loman, Radoslaw Poplawski, S. Nicholls,
+    <strong>W. Rowe</strong>, Anibolina Castigador, E. Macnaughton, Kate El Bouzidi,
+    M. Sudhanva, Temi Lampejo, Rocio Martinez Nunez, Cathy Breen, Graciela Sluga,
+    Karen T. Withell, Nicholas W. Machin, R. George, Shazaad Ahmad, David T. Pritchard,
+    D. Binns, Nick Wong, Victoria L. James, Cheryl Williams, Christopher J. R. Illingworth,
+    Christopher H Jackson, D. De Angelis, D. Pascall, Afrida Mukaddas, Alice Broos,
+    A. da Silva Filipe, D. Mair, David L. Robertson, Derek W. Wright, E. Thomson,
+    Igor Starinskij, Ioulia Tsatsani, J. Shepherd, J. Nichols, Joseph Hughes, K. Nomikou,
+    Lily Tong, Richard J. Orton, S. Vattipally, William T. Harvey, R. Sanderson, S.
+    O’Brien, S. Rushton, Jon Perkins, Rachel M Blacow, R. Gunson, Abbie Gallagher,
+    E. Wastnedge, K. Templeton, M. McHugh, R. Dewar, S. Cotton, Lindsay J. Coupland,
+    Rachael Stanley, S. Dervisevic, Lewis G. Spurgin, Louise Smith, Clive Graham,
+    D. Padgett, E. Barton, Garren Scott, A. Cross, M. Mirfenderesky, E. Swindells,
+    J. Greenaway, Rebecca Denton-Smith, Robyn Turnbull, Giles Idle, K. Cole, Amy Hollis,
+    Andrew Nelson, C. McCann, J. H. Henderson, M. Crown, W. Yew, W. Stanley, Nichola
+    Duckworth, P. Clarke, Sarah Walsh, T. Sloan, K. Bicknell, R. Impey, S. Wyllie,
+    Scott Elliott, S. Glaysher, D. Bradley, N. Killough, Tim Wyatt, A. Bosworth, Barry
+    B. Vipond, C. Pearson, E. Allara, E. Robinson, Hannah M. Pymont, H. Osman, P.
+    Muir, R. Hopes, S. Hutchings, M. Curran, S. Parmar, A. Thornton, A. Lackenby,
+    Chloe Bishop, D. Bibby, David Lee, E. Gallagher, G. Dabrera, Ian Harrison, Jonathan
+    Hubb, K. Twohig, M. Chand, N. Ellaby, Nikos Manesis, R. Myers, S. Platt, T. Mbisa,
+    Vicki Chalker, G. Yebra, Matthew T. G. Holden, Sharif Shaaban, Stefan Rooke, Alec
+    Birchley, Alexander Adams, A. Davies, Amy Gaskin, Bree Gatica-Wilcox, C. McKerr,
+    Catherine Moore, Catryn Williams, Chris J Williams, David Heyburn, E. De Lacy,
+    Ember Hilvers, Fatima Downing, G. Pugh, H. Jones, H. Asad, J. Coombes, Jessica
+    Hey, Jessica Powell, J. Watkins, John Evans, L. Fina, Laura Gifford, L. Gilbert,
+    Lee H. Graham, Malorie Perry, M. Morgan, M. Bull, Nicole Pacchiarini, N. Craine,
+    S. Corden, Sara Kumžiene-Summerhayes, S. Rey, Sarah Taylor, S. Cottrell, Sophie
+    Jones, Sue Edwards, Tara Annett, A. Trotter, A. Mather, Alp Aydin, A. Page, David
+    J. Baker, Ebenezer Foster-Nyarko, Gemma L. Kay, J. O’Grady, L. de Oliveira Martins,
+    Lizzie Meadows, N. Alikhan, Sophie J Prosolek, Steven Rudder, Thanh Le-Viet, A.
+    Casey, Liz Ratcliffe, Aditi Singh, Arun Mariappan, Chris Baxter, Clara H. Radulescu,
+    D. A. Simpson, Deborah Lavin, Fiona Rogan, Julia Miskelly, Marc Fuchs, Miao Tang,
+    S. F. Carvalho, S. Bridgett, T. Skvortsov, Z. Molnár, Newara Ramadan, B. Knight,
+    Christopher R. Jones, C. Auckland, Helen Morcrette, Jennifer Poyner, Dianne Irish-Tavares,
+    E. Witele, J. Hart, T. Mahungu, T. Haque, Y. Bourgeois, C. Fearn, Kate F. Cook,
+    Katie F. Loveson, S. Goudarzi, C. Evans, D. Partridge, Katie Johnson, Mehmet Yavus,
+    M. Raza, Craig Mower, P. Baker, S. Essex, S. Bonner, Leanne J. Murray, Louisa
+    K. Watson, S. Liggett, Andrew I. Lawton, R. Lyons, Brendan A. I. Payne, G. Eltringham,
+    J. Collins, S. Waugh, S. Burton-Fanning, Yusri Taha, Christopher Jeanes, Andrea
+    N. Gomes, D. Murray, Maimuna Kimuli, D. Dobie, Paula Ashfield, A. Best, B. Percival,
+    E. Moles-Garcia, F. Ashford, J. Mirza, L. Crawford, M. Mayhew, Nicola Cumley,
+    O. Megram, D. Frampton, J. Heaney, M. Byott, C. Houlihan, C. Williams, E. Nastouli,
+    Helen L Lowe
+  journal: Nature Microbiology
+  year: '2022'
+  cites: 553
+  link: https://doi.org/10.1038/s41564-022-01143-7
+- title: 'Publisher Correction: SARS-CoV-2 Omicron is an immune escape variant with
+    an altered cell entry pathway'
+  authors: B. Willett, J. Grove, O. MacLean, C. Wilkie, G. De Lorenzo, Wilhelm Furnon,
+    D. Cantoni, S. Scott, N. Logan, Shirin Ashraf, Maria Manali, Agnieszka M. Szemiel,
+    V. Cowton, Elen Vink, William T. Harvey, Chris Davis, P. Asamaphan, Katherine
+    Smollett, Lily Tong, R. Orton, J. Hughes, P. Holland, Vanessa Silva, D. Pascall,
+    K. Puxty, A. da Silva Filipe, G. Yebra, Sharif Shaaban, Matthew T. G. Holden,
+    R. Pinto, R. Gunson, K. Templeton, P. Murcia, Arvind H. Patel, Paul Klenerman,
+    S. Dunachie, Susanna Paul Eleanor Anthony Sandra Barbara Sam M. Priyank Dunachie
+    Klenerman Barnes Brown Adele Kronsteiner , S. Dunachie, Paul Klenerman, Eleanor
+    Barnes, Anthony Brown, S. Adele, B. Kronsteiner, Sam M. Murray, P. Abraham, A.
+    Deeks, M. Ansari, T. D. de Silva, L. Turtle, S. Moore, J. Austin, Alex Richter,
+    C. Duncan, R. Payne, Amy Cherian Beatrix Teresa Derek J. James P. Tanya Hel Ash
+    Koshy Kele Cutino-Moguel Fairley McKenna Curra, Amy Ash, C. Koshy, B. Kele, T.
+    Cutino-Moguel, D. Fairley, J. McKenna, T. Curran, Helen Adams, C. Fraser, D. Bonsall,
+    H. Fryer, K. Lythgoe, L. Thomson, T. Golubchik, Abigail Murray, D. Singleton,
+    Shaun M. Beckwith, Anna Mantzouratou, Magdalena Barrow, S. Buchan, N. Reynolds,
+    B. Warne, Joshua Maksimovic, Karla Spellman, Kathryn Mccluggage, M. John, Robert
+    Beer, Safiah Afifi, Sian Morgan, A. Mack, A. Marchbank, A. Price, A. Morriss,
+    C. Bresner, C. Kitchen, I. Merrick, Joel Southgate, Martyn F Guest, Owen Jones,
+    R. Munn, T. Connor, Thomas Whalley, T. Workman, William Fuller, Amita Patel, Bindi
+    Patel, G. Nebbia, J. Edgeworth, L. Snell, R. Batra, T. Charalampous, A. Beckett,
+    E. Shelest, S. Robson, A. Underwood, Ben Taylor, C. Yeats, D. Aanensen, K. AbuDahab,
+    Mirko Menegazzo, A. Joseph, G. Clark, H. Howson-Wells, L. Berry, Manjinder Khakh,
+    M. Lister, T. Boswell, Vicki M. Fleming, C. Holmes, C. McMurray, Jessica Shaw,
+    Julian W. Tang, K. Fallon, Minaxshi Odedra, Nicholas J. Willford, P. Bird, Thomas
+    Helmer, L. Williams, Nicola Sheriff, Sharon Campbell, Veena Raviprakash, Victoria
+    Blakey, Christopher Moore, Fei Sang, Johnny Debebe, Matthew Carlile, M. Loose,
+    N. Holmes, V. Wright, M. Torok, W. Hamilton, A. Carabelli, A. Jermy, B. Blane,
+    C. Churcher, C. Ludden, D. Aggarwal, Elaine Westwick, E. Brooks, Georgina M. McManus,
+    Katerina Galai, K. Smith, Kim S. Smith, MacGregor Cox, Mireille Fragakis, P. Maxwell,
+    Sarah Judges, S. Peacock, T. Feltwell, Anita Kenyon, Sahar Eldirdiri, Thomas Davis,
+    Joshua F. Taylor, Ngee Keong Tan, A. Zarebski, B. Gutiérrez, J. Raghwani, L. du
+    Plessis, M. Kraemer, O. Pybus, Sarah François, S. Attwood, T. Vasylyeva, A. Jahun,
+    I. Goodfellow, I. Georgana, M. Pinckert, M. Hosmillo, Rhys Izuagbe, Y. Chaudhry,
+    Felicity Ryan, Hannah Lowe, S. Moses, L. Bedford, J. Cargill, W. Hughes, J. Moore,
+    Susanne Stonehouse, D. Shah, Jack C. D. Lee, Julianne R. Brown, K. Harris, Laura
+    Atkinson, N. Storey, M. Spyer, F. Flaviani, A. Alcolea-Medina, J. Sehmi, J. Ramble,
+    Natasha Ohemeng-Kumi, P. Smith, B. Bertolusso, Claire Thomas, G. Vernet, J. Lynch,
+    N. Moore, N. Cortes, Rebecca Williams, S. Kidd, L. Levett, Monika Pusok, P. Grant,
+    S. Kirk, W. Chatterton, Li Xu-McCrae, Darren L. Smith, G. Young, M. Bashton, Katie
+    Kitchman, K. Gajee, K. Eastick, P. Lillie, P. Burns, William Everson, A. Cox,
+    A. Holmes, F. Bolt, J. Price, M. Pond, P. Randell, P. Madona, S. Mookerjee, E.
+    Volz, L. Geidelberg, M. Ragonnet-Cronin, O. Boyd, Robert Johnson, C. Pope, A.
+    Witney, I. Monahan, K. Laing, Katherine Smollett, A. McNally, C. McMurray, Joanne
+    Stockton, J. Quick, N. Loman, Radoslaw Poplawski, S. Nicholls, <strong>W. Rowe</strong>,
+    Anibolina Castigador, E. Macnaughton, Kate El Bouzidi, M. Sudhanva, Temi Lampejo,
+    Rocio Martinez Nunez, Cathy Breen, Graciela Sluga, Karen T. Withell, Nicholas
+    W. Machin, R. George, Shazaad Ahmad, David T. Pritchard, D. Binns, Nick Wong,
+    Victoria L. James, Cheryl Williams, Christopher J. R. Illingworth, Christopher
+    H Jackson, D. De Angelis, D. Pascall, Afrida Mukaddas, Alice Broos, A. da Silva
+    Filipe, D. Mair, David L. Robertson, Derek W. Wright, E. Thomson, Igor Starinskij,
+    Ioulia Tsatsani, J. Shepherd, J. Nichols, J. Hughes, K. Nomikou, Lily Tong, R.
+    Orton, S. Vattipally, William T. Harvey, R. Sanderson, S. O’Brien, S. Rushton,
+    Jon Perkins, Rachel M Blacow, R. Gunson, Abbie Gallagher, E. Wastnedge, K. Templeton,
+    M. McHugh, R. Dewar, S. Cotton, Lindsay J. Coupland, Rachael Stanley, S. Dervisevic,
+    Lewis G. Spurgin, Louise Smith, Clive Graham, D. Padgett, E. Barton, Garren Scott,
+    A. Cross, M. Mirfenderesky, E. Swindells, J. Greenaway, Rebecca Denton-Smith,
+    Robyn Turnbull, Giles Idle, K. Cole, Amy Hollis, Andrew Nelson, C. McCann, J.
+    H. Henderson, M. Crown, W. Yew, W. Stanley, Nichola Duckworth, P. Clarke, Sarah
+    Walsh, T. Sloan, K. Bicknell, R. Impey, S. Wyllie, Scott Elliott, S. Glaysher,
+    D. Bradley, N. Killough, Tim Wyatt, A. Bosworth, Barry B. Vipond, C. Pearson,
+    E. Allara, E. Robinson, Hannah M. Pymont, H. Osman, P. Muir, R. Hopes, S. Hutchings,
+    M. Curran, S. Parmar, A. Thornton, A. Lackenby, Chloe Bishop, D. Bibby, David
+    Lee, E. Gallagher, G. Dabrera, Ian Harrison, Jonathan Hubb, K. Twohig, M. Chand,
+    N. Ellaby, Nikos Manesis, R. Myers, S. Platt, T. Mbisa, Vicki Chalker, G. Yebra,
+    Matthew T. G. Holden, Sharif Shaaban, Stefan Rooke, Alec Birchley, Alexander Adams,
+    A. Davies, Amy Gaskin, Bree Gatica-Wilcox, C. McKerr, Catherine Moore, Catryn
+    Williams, Chris Williams, David Heyburn, E. De Lacy, Ember Hilvers, Fatima Downing,
+    G. Pugh, H. Jones, H. Asad, J. Coombes, Jessica Hey, Jessica Powell, J. Watkins,
+    John Evans, L. Fina, Laura Gifford, L. Gilbert, Lee H. Graham, Malorie Perry,
+    M. Morgan, M. Bull, Nicole Pacchiarini, N. Craine, S. Corden, Sara Kumžiene-Summerhayes,
+    S. Rey, Sarah Taylor, S. Cottrell, Sophie Jones, Sue Edwards, Tara Annett, A.
+    Trotter, A. Mather, Alp Aydin, A. Page, David J. Baker, Ebenezer Foster-Nyarko,
+    Gemma L. Kay, J. O’Grady, L. de Oliveira Martins, Lizzie Meadows, N. Alikhan,
+    Sophie J Prosolek, Steven Rudder, Thanh Le-Viet, A. Casey, Liz Ratcliffe, Aditi
+    Singh, Arun Mariappan, Chris Baxter, Clara H. Radulescu, D. A. Simpson, Deborah
+    Lavin, Fiona Rogan, Julia Miskelly, Marc Fuchs, Miao Tang, S. F. Carvalho, S.
+    Bridgett, T. Skvortsov, Z. Molnár, Newara Ramadan, B. Knight, Christopher R. Jones,
+    C. Auckland, Helen Morcrette, Jennifer Poyner, Dianne Irish-Tavares, E. Witele,
+    J. Hart, T. Mahungu, T. Haque, Y. Bourgeois, C. Fearn, Kate F. Cook, Katie F.
+    Loveson, S. Goudarzi, C. Evans, D. Partridge, Katie Johnson, Mehmet Yavus, M.
+    Raza, Craig Mower, P. Baker, S. Essex, S. Bonner, Leanne J. Murray, Louisa K.
+    Watson, S. Liggett, Andrew I. Lawton, R. Lyons, Brendan A. I. Payne, G. Eltringham,
+    J. Collins, S. Waugh, S. Burton-Fanning, Yusri Taha, Christopher Jeanes, Andrea
+    N. Gomes, D. Murray, Maimuna Kimuli, D. Dobie, Paula Ashfield, A. Best, B. Percival,
+    E. Moles-Garcia, F. Ashford, J. Mirza, L. Crawford, M. Mayhew, Nicola Cumley,
+    O. Megram, D. Frampton, J. Heaney, M. Byott, C. Houlihan, C. Williams, E. Nastouli,
+    Helen L Lowe
+  journal: Nature Microbiology
+  year: '2022'
+  cites: 24
+  link: https://doi.org/10.1038/s41564-022-01241-6
+- title: Genomic epidemiology of SARS-CoV-2 in a university outbreak setting and implications
+    for public health planning
+  authors: S. Nickbakhsh, Joseph Hughes, Nicolaos Christofidis, Emily Griffiths, Sharif
+    Shaaban, J. Enright, Katherine Smollett, K. Nomikou, Natasha Palmalux, Lily Tong,
+    Stephen Carmichael, Vattipally B. Sreenu, R. Orton, E. Goldstein, Rachael M Tomb,
+    Samuel C. Thomas R. Nicholas J. Tanya Rocio T. Martinez D Robson Connor Loman
+    Golubchik Nunez Bonsall Rambau, S. Robson, T. Connor, N. Loman, T. Golubchik,
+    R. M. Nunez, D. Bonsall, A. Rambaut, L. Snell, R. Livett, C. Ludden, S. Corden,
+    E. Nastouli, G. Nebbia, I. Johnston, K. Lythgoe, M. Torok, I. Goodfellow, J. Prieto,
+    K. Saeed, David K. Jackson, C. Houlihan, D. Frampton, W. Hamilton, A. Witney,
+    G. Bucca, C. Pope, Catherine Moore, E. Thomson, E. Harrison, Colin P. Smith, Fiona
+    Rogan, Shaun M. Beckwith, Abigail Murray, D. Singleton, K. Eastick, L. Sheridan,
+    P. Randell, L. Jackson, C. Ariani, S. Gonçalves, D. Fairley, M. Loose, J. Watkins,
+    S. Moses, S. Nicholls, M. Bull, R. Amato, Darren L. Smith, D. Aanensen, J. Barrett,
+    D. Aggarwal, J. Shepherd, M. Curran, S. Parmar, M. Parker, Catryn Williams, S.
+    Glaysher, A. Underwood, M. Bashton, Nicole Pacchiarini, Katie F. Loveson, M. Byott,
+    A. Carabelli, K. Templeton, T. D. de Silva, Dennis Wang, C. Langford, J. Sillitoe,
+    R. Gunson, S. Cottrell, J. O’Grady, Dominic P. Kwiatkowski, P. Lillie, N. Cortes,
+    N. Moore, Claire Thomas, P. Burns, T. Mahungu, S. Liggett, A. Beckett, M. Holden,
+    L. Levett, H. Osman, M. Hassan-Ibrahim, D. A. Simpson, M. Chand, R. Gupta, A.
+    Darby, S. Paterson, O. Pybus, E. Volz, D. De Angelis, David L. Robertson, A. Page,
+    I. Martincorena, Louise Aigrain, Andrew R. Bassett, Nick Wong, Yusri Taha, Michelle
+    J. Erkiert, M. Chapman, R. Dewar, M. McHugh, S. Mookerjee, Stephen Aplin, M. Harvey,
+    T. Sass, H. Umpleby, H. Wheeler, J. McKenna, B. Warne, Joshua F. Taylor, Y. Chaudhry,
+    Rhys Izuagbe, A. Jahun, G. Young, C. McMurray, C. McCann, Andrew Nelson, Scott
+    Elliott, Hannah Lowe, A. Price, M. Crown, S. Rey, Sunando Roy, Ben Temperton,
+    A. Hesketh, K. Laing, I. Monahan, J. Heaney, E. Pelosi, Siona Silviera, E. Wilson-Davies,
+    H. Fryer, Helen Adams, L. du Plessis, Robert Johnson, William T. Harvey, Joseph
+    Hughes, R. Orton, Lewis G. Spurgin, Y. Bourgeois, C. Ruis, Á. O'toole, M. Gourtovaia,
+    T. Sanderson, C. Fraser, J. Edgeworth, Judith Breuer, S. Michell, J. Todd, M.
+    John, D. Buck, K. Gajee, Gemma L. Kay, S. Peacock, David Heyburn, Katie Kitchman,
+    A. McNally, David T. Pritchard, S. Dervisevic, P. Muir, E. Robinson, Barry B.
+    Vipond, Newara Ramadan, Christopher Jeanes, Danni Weldon, Jana Catalan, Neil Jones,
+    A. da Silva Filipe, Chris Williams, Marc Fuchs, Julia Miskelly, A. Jeffries, Karen
+    Oliver, Naomi R. Park, Amy Ash, C. Koshy, Magdalena Barrow, S. Buchan, Anna Mantzouratou,
+    G. Clark, C. Holmes, Sharon Campbell, Thomas Davis, Ngee Keong Tan, Julianne R.
+    Brown, K. Harris, S. Kidd, P. Grant, Li Xu-McCrae, A. Cox, P. Madona, M. Pond,
+    P. Randell, Karen T. Withell, Cheryl Williams, Clive Graham, Rebecca Denton-Smith,
+    E. Swindells, Robyn Turnbull, T. Sloan, A. Bosworth, S. Hutchings, Hannah M. Pymont,
+    A. Casey, Liz Ratcliffe, Christopher R. Jones, B. Knight, T. Haque, J. Hart, Dianne
+    Irish-Tavares, E. Witele, Craig Mower, Louisa K. Watson, J. Collins, G. Eltringham,
+    Dorian Crudgington, B. Macklin, M. Iturriza-Gómara, Anita O. Lucaci, P. McClure,
+    Matthew Carlile, N. Holmes, Christopher Moore, N. Storey, Stefan Rooke, G. Yebra,
+    N. Craine, Malorie Perry, N. Alikhan, S. Bridgett, Kate F. Cook, C. Fearn, S.
+    Goudarzi, R. Lyons, T. Williams, S. Haldenby, J. Durham, Steven Leonard, Robert
+    M. Davies, R. Batra, B. Blane, M. Spyer, P. Smith, Mehmet Yavus, Rachel J. Williams,
+    A. Mahanama, Buddhini Samaraweera, Sophia T. Girgis, Samantha E Hansford, A. Green,
+    C. Beaver, Katherine L. Bellis, M. Dorman, Sally Kay, Liam J. Prestwood, S. Rajatileka,
+    J. Quick, Radoslaw Poplawski, N. Reynolds, A. Mack, A. Morriss, Thomas Whalley,
+    Bindi Patel, I. Georgana, M. Hosmillo, M. Pinckert, Joanne Stockton, J. H. Henderson,
+    Amy Hollis, W. Stanley, W. Yew, R. Myers, A. Thornton, Alexander Adams, Tara Annett,
+    H. Asad, Alec Birchley, J. Coombes, John Evans, L. Fina, Bree Gatica-Wilcox, L.
+    Gilbert, Lee H. Graham, Jessica Hey, Ember Hilvers, Sophie Jones, H. Jones, Sara
+    Kumžiene-Summerhayes, C. McKerr, Jessica Powell, G. Pugh, Sarah Taylor, A. Trotter,
+    C. Williams, L. Kermack, B. Foulkes, M. Gallis, H. Hornsby, S. Louka, Manoj Baliram
+    Pohare, P. Wolverson, Peijun Zhang, G. Macintyre-Cockett, A. Trebes, Robin J.
+    Moll, Lynne Ferguson, A. Maclean, Rachael M Tomb, Igor Starinskij, L. Thomson,
+    Joel Southgate, M. Kraemer, J. Raghwani, A. Zarebski, O. Boyd, L. Geidelberg,
+    C. Illingworth, Christopher H Jackson, D. Pascall, S. Vattipally, T. Freeman,
+    S. N. Hsu, B. Lindsey, Keith James, Kevin Lewis, G. Tonkin-Hill, Jaime M. Tovar-Corona,
+    MacGregor Cox, K. AbuDahab, Mirko Menegazzo, Ben Taylor, C. Yeats, Afrida Mukaddas,
+    Derek W. Wright, L. de Oliveira Martins, R. Colquhoun, V. Hill, B. Jackson, J.
+    McCrone, N. Medd, Emily Scher, J. Keatley, T. Curran, Sian Morgan, P. Maxwell,
+    K. Smith, Sahar Eldirdiri, Anita Kenyon, Alice Holmes, J. Price, Tim Wyatt, A.
+    Mather, Timofey John A. SkvortsovHartley, Martyn F Guest, C. Kitchen, I. Merrick,
+    R. Munn, B. Bertolusso, J. Lynch, G. Vernet, S. Kirk, E. Wastnedge, Rachael Stanley,
+    Giles Idle, D. Bradley, Jennifer Poyner, M. Mori, Owen Jones, V. Wright, E. Brooks,
+    C. Churcher, Mireille Fragakis, Katerina Galai, A. Jermy, Sarah Judges, Georgina
+    M. McManus, Kim S. Smith, Elaine Westwick, S. Attwood, F. Bolt, A. Davies, E.
+    De Lacy, Fatima Downing, Sue Edwards, Lizzie Meadows, Sarah Jeremiah, Nikki Smith,
+    Luke Foulser, T. Charalampous, Amita Patel, L. Berry, T. Boswell, Vicki M. Fleming,
+    H. Howson-Wells, A. Joseph, Manjinder Khakh, M. Lister, P. Bird, K. Fallon, Thomas
+    Helmer, C. McMurray, Minaxshi Odedra, Jessica Shaw, Julian W. Tang, Nicholas J.
+    Willford, Victoria Blakey, Veena Raviprakash, Nicola Sheriff, L. Williams, T.
+    Feltwell, L. Bedford, J. Cargill, W. Hughes, J. Moore, Susanne Stonehouse, Laura
+    Atkinson, Jack C. D. Lee, D. Shah, A. Alcolea-Medina, Natasha Ohemeng-Kumi, J.
+    Ramble, Jasveen K. Sehmi, Rebecca Williams, W. Chatterton, Monika Pusok, William
+    Everson, Anibolina Castigador, E. Macnaughton, K. El Bouzidi, Temi Lampejo, M.
+    Sudhanva, Cathy Breen, Graciela Sluga, Shazaad Ahmad, R. George, Nicholas W. Machin,
+    D. Binns, Victoria L. James, Rachel M Blacow, Lindsay J. Coupland, Louise Smith,
+    E. Barton, D. Padgett, Garren Scott, A. Cross, M. Mirfenderesky, J. Greenaway,
+    Kevin R. Cole, P. Clarke, Nichola Duckworth, Sarah Walsh, K. Bicknell, R. Impey,
+    S. Wyllie, R. Hopes, Chloe Bishop, Vicki Chalker, Ian Harrison, Laura Gifford,
+    Z. Molnár, C. Auckland, C. Evans, Katie Johnson, D. Partridge, M. Raza, P. Baker,
+    S. Bonner, S. Essex, Leanne J. Murray, Andrew I. Lawton, S. Burton-Fanning, Brendan
+    A. I. Payne, S. Waugh, Andrea N. Gomes, Maimuna Kimuli, D. Murray, Paula Ashfield,
+    D. Dobie, F. Ashford, A. Best, L. Crawford, Nicola Cumley
+  journal: Scientific Reports
+  year: '2022'
+  cites: 8
+  link: https://doi.org/10.1038/s41598-022-15661-1
+- title: 'How to sequence 10,000 bacterial genomes and retain your sanity: an accessible,
+    efficient and global approach'
+  authors: B. Perez-Sepulveda, D. Heavens, C. Pulford, A. Predeus, Ross Low, H. Webster,
+    G. Dykes, Christian Schudoma, <strong>W. Rowe</strong>, J. Lipscombe, C. Watkins,
+    Benjamin Kumwenda, N. Shearer, Karl Costigan, K. Baker, Nicholas Feasey, J. Hinton,
+    N. Hall
+  journal: Access Microbiology
+  year: '2022'
+  cites: 0
+  link: https://doi.org/10.1099/acmi.ac2021.po0349
+- title: Exponential growth, high prevalence of SARS-CoV-2, and vaccine effectiveness
+    associated with the Delta variant
+  authors: P. Elliott, D. Haw, Haowei Wang, O. Eales, C. Walters, K. Ainslie, C. Atchison,
+    C. Fronterrè, P. Diggle, A. Page, A. Trotter, Sophie J Prosolek, D. Ashby, C.
+    Donnelly, W. Barclay, Graham W. Taylor, G. Cooke, Helen Ward, A. Darzi, S. Riley,
+    S. Robson, N. Loman, T. Connor, T. Golubchik, Rocio Martinez Nunez, C. Ludden,
+    S. Corden, I. Johnston, D. Bonsall, Colin P. Smith, A. Awan, G. Bucca, M. E. Torok,
+    K. Saeed, J. Prieto, D. Jackson, W. Hamilton, L. Snell, C. Moore, E. Harrison,
+    S. Gonçalves, L. Jackson, I. Goodfellow, D. Fairley, M. Loose, J. Watkins, R.
+    Livett, S. Moses, R. Amato, S. Nicholls, Matthew R. Bull, Darren L. Smith, J.
+    Barrett, D. Aanensen, M. Curran, S. Parmar, D. Aggarwal, J. Shepherd, M. Parker,
+    S. Glaysher, M. Bashton, A. Underwood, Nicole Pacchiarini, Katie F. Loveson, A.
+    Carabelli, K. Templeton, C. Langford, J. Sillitoe, T. D. de Silva, Dennis Wang,
+    Dominic P. Kwiatkowski, A. Rambaut, J. O’Grady, S. Cottrell, M. Holden, E. Thomson,
+    H. Osman, M. Andersson, A. Chauhan, M. Hassan-Ibrahim, M. Lawniczak, Ravindra
+    K. Gupta, A. Alderton, M. Chand, C. Constantinidou, M. Unnikrishnan, A. Darby,
+    J. Hiscox, S. Paterson, I. Martincorena, David L. Robertson, E. Volz, A. Page,
+    O. Pybus, Andrew R. Bassett, C. Ariani, M. Spencer Chapman, Kathy K Li, Rajiv
+    Shah, Natasha Jesudason, Yusri Taha, M. McHugh, R. Dewar, A. Jahun, C. McMurray,
+    Sarojini Pandey, J. P. Mckenna, Andrew Nelson, G. Young, C. McCann, S. Elliott,
+    Hannah Lowe, Ben Temperton, Sunando Roy, A. Price, S. Rey, M. Wyles, Stefan Rooke,
+    Sharif Shaaban, M. de Cesare, L. Letchford, S. Silveira, E. Pelosi, E. Wilson-Davies,
+    M. Hosmillo, Á. O'toole, A. Hesketh, R. Stark, L. du Plessis, C. Ruis, Helen Adams,
+    Y. Bourgeois, S. Michell, D. Grammatopoulos, J. Edgeworth, Judith Breuer, J. Todd,
+    C. Fraser, D. Buck, Michael John, Gemma L. Kay, Steven O. Palmer, S. Peacock,
+    David Heyburn, Danni Weldon, E. Robinson, A. McNally, P. Muir, I. Vipond, John
+    Boyes, Venkat Sivaprakasam, T. Saluja, S. Dervisevic, E. Meader, Naomi R Park,
+    Karen Oliver, A. Jeffries, S. Ott, A. da Silva Filipe, D. A. Simpson, Chris J
+    Williams, Jane A. H. Masoli, B. Knight, Christopher R. Jones, C. Koshy, Amy Ash,
+    A. Casey, A. Bosworth, Liz Ratcliffe, Li Xu-McCrae, Hannah M. Pymont, S. Hutchings,
+    L. Berry, K. Jones, F. Halstead, Thomas Davis, C. Holmes, M. Iturriza-Gómara,
+    Anita O. Lucaci, P. Randell, A. Cox, P. Madona, K. Harris, Julianne R. Brown,
+    T. Mahungu, Dianne Irish-Tavares, T. Haque, J. Hart, E. Witele, M. Fenton, S.
+    Liggett, Clive Graham, E. Swindells, J. Collins, G. Eltringham, Sharon Campbell,
+    P. McClure, G. Clark, T. Sloan, Carl Jones, J. Lynch, B. Warne, Steven Leonard,
+    J. Durham, T. Williams, S. Haldenby, N. Storey, N. Alikhan, Nadine Holmes, Christopher
+    Moore, Matthew Carlile, Malorie Perry, N. Craine, R. Lyons, A. Beckett, S. Goudarzi,
+    C. Fearn, Kate Cook, Hannah Dent, Hannah L. Paul, R. Davies, B. Blane, Sophia
+    T. Girgis, M. Beale, Katherine L. Bellis, M. Dorman, Eleanor Drury, Leanne Kane,
+    Sally Kay, Samantha McGuigan, Rachel Nelson, Liam J. Prestwood, S. Rajatileka,
+    R. Batra, Rachel J. Williams, M. Kristiansen, A. Green, A. Justice, A. Mahanama,
+    Buddhini Samaraweera, Nazreen F. Hadjirin, J. Quick, Radoslaw Poplawski, L. Kermack,
+    N. Reynolds, G. Hall, Y. Chaudhry, M. Pinckert, I. Georgana, Robin J. Moll, A.
+    Thornton, R. Myers, Joanne Stockton, C. Williams, W. Yew, A. Trotter, A. Trebes,
+    G. Macintyre-Cockett, Alec Birchley, Alexander Adams, Amy Plimmer, Bree Gatica-Wilcox,
+    C. McKerr, Ember Hilvers, H. Jones, H. Asad, J. Coombes, John Evans, L. Fina,
+    L. Gilbert, L. Graham, M. Cronin, Sara Kumžiene-Summerhayes, Sarah Taylor, Sophie
+    Jones, Danielle C. Groves, Peijun Zhang, M. Gallis, S. Louka, Igor Starinskij,
+    J. Keatley, Joshua B. Singer, L. de Oliveira Martins, C. Yeats, K. AbuDahab, Ben
+    Taylor, Mirko Menegazzo, J. Danesh, Wendy Hogsden, Sahar Eldirdiri, Anita Kenyon,
+    J. Mason, T. Robinson, Alison Holmes, James Price, J. Hartley, T. Curran, A. Mather,
+    Giri Shankar, Rachel Jones, R. Howe, Sian Morgan, Elizabeth Wastenge, Michael
+    Chapman, S. Mookerjee, Rachael Stanley, W. Smith, T. Peto, D. Eyre, D. Crook,
+    G. Vernet, C. Kitchen, Huw Gulliver, I. Merrick, Martyn F Guest, R. Munn, D. Bradley,
+    Tim Wyatt, C. Beaver, Luke Foulser, Sophie Palmer, C. Churcher, E. Brooks, Kim
+    S. Smith, Katerina Galai, Georgina M. McManus, F. Bolt, Francesc Coll, Lizzie
+    Meadows, S. Attwood, Alisha R Davies, E. De Lacy, Fatima Downing, Sue Edwards,
+    G. Scarlett, Sarah Jeremiah, Nikki Smith, D. Leek, S. Sridhar, S. Forrest, C.
+    Cormie, Harmeet Gill, Joana Dias, E. Higginson, Mailis Maes, Jamie Young, Michelle
+    Wantoch, Dorota Jamrozy, Stephanie H. Lo, M. Patel, V. Hill, C. Bewshea, S. Ellard,
+    C. Auckland, Ian Harrison, Chloe Bishop, Vicki Chalker, A. Richter, A. Beggs,
+    A. Best, B. Percival, J. Mirza, O. Megram, M. Mayhew, L. Crawford, F. Ashcroft,
+    E. Moles-Garcia, Nicola Cumley, R. Hopes, P. Asamaphan, M. Niebel, R. Gunson,
+    A. Bradley, A. Maclean, Guy Mollett, Rachel M Blacow, P. Bird, Thomas Helmer,
+    K. Fallon, Julian W. Tang, A. Hale, L. Macfarlane-Smith, Katherine L. Harper,
+    H. Carden, Nicholas W. Machin, K. Jackson, Shazaad Ahmad, R. George, L. Turtle,
+    E. O’Toole, Joanne Watts, Cathy Breen, A. Cowell, A. Alcolea-Medina, T. Charalampous,
+    Amita Patel, L. Levett, J. Heaney, A. Rowan, G. Taylor, D. Shah, Laura Atkinson,
+    Jack C. D. Lee, A. Westhorpe, Riaz Jannoo, H. Lowe, Angeliki Karamani, L. Ensell,
+    W. Chatterton, Monika Pusok, Ashok Dadrah, Amanda Symmonds, Graciela Sluga, Z.
+    Molnár, P. Baker, S. Bonner, S. Essex, E. Barton, D. Padgett, Garren Scott, J.
+    Greenaway, Brendan A. I. Payne, S. Burton-Fanning, S. Waugh, Veena Raviprakash,
+    Nicola Sheriff, Victoria Blakey, L. Williams, J. Moore, Susanne Stonehouse, Louise
+    Smith, R. Davidson, L. Bedford, Lindsay J. Coupland, V. Wright, J. Chappell, T.
+    Tsoleridis, J. Ball, Manjinder Khakh, Vicki M. Fleming, M. Lister, H. Howson-Wells,
+    L. Berry, T. Boswell, A. Joseph, Iona Willingham, Nichola Duckworth, Sarah Walsh,
+    Emma Wise, N. Moore, M. Mori, N. Cortes, Stephen Kidd, Rebecca Williams Bmbs,
+    Laura Gifford, K. Bicknell, S. Wyllie, Allyson Lloyd, R. Impey, Cassandra S. Malone,
+    Benjamin J. Cogger, Nick Levene, Lynn Monaghan, A. Keeley, D. Partridge, M. Raza,
+    C. Evans, Katie Johnson, Emma Betteridge, Ben W. Farr, S. Goodwin, M. Quail, C.
+    Scott, Lesley M Shirley, Scott A. J. Thurston, D. Rajan, I. Bronner, Louise Aigrain,
+    Nicholas M. Redshaw, Stefanie V. Lensing, Shane A. McCarthy, A. Makunin, Carlos
+    E. Balcazar, M. Gallagher, K. Williamson, Thomas D. Stanton, M. Michelsen, J.
+    Warwick-Dugdale, R. Manley, A. Farbos, James W. Harrison, C. Sambles, D. Studholme,
+    A. Lackenby, T. Mbisa, S. Platt, S. Miah, D. Bibby, C. Manso, Jonathan Hubb
+  journal: Science
+  year: '2021'
+  cites: 126
+  link: https://doi.org/10.1126/science.abl9551
+- title: An accessible, efficient and global approach for the large-scale sequencing
+    of bacterial genomes
+  authors: B. Perez-Sepulveda, D. Heavens, C. Pulford, A. Predeus, Ross Low, H. Webster,
+    Christian Schudoma, <strong>W. Rowe</strong>, J. Lipscombe, C. Watkins, Benjamin
+    Kumwenda, N. Shearer, Karl Costigan, K. Baker, N. Feasey, J. Hinton, N. Hall
+  journal: Genome Biology
+  year: '2021'
+  cites: 57
+  link: https://doi.org/10.1186/s13059-021-02536-3
+- title: 'Hospital admission and emergency care attendance risk for SARS-CoV-2 delta
+    (B.1.617.2) compared with alpha (B.1.1.7) variants of concern: a cohort study.'
+  authors: K. Twohig, T. Nyberg, A. Zaidi, S. Thelwall, M. Sinnathamby, S. Aliabadi,
+    S. Seaman, Ross J. Harris, R. Hope, J. Lopez-Bernal, E. Gallagher, A. Charlett,
+    D. De Angelis, A. Presanis, G. Dabrera, C. Koshy, Amy Ash, E. Wise, N. Moore,
+    M. Mori, N. Cortes, J. Lynch, S. Kidd, D. Fairley, T. Curran, J. McKenna, Helen
+    Adams, C. Fraser, T. Golubchik, D. Bonsall, M. Hassan-Ibrahim, Cassandra S. Malone,
+    Benjamin J. Cogger, Michelle Wantoch, N. Reynolds, B. Warne, Joshua Maksimovic,
+    Karla Spellman, Kathryn Mccluggage, Michael John, Robert Beer, Safiah Afifi, Sian
+    Morgan, A. Marchbank, A. Price, C. Kitchen, Huw Gulliver, I. Merrick, Joel Southgate,
+    Martyn F Guest, R. Munn, T. Workman, T. Connor, William Fuller, C. Bresner, L.
+    Snell, Amita Patel, T. Charalampous, G. Nebbia, R. Batra, J. Edgeworth, S. Robson,
+    A. Beckett, D. Aanensen, A. Underwood, C. Yeats, K. AbuDahab, Ben Taylor, Mirko
+    Menegazzo, G. Clark, W. Smith, Manjinder Khakh, Vicki M. Fleming, M. Lister, H.
+    Howson-Wells, L. Berry, T. Boswell, A. Joseph, Iona Willingham, Carl Jones, C.
+    Holmes, P. Bird, Thomas Helmer, K. Fallon, Julian W. Tang, Veena Raviprakash,
+    Sharon Campbell, Nicola Sheriff, Victoria Blakey, L. Williams, M. Loose, Nadine
+    Holmes, Christopher Moore, Matthew Carlile, V. Wright, Fei Sang, Johnny Debebe,
+    Francesc Coll, A. Signell, G. Betancor, H. Wilson, Sahar Eldirdiri, Anita Kenyon,
+    Thomas Davis, O. Pybus, L. du Plessis, A. Zarebski, J. Raghwani, M. Kraemer, Sarah
+    François, S. Attwood, T. Vasylyeva, Marina Escalera Zamudio, B. Gutiérrez, M.
+    E. Torok, W. Hamilton, I. Goodfellow, G. Hall, A. Jahun, Y. Chaudhry, M. Hosmillo,
+    M. Pinckert, I. Georgana, S. Moses, Hannah Lowe, L. Bedford, J. Moore, Susanne
+    Stonehouse, Chloe Fisher, A. Awan, John Boyes, Judith Breuer, K. Harris, Julianne
+    R. Brown, D. Shah, Laura Atkinson, Jack C. D. Lee, N. Storey, F. Flaviani, A.
+    Alcolea-Medina, Rebecca Williams, G. Vernet, Michael Chapman, L. Levett, J. Heaney,
+    W. Chatterton, Monika Pusok, Li Xu-McCrae, Darren L. Smith, M. Bashton, G. Young,
+    A. Holmes, P. Randell, A. Cox, P. Madona, F. Bolt, James Price, S. Mookerjee,
+    M. Ragonnet-Cronin, Fabricia F. Nascimento, D. Jorgensen, Igor Siveroni, Robert
+    Johnson, O. Boyd, L. Geidelberg, E. Volz, A. Rowan, Graham P. Taylor, Katherine
+    Smollett, N. Loman, J. Quick, C. McMurray, Joanne Stockton, S. Nicholls, <strong>W.
+    Rowe</strong>, Radoslaw Poplawski, A. McNally, Rocio Martinez Nunez, J. Mason,
+    T. Robinson, E. O’Toole, Joanne Watts, Cathy Breen, A. Cowell, Graciela Sluga,
+    Nicholas W. Machin, Shazaad Ahmad, R. George, F. Halstead, Venkat Sivaprakasam,
+    Wendy Hogsden, Christopher J. R. Illingworth, Christopher H Jackson, E. Thomson,
+    J. Shepherd, P. Asamaphan, M. Niebel, Kathy K Li, Rajiv Shah, Natasha Jesudason,
+    Lily Tong, Alice Broos, D. Mair, J. Nichols, Stephen Carmichael, K. Nomikou, Elihu
+    Aranday-Cortes, N. Johnson, Igor Starinskij, A. da Silva Filipe, David L. Robertson,
+    R. Orton, J. Hughes, S. Vattipally, Joshua B. Singer, Seema Nickbakhsh, A. Hale,
+    L. Macfarlane-Smith, Katherine L. Harper, H. Carden, Yusri Taha, Brendan A. I.
+    Payne, S. Burton-Fanning, S. Waugh, J. Collins, G. Eltringham, S. Rushton, S.
+    O'Brien, A. Bradley, A. Maclean, Guy Mollett, Rachel M Blacow, K. Templeton, M.
+    McHugh, R. Dewar, Elizabeth Wastenge, S. Dervisevic, Rachael Stanley, E. Meader,
+    Lindsay J. Coupland, Louise Smith, Clive Graham, E. Barton, D. Padgett, Garren
+    Scott, E. Swindells, J. Greenaway, Andrew Nelson, C. McCann, W. Yew, M. Andersson,
+    T. Peto, A. Justice, D. Eyre, D. Crook, T. Sloan, Nichola Duckworth, Sarah Walsh,
+    A. Chauhan, S. Glaysher, K. Bicknell, S. Wyllie, S. Elliott, Allyson Lloyd, R.
+    Impey, Nick Levene, Lynn Monaghan, D. Bradley, Tim Wyatt, E. Allara, C. Pearson,
+    H. Osman, A. Bosworth, E. Robinson, P. Muir, I. Vipond, R. Hopes, Hannah M. Pymont,
+    S. Hutchings, M. Curran, S. Parmar, A. Lackenby, T. Mbisa, S. Platt, S. Miah,
+    D. Bibby, C. Manso, Jonathan Hubb, M. Chand, M. Ramsay, D. Bradshaw, A. Thornton,
+    R. Myers, Ulf Schaefer, N. Groves, David Lee, David Williams, N. Ellaby, Ian Harrison,
+    H. Hartman, Nikos Manesis, Vineet Patel, Chloe Bishop, V. Chalker, J. Ledesma,
+    K. Twohig, M. Holden, Sharif Shaaban, Alec Birchley, Alexander Adams, A. Davies,
+    Amy Gaskin, Amy Plimmer, Bree Gatica-Wilcox, C. McKerr, Catherine Moore, Chris
+    J Williams, David Heyburn, E. De Lacy, Ember Hilvers, Fatima Downing, Giri Shankar,
+    H. Jones, H. Asad, J. Coombes, J. Watkins, John Evans, L. Fina, Laura Gifford,
+    L. Gilbert, L. Graham, Malorie Perry, M. Morgan, M. Bull, M. Cronin, Nicole Pacchiarini,
+    N. Craine, Rachel Jones, R. Howe, S. Corden, S. Rey, Sara Kumžiene-Summerhayes,
+    Sarah Taylor, S. Cottrell, Sophie Jones, Sue Edwards, J. O’Grady, A. Page, A.
+    Mather, D. Baker, Steven Rudder, Alp Aydin, Gemma L. Kay, A. Trotter, N. Alikhan,
+    L. de Oliveira Martins, Thanh Le-Viet, Lizzie Meadows, A. Casey, Liz Ratcliffe,
+    D. Simpson, Z. Molnár, T. Thompson, Erwan Acheson, Jane A. H. Masoli, B. Knight,
+    S. Ellard, C. Auckland, Christopher R. Jones, T. Mahungu, Dianne Irish-Tavares,
+    T. Haque, J. Hart, E. Witele, M. Fenton, Ashok Dadrah, Amanda Symmonds, T. Saluja,
+    Y. Bourgeois, G. Scarlett, Katie F. Loveson, S. Goudarzi, C. Fearn, Kate Cook,
+    Hannah Dent, Hannah L. Paul, David Partridge, M. Raza, C. Evans, Katie Johnson,
+    S. Liggett, P. Baker, S. Bonner, S. Essex, R. Lyons, K. Saeed, A. Mahanama, Buddhini
+    Samaraweera, S. Silveira, E. Pelosi, E. Wilson-Davies, Rachel J. Williams, M.
+    Kristiansen, Sunando Roy, C. Williams, M. Cotic, N. Bayzid, A. Westhorpe, J. Hartley,
+    Riaz Jannoo, H. Lowe, Angeliki Karamani, L. Ensell, J. Prieto, Sarah Jeremiah,
+    D. Grammatopoulos, Sarojini Pandey, Lisa Berry, K. Jones, A. Richter, A. Beggs,
+    A. Best, B. Percival, J. Mirza, O. Megram, M. Mayhew, L. Crawford, F. Ashcroft,
+    E. Moles-Garcia, Nicola Cumley, Colin P. Smith, G. Bucca, A. Hesketh, B. Blane,
+    Sophia T. Girgis, D. Leek, S. Sridhar, S. Forrest, C. Cormie, Harmeet Gill, Joana
+    Dias, E. Higginson, Mailis Maes, Jamie Young, L. Kermack, Ravindra K. Gupta, C.
+    Ludden, S. Peacock, Sophie Palmer, C. Churcher, Nazreen F. Hadjirin, A. Carabelli,
+    E. Brooks, Kim S. Smith, Katerina Galai, Georgina M. McManus, C. Ruis, R. Davidson,
+    A. Rambaut, T. Williams, Carlos E. Balcazar, M. Gallagher, Á. O'toole, Stefan
+    Rooke, V. Hill, K. Williamson, Thomas D. Stanton, S. Michell, C. Bewshea, Ben
+    Temperton, M. Michelsen, J. Warwick-Dugdale, R. Manley, A. Farbos, James E. Harrison,
+    C. Sambles, D. Studholme, A. Jeffries, Leigh Jackson, A. Darby, J. Hiscox, S.
+    Paterson, M. Iturriza-Gómara, K. Jackson, Anita O. Lucaci, Edith E. Vamos, M.
+    Hughes, L. Rainbow, R. Eccles, Charlotte Nelson, Mark Whitehead, L. Turtle, S.
+    Haldenby, R. Gregory, M. Gemmell, C. Wierzbicki, H. Webster, T. D. de Silva, Nikki
+    Smith, A. Angyal
+  journal: Lancet. Infectious Diseases (Print)
+  year: '2021'
+  cites: 708
+  link: https://doi.org/10.1016/S1473-3099(21)00475-8
+- title: 'artic-network/fieldbioinformatics: 1.2.0'
+  authors: nickloman, <strong>W. Rowe</strong>, Radoslaw Poplawski, Stephen Rudd,
+    A. Rambaut, T. Bedford, Karthik, J. Simpson
+  journal: ''
+  year: '2021'
+  cites: 0
+  link: https://doi.org/10.5281/ZENODO.4435109
+- title: SARS-CoV-2 evolution during treatment of chronic infection
+  authors: S. Kemp, D. Collier, R. Datir, I. Ferreira, S. Gayed, A. Jahun, M. Hosmillo,
+    C. Rees-Spear, P. Mlcochova, Ines Ushiro Lumb, David J Roberts, Anita Chandra,
+    N. Temperton, Stephen Gordon Christoph Nathalie Paul J. Paul A. Nicholas Baker
+    Dougan Hess Kingston Lehner Lyons Matheson O, Stephen Gordon Christoph Nathalie
+    Paul J. Paul A. Nicholas Baker Dougan Hess Kingston Lehner Lyons Matheson O, S.
+    Baker, Gordon Dougan, C. Hess, N. Kingston, P. Lehner, P. Lyons, N. Matheson,
+    Willem H. Owehand, C. Saunders, C. Summers, J. Thaventhiran, M. Toshner, M. Weekes,
+    Ashlea Jo Laura Jason Anne Stewart Julie Sarah Jane Sherl Bucke Calder Canna Domingo
+    Elmer Fuller Harris Hew, Ashlea Bucke, J. Calder, L. Canna, Jason Domingo, A.
+    Elmer, S. Fuller, Julie Harris, S. Hewitt, J. Kennet, Sherly Jose, Jenny Kourampa,
+    A. Meadows, Criona O’Brien, Jane Price, Cherry Publico, Rebecca J Rastall, C.
+    Ribeiro, J. Rowlands, Valentina Ruffolo, Hugo Tordesillas, Ben Benjamin J. Stuart
+    Stefan Josh Christopher Kelvin  Bullman Dunmore Fawke Gräf Hodgson Huang Hunter
+    Jo, Ben Bullman, B. Dunmore, Stuart Fawke, S. Gräf, Josh Hodgson, Christopher
+    Huang, K. Hunter, E. Jones, E. Legchenko, C. Matara, Jennifer M Martin, F. Mescia,
+    Ciara O’Donnell, L. Pointon, Nicole Pond, J. Shih, R. Sutcliffe, T. Tilly, C.
+    Treacy, Zhen Tong, Jennifer Wood, Marta Wylot, Laura Ariana Georgie Chiara Aloka
+    Madeline Stuart Nick R Bergamaschi Betancourt Bower Cossetti De Sa Epping, L.
+    Bergamaschi, Ariana Betancourt, G. Bower, C. Cossetti, Aloka De Sa, M. Epping,
+    Stuart Fawke, Nicholas S. Gleadall, R. Grenfell, Andrew Hinch, O. Huhn, Sarah
+    Jackson, Isobel Jarvis, Dan Lewis, J. Marsden, Francesca L. Nice, G. Okecha, Ommar
+    Omarjee, Marianne R Perera, N. Richoz, V. Romashova, N. S. Yarkoni, Rahul Sharma,
+    L. Stefanucci, J. Stephens, Mateusz Strezlecki, L. Turner, Eckart M. D. D. Katherine
+    Masa Michael Sabrina Mayurun Sa De Bie Bunclark Josipovic Mackay Rossi Selvan
+    Spen, E. D. De Bie, K. Bunclark, Maša Josipović, Michael Mackay, Sabrina Rossi,
+    Mayurun Selvan, S. Spencer, Cissy Yong, Ali Alice Lucy Caroline Gary Ansaripour
+    Michael Mwaura Patterson Polwarth, A. Ansaripour, A. Michael, L. Mwaura, C. Patterson,
+    Gary Polwarth, Petra Giovanni Polgarova di Stefano, P. Polgarova, Giovanni Di
+    Stefano, Codie Rachel Fahey Michel, Codie Fahey, R. Michel, Sze-How Jerome D.
+    Elaine Bong Coudert Holmes, Sze-How Bong, J. Coudert, E. Holmes, John Helen Daniela
+    Debbie Eleanor Anita Barbara Jennife Allison Butcher Caputo Clapham-Riley Dewhurst
+    Furl, J. Allison, H. Butcher, D. Caputo, Debbie Clapham-Riley, Eleanor F. Dewhurst,
+    A. Furlong, B. Graves, J. Gray, Tasmin Ivers, Mary A. Kasanicki, Emma Le Gresley,
+    R. Linger, Sara E. Meloy, Frances E. Muldoon, Nigel R. Ovington, S. Papadia, Isabel
+    Phelan, H. Stark, K. Stirrups, Paul Townsend, N. Walker, J. Webster, Samuel C.
+    Nicholas J. Thomas R. Tanya Rocio T. Catherine  Robson Loman Connor Golubchik
+    Martinez Nunez Ludde, S. Robson, Nicholas J. Thomas R. Loman Connor, N. Loman,
+    T. Connor, T. Golubchik, Rocio Martinez Nunez, C. Ludden, S. Corden, Ian David
+    Johnston Bonsall, I. Johnston, D. Bonsall, Colin P. Ali R. Smith Awan, Colin P.
+    Smith, A. Awan, G. Bucca, M. Estee Torok, Kordo Jacqui A. Saeed Prieto, K. Saeed,
+    J. Prieto, David K. Jackson, W. Hamilton, L. Snell, Catherine Moore, E. Harrison,
+    S. Gonçalves, Derek J. Matthew W. Joanne Fairley Loose Watkins, D. Fairley, M.
+    Loose, J. Watkins, R. Livett, S. Moses, Roberto Sam Matthew Amato Nicholls Bull,
+    R. Amato, S. Nicholls, M. Bull, Darren L. Smith, Jeff David M. Barrett Aanensen,
+    J. Barrett, D. Aanensen, Martin D. Surendra Dinesh James G. Curran Parmar Aggarwal
+    Shepherd, M. Curran, S. Parmar, D. Aggarwal, J. Shepherd, M. Parker, S. Glaysher,
+    Matthew Anthony P. Nicole Katie F. Bashton Underwood Pacchiarini Loveson, M. Bashton,
+    A. Underwood, Nicole Pacchiarini, Katie F. Loveson, A. Carabelli, K. Templeton,
+    Cordelia F. John Thushan I. Dennis Langford Sillitoe de Silva Wang, CORDELIA F.
+    Langford, J. Sillitoe, T. D. de Silva, Dennis Wang, Dominic Andrew Justin Simon
+    Kwiatkowski Rambaut O’Grady Cottrell, Dominic P. Kwiatkowski, A. Rambaut, J. O’Grady,
+    S. Cottrell, Matthew T. G. Emma C. Holden Thomson, M. Holden, E. Thomson, Husam
+    Monique Anoop J. Mohammed O. Osman Andersson Chauhan Hassan-Ibrahim, H. Osman,
+    M. Andersson, A. Chauhan, M. Hassan-Ibrahim, Mara Lawniczak, Alex Meera Chrystala
+    Meera Alistair C. Julian A. Steve Alderton Chand Constantinidou Unnikrishnan Darby
+    H, A. Alderton, M. Chand, C. Constantinidou, M. Unnikrishnan, A. Darby, J. Hiscox,
+    S. Paterson, Inigo David L. Erik M. Andrew J. Oliver G. Martincorena Robertson
+    Volz Page Pybus, I. Martincorena, David L. Robertson, E. Volz, A. Page, O. Pybus,
+    Andrew Bassett, Cristina V. Michael H. Kathy K. Rajiv N. Natasha G. Yusri Ariani
+    Spencer Chapman Li Shah Jesudason Taha, C. Ariani, M. Spencer Chapman, Kathy K
+    Li, Rajiv Shah, Natasha Jesudason, Yusri Taha, Martin P. Rebecca McHugh Dewar,
+    M. McHugh, R. Dewar, Aminu S. Claire Sarojini James P. Andrew Gregory R. Clar
+    Jahun McMurray Pandey McKenna Nelson Young McCann , A. Jahun, C. McMurray, Sarojini
+    Pandey, J. McKenna, Andrew Nelson, G. Young, C. McCann, Scott Elliott, Hannah
+    Lowe, Ben Sunando Anna Sara Matthew Temperton Roy Price Rey Wyles, Ben Temperton,
+    Sunando Roy, A. Price, S. Rey, M. Wyles, Stefan Sharif Rooke Shaaban, Stefan Rooke,
+    Sharif Shaaban, M. de Cesare, L. Letchford, Siona Emanuela Eleri Silveira Pelosi
+    Wilson-Davies, S. Silveira, E. Pelosi, E. Wilson-Davies, M. Hosmillo, Áine Andrew
+    R. Richard Louis Chris Helen Yann O’Toole Hesketh Stark du Plessis Ruis Adams
+    Bourge, Á. O'toole, A. Hesketh, R. Stark, L. du Plessis, C. Ruis, Helen Adams,
+    Y. Bourgeois, Stephen L. Dimitris Jonathan Judith John A. Christophe Michell Grammatopoulos
+    Edgeworth Breuer Todd Frase, S. Michell, D. Grammatopoulos, J. Edgeworth, Judith
+    Breuer, J. Todd, C. Fraser, David Michaela Buck John, D. Buck, M. John, Gemma
+    L. Kay, Steve Sharon J. David Palmer Peacock Heyburn, Steven O. Palmer, Sharon
+    J. Peacock, David Heyburn, Danni Esther Alan Peter Ian B. John Venkat Tranprit
+    Sami Weldon Robinson McNally Muir Vipond Boyes Sivaprak, Danni Weldon, E. Robinson,
+    A. McNally, P. Muir, I. Vipond, John Boyes, Venkat Sivaprakasam, Tranprit Salluja,
+    S. Dervisevic, E. Meader, Naomi R. Karen Aaron R. Sascha Ana David A. Chris Park
+    Oliver Jeffries Ott da Silva Filipe Simpson W, Naomi R. Park, Karen Oliver, A.
+    Jeffries, S. Ott, A. da Silva Filipe, D. A. Simpson, Chris J Williams, Jane A.
+    H. Masoli, Bridget A. Christopher R. Cherian Amy Anna Andrew Liz Li H Knight Jones
+    Koshy Ash Casey Bosworth Ratcliffe Xu, B. Knight, Christopher R. Jones, C. Koshy,
+    Amy Ash, A. Casey, A. Bosworth, Liz Ratcliffe, Li Xu-McCrae, Hannah M. Pymont,
+    S. Hutchings, L. Berry, K. Jones, F. Halstead, Thomas Davis, C. Holmes, M. Iturriza-Gómara,
+    Anita O. Lucaci, P. Randell, A. Cox, P. Madona, K. Harris, Julianne R. Brown,
+    T. Mahungu, Dianne Irish-Tavares, T. Haque, J. Hart, E. Witele, M. Fenton, S.
+    Liggett, Clive Graham, E. Swindells, J. Collins, G. Eltringham, Sharon Campbell,
+    P. McClure, G. Clark, T. Sloan, Carl Jones, J. Lynch, Ben Steven Jillian Thomas
+    Sam T. Nathaniel Nabil-Faree Warne Leonard Durham Williams Haldenby Storey Alik,
+    B. Warne, Steven Leonard, J. Durham, T. Williams, S. Haldenby, N. Storey, N. Alikhan,
+    N. Holmes, Christopher Moore, Matthew Carlile, Malorie Perry, N. Craine, R. Lyons,
+    A. Beckett, S. Goudarzi, C. Fearn, Kate F. Cook, Hannah Dent, Hannah L. Paul,
+    Robert M. Davies, Beth Sophia T. Mathew A. Katherine L. Matthew J. Eleano Blane
+    Girgis Beale Bellis Dorman Drury Kane Kay Mc, B. Blane, Sophia T. Girgis, Mathew
+    A. Beale, Katherine L. Bellis, Matthew J. Dorman, Eleanor Drury, Leanne Kane,
+    Sally Kay, Samantha McGuigan, Rachel Nelson, Liam J. Prestwood, S. Rajatileka,
+    R. Batra, Rachel J. Williams, M. Kristiansen, A. Green, A. Justice, A. Mahanama,
+    Buddhini Samaraweera, Nazreen F. Joshua Hadjirin Quick, Nazreen F. Hadjirin, J.
+    Quick, Radoslaw Poplawski, Leanne M. Nicola Grant Yasmin Malte L. Iliana Robin
+    J. Al Kermack Reynolds Hall Chaudhry Pinckert Georgana M, L. Kermack, N. Reynolds,
+    G. Hall, Y. Chaudhry, M. Pinckert, I. Georgana, Robin J. Moll, A. Thornton, R.
+    Myers, Joanne Stockton, C. Williams, W. Yew, A. Trotter, A. Trebes, G. Macintyre-Cockett,
+    Alec Birchley, Alexander Adams, Amy Plimmer, Bree Gatica-Wilcox, C. McKerr, Ember
+    Hilvers, H. Jones, H. Asad, J. Coombes, John Evans, L. Fina, L. Gilbert, Lee H.
+    Graham, M. Cronin, Sara Kumžiene-Summerhayes, Sarah Taylor, Sophie Jones, Danielle
+    C. Groves, Peijun Zhang, M. Gallis, S. Louka, Igor Starinskij, Chris Marina Gerry
+    Kevin Jaime M. Keith Laura Mohammad T Jackson Gourtovaia Tonkin-Hill Lewis Tovar-Corona
+    , Christopher H Jackson, M. Gourtovaia, G. Tonkin-Hill, Kevin Lewis, Jaime M.
+    Tovar-Corona, Keith James, L. Baxter, M. Alam, R. Orton, J. Hughes, S. Vattipally,
+    M. Ragonnet-Cronin, F. F. Nascimento, D. Jorgensen, O. Boyd, L. Geidelberg, A.
+    Zarebski, J. Raghwani, M. Kraemer, Joel Southgate, B. Lindsey, T. Freeman, Jon-Paul
+    Joshua B. Leonardo Corin A. Khalil Ben E. W. Mirko Keatley Singer de Oliveira
+    Martins Yeats Abudahab , J. Keatley, Joshua B. Singer, L. de Oliveira Martins,
+    C. Yeats, K. AbuDahab, Ben Taylor, Mirko Menegazzo, John Wendy Sahar Anita Jenifer
+    Trevor I. Alison James J Danesh Hogsden Eldirdiri Kenyon Mason Robinson Hol, J.
+    Danesh, Wendy Hogsden, Sahar Eldirdiri, Anita Kenyon, J. Mason, T. Robinson, Alice
+    Holmes, J. Price, J. Hartley, T. Curran, A. Mather, Giri Shankar, Rachel Jones,
+    R. Howe, Sian Morgan, Elizabeth Michael R. Siddharth Rachael Wendy Timothy David
+    D Wastenge Chapman Mookerjee Stanley Smith Peto Eyre, Elizabeth Wastenge, Michael
+    Chapman, S. Mookerjee, Rachael Stanley, W. Smith, T. Peto, D. Eyre, D. Crook,
+    G. Vernet, C. Kitchen, Huw Gulliver, I. Merrick, Martyn F Guest, R. Munn
+  journal: Nature
+  year: '2021'
+  cites: 77
+  link: https://doi.org/10.1038/s41586-021-03291-y
+- title: of Evaluating the effects of SARS-CoV-2 spike mutation D614G on transmissibility
+    and pathogenicity
+  authors: E. Volz, V. Hill, J. McCrone, A. Price, D. Jorgensen, Á. O'toole, Joel
+    Southgate, Robert Johnson, B. Jackson, F. F. Nascimento, S. Rey, S. Nicholls,
+    R. Colquhoun, A. da Silva Filipe, J. Shepherd, D. Pascall, Rajiv Shah, Natasha
+    Jesudason, Kathy K Li, R. Jarrett, Nicole Pacchiarini, M. Bull, L. Geidelberg,
+    Igor Siveroni, I. Goodfellow, N. Loman, O. Pybus, David L. Robertson, E. Thomson,
+    A. Rambaut, T. Connor, C. Koshy, E. Wise, N. Cortes, J. Lynch, Stephen Kidd, M.
+    Mori, D. Fairley, T. Curran, J. McKenna, Helen Adams, C. Fraser, T. Golubchik,
+    D. Bonsall, C. Moore, S. Caddy, F. Khokhar, Michelle Wantoch, N. Reynolds, B.
+    Warne, Joshua Maksimovic, Karla Spellman, Kathryn Mccluggage, Michael John, Robert
+    Beer, Safiah Afifi, Sian Morgan, A. Marchbank, A. Price, C. Kitchen, Huw Gulliver,
+    I. Merrick, Joel Southgate, Martyn F Guest, R. Munn, T. Workman, T. Connor, William
+    Fuller, C. Bresner, L. Snell, T. Charalampous, G. Nebbia, R. Batra, J. Edgeworth,
+    S. Robson, A. Beckett, Katie F. Loveson, D. Aanensen, A. Underwood, C. Yeats,
+    K. AbuDahab, Ben Taylor, Mirko Menegazzo, G. Clark, W. Smith, Manjinder Khakh,
+    Vicki M. Fleming, M. Lister, H. Howson-Wells, L. Berry, T. Boswell, A. Joseph,
+    Iona Willingham, P. Bird, Thomas Helmer, K. Fallon, C. Holmes, Julian W. Tang,
+    Veena Raviprakash, Sharon Campbell, Nicola Sheriff, M. Loose, Nadine Holmes, Christopher
+    Moore, Matthew Carlile, V. Wright, Fei Sang, Johnny Debebe, Francesc Coll, A.
+    Signell, G. Betancor, H. Wilson, T. Feltwell, C. Houldcroft, Sahar Eldirdiri,
+    Anita Kenyon, Thomas Davis, O. Pybus, L. du Plessis, A. Zarebski, J. Raghwani,
+    M. Kraemer, Sarah François, S. Attwood, T. Vasylyeva, M. E. Torok, William L.
+    Hamilton, I. Goodfellow, G. Hall, A. Jahun, Y. Chaudhry, M. Hosmillo, M. Pinckert,
+    I. Georgana, A. Yakovleva, L. Meredith, S. Moses, Hannah Lowe, Felicity Ryan,
+    Chloe Fisher, A. Awan, John Boyes, Judith Breuer, K. Harris, Julianne R. Brown,
+    D. Shah, Laura Atkinson, Jack C. D. Lee, A. Alcolea-Medina, N. Moore, N. Cortes,
+    Rebecca Williams, Michael Chapman, L. Levett, J. Heaney, Darren L. Smith, M. Bashton,
+    G. Young, John H. Allan, J. Loh, P. Randell, A. Cox, P. Madona, A. Holmes, F.
+    Bolt, J. Price, S. Mookerjee, A. Rowan, Graham W. Taylor, M. Ragonnet-Cronin,
+    D. Jorgensen, Robert Johnson, O. Boyd, E. Volz, K. Brunker, Katherine Smollett,
+    J. Quick, C. McMurray, Joanne Stockton, S. Nicholls, <strong>W. Rowe</strong>,
+    Radoslaw Poplawski, R. Martinez-Nunez, J. Mason, T. Robinson, E. O’Toole, Joanne
+    Watts, Cathy Breen, A. Cowell, C. Ludden, Graciela Sluga, Nicholas W. Machin,
+    Shazaad Ahmad, R. George, F. Halstead, Venkat Sivaprakasam, E. Thomson, J. Shepherd,
+    P. Asamaphan, M. Niebel, Kathy K Li, Rajiv Shah, Natasha Jesudason, Yasmin A.
+    Parr, Lily Tong, Alice Broos, D. Mair, J. Nichols, Stephen Carmichael, K. Nomikou,
+    Elihu Aranday-Cortes, N. Johnson, Igor Starinskij, A. da Silva Filipe, David L.
+    Robertson, R. Orton, J. Hughes, S. Vattipally, Joshua B. Singer, A. Hale, L. Macfarlane-Smith,
+    Katherine L. Harper, Yusri Taha, Brendan A. I. Payne, S. Burton-Fanning, S. Waugh,
+    J. Collins, G. Eltringham, K. Templeton, M. McHugh, R. Dewar, Elizabeth Wastenge,
+    S. Dervisevic, Rachael Stanley, R. Prakash, C. Stuart, N. Elumogo, D. Sethi, E.
+    Meader, Lindsay J. Coupland, W. Potter, Clive Graham, E. Barton, D. Padgett, Garren
+    Scott, E. Swindells, J. Greenaway, Andrew Nelson, W. Yew, Paola C. Resende Silva,
+    M. Andersson, R. Shaw, T. Peto, A. Justice, D. Eyre, D. Crooke, S. Hoosdally,
+    T. Sloan, Nichola Duckworth, Sarah Walsh, A. Chauhan, S. Glaysher, K. Bicknell,
+    S. Wyllie, Ethan Butcher, S. Elliott, Allyson Lloyd, R. Impey, Nick Levene, Lynn
+    Monaghan, D. Bradley, E. Allara, C. Pearson, P. Muir, I. Vipond, R. Hopes, Hannah
+    M. Pymont, S. Hutchings, M. Curran, S. Parmar, A. Lackenby, T. Mbisa, S. Platt,
+    S. Miah, D. Bibby, C. Manso, Jonathan Hubb, M. Chand, G. Dabrera, M. Ramsay, D.
+    Bradshaw, A. Thornton, R. Myers, Ulf Schaefer, N. Groves, E. Gallagher, David
+    Lee, David Williams, N. Ellaby, Ian Harrison, H. Hartman, Nikos Manesis, Vineet
+    Patel, Chloe Bishop, Vicki Chalker, H. Osman, A. Bosworth, E. Robinson, M. Holden,
+    Sharif Shaaban, Alec Birchley, Alexander Adams, Alisha R Davies, Amy Gaskin, Amy
+    Plimmer, Bree Gatica-Wilcox, C. McKerr, C. Moore, Chris J Williams, David Heyburn,
+    E. De Lacy, Ember Hilvers, Fatima Downing, Giri Shankar, H. Jones, H. Asad, J.
+    Coombes, J. Watkins, John Evans, L. Fina, Laura Gifford, L. Gilbert, Lee H. Graham,
+    Malorie Perry, M. Morgan, M. Bull, M. Cronin, Nicole Pacchiarini, N. Craine, Rachel
+    Jones, R. Howe, S. Corden, S. Rey, Sara Kumžiene-Summerhayes, Sarah Taylor, S.
+    Cottrell, Sophie Jones, Sue Edwards, J. O’Grady, A. Page, J. Wain, M. Webber,
+    A. Mather, Dave J. Baker, Steven Rudder, Muhammad Yasir, Nicholas M. Thomson,
+    Alp Aydin, A. Tedim, Gemma L. Kay, A. Trotter, Rachel Gilroy, N. Alikhan, L. de
+    Oliveira Martins, Thanh Le-Viet, Lizzie Meadows, A. Kolyva, Marilyn Diaz, A. Bell,
+    A. Gutiérrez, Ian G. Charles, Evelien M. Adriaenssens, R. Kingsley, A. Casey,
+    D. A. Simpson, Z. Molnár, T. Thompson, Erwan Acheson, Jane A. H. Masoli, B. Knight,
+    A. Hattersley, S. Ellard, C. Auckland, T. Mahungu, Dianne Irish-Tavares, T. Haque,
+    Y. Bourgeois, G. Scarlett, D. Partridge, M. Raza, C. Evans, Katie Johnson, S.
+    Liggett, P. Baker, S. Essex, R. Lyons, L. Caller, S. Castellano, Rachel J. Williams,
+    M. Kristiansen, Sunando Roy, C. Williams, P. Dyal, H. Tutill, Yasmin Panchbhaya,
+    Leysa Forrest, P. Niola, J. Findlay, T. Brooks, A. Gavriil, Lamia Mestek-Boukhibar,
+    S. Weeks, Sarojini Pandey, L. Berry, K. Jones, A. Richter, A. Beggs, Colin P.
+    Smith, G. Bucca, A. Hesketh, E. Harrison, S. Peacock, Sophie Palmer, C. Churcher,
+    Katherine L. Bellis, Sophia T. Girgis, Plamena P Naydenova, B. Blane, S. Sridhar,
+    C. Ruis, S. Forrest, C. Cormie, Harmeet Gill, Joana Dias, E. Higginson, Mailis
+    Maes, Jamie Young, L. Kermack, Nazreen F. Hadjirin, D. Aggarwal, Luke Griffith,
+    T. Swingler, R. Davidson, T. Williams, Carlos E. Balcazar, M. Gallagher, Á. O'toole,
+    Stefan Rooke, R. Colquhoun, J. Ashworth, V. Hill, J. McCrone, Emily Scher, Xiaoyu
+    Yu, K. Williamson, Thomas D. Stanton, S. Michell, C. Bewshea, Ben Temperton, M.
+    Michelsen, J. Warwick-Dugdale, R. Manley, A. Farbos, James W. Harrison, C. Sambles,
+    D. Studholme, A. Jeffries, A. Darby, J. Hiscox, S. Paterson, M. Iturriza-Gómara,
+    K. Jackson, Anita O. Lucaci, Edith E. Vamos, M. Hughes, L. Rainbow, R. Eccles,
+    Charlotte Nelson, Mark Whitehead, L. Turtle, S. Haldenby, R. Gregory, M. Gemmell,
+    Dominic P. Kwiatkowski, T. D. de Silva, Nikki Smith, A. Angyal, B. Lindsey, Danielle
+    C. Groves, Luke R. Green, Dennis Wang, T. Freeman, M. Parker, A. Keeley, P. Parsons,
+    Rachel M. Tucker, Rebecca Brown, M. Wyles, C. Constantinidou, M. Unnikrishnan
+  journal: ''
+  year: '2021'
+  cites: 841
+  link: https://www.semanticscholar.org/paper/70f63f8ff8053b1b4357b4cc1c262395c8477648
+- title: Genomic reconstruction of the SARS-CoV-2 epidemic in England
+  authors: Harald S. Vöhringer, T. Sanderson, M. Sinnott, N. de Maio, Thuy-Nhien Nguyen,
+    Richard J. Goater, F. Schwach, Ian Harrison, J. Hellewell, C. Ariani, S. Gonçalves,
+    David K. Jackson, I. Johnston, Alexander W. Jung, Callum Saint, J. Sillitoe, M.
+    Suciu, N. Goldman, J. Panovska-Griffiths, Irina Louise Alex Mozam Laura Roberto
+    Ralph Cristina Sio Abnizova Aigrain Alderton Ali Allen Amato Anderson, I. Abnizova,
+    Louise Aigrain, A. Alderton, Mozam Ali, Laura Allen, R. Amato, R. Anderson, C.
+    Ariani, Siobhan Austin-Guest, Sendu Bala, J. Barrett, Andrew Bassett, Kristina
+    Battleday, J. Beal, M. Beale, C. Beaver, Sam Bellany, Tristram Bellerby, Katherine
+    L. Bellis, Duncan J. Berger, M. Berriman, Emma Betteridge, Paul Bevan, Simon Binley,
+    J. Bishop, Kirsty Blackburn, J. Bonfield, N. Boughton, Samuel Bowker, Timothy
+    Brendler-Spaeth, I. Bronner, Tanya Brooklyn, S. Buddenborg, R. Bush, C. Caetano,
+    A. Cagan, Nicola Carter, Joan Cartwright, Tiago Carvalho Monteiro, L. Chapman,
+    T. Chillingworth, P. Clapham, Richard Clark, Adrian Clarke, Catriona A L Clarke,
+    D. Cole, Elizabeth Cook, M. Coppola, L. Cornell, Clare Cornwell, C. Corton, Abby
+    Crackett, Alison Cranage, Harriet Craven, Sarah Craw, Mark Crawford, T. Cutts,
+    Monika Dąbrowska, M. Davies, Robert M. Davies, Josephine Dawson, Callum Day, Aiden
+    Densem, T. Dibling, C. Dockree, David G. Dodd, S. Dogga, Matthew J. Dorman, G.
+    Dougan, Martin Dougherty, A. Dove, Lucy Drummond, Eleanor Drury, M. Dudek, J.
+    Durham, L. Durrant, Elizabeth Easthope, S. Eckert, Peter Ellis, Ben W. Farr, M.
+    Fenton, Marcella Ferrero, Neil Flack, Howerd Fordham, Grace Forsythe, Luke Foulser,
+    Matt Francis, A. Fraser, Adam Freeman, Anastasia Galvin, Maria Garcia-Casado,
+    Alex Gedny, Sophia T. Girgis, J. Glover, S. Gonçalves, S. Goodwin, Oliver Gould,
+    M. Gourtovaia, A. Gray, Emma V. Gray, C. Griffiths, Yong Gu, Florence Guérin,
+    W. Hamilton, H. Hanks, E. Harrison, Alexandria J. R. Harrott, Edward F. Harry,
+    Julia Harvison, Paul Heath, Anastasia Hernández-Koutoucheva, R. Hobbs, D. Holland,
+    Sarah Holmes, Gary Hornett, Nicholas Hough, Liz Huckle, Lena Hughes-Hallet, A.
+    Hunter, Stephen Inglis, Sameena Iqbal, A. Jackson, David K. Jackson, Keith James,
+    Dorota Jamrozy, Carlos Jimenez Verdejo, Matthew C. Jones, Kalyan Kallepally, Leanne
+    Kane, K. Kay, Sally Kay, J. Keatley, A. Keith, A. King, Lucy Kitchin, Matt Kleanthous,
+    Martina Klimekova, P. Korlević, Ksenia Krasheninnkova, G. Lane, CORDELIA F. Langford,
+    Adam Laverack, Ka-ho. Law, M. Lawniczak, Stefanie V. Lensing, Steven Leonard,
+    L. Letchford, Kevin Lewis, Amanah Lewis-Wade, J. Liddle, Quan Lin, S. Lindsay,
+    Sally Linsdell, R. Livett, Stephanie H. Lo, Rhona Long, J. Lovell, Jonathan B.
+    Lovell, C. Ludden, J. Mack, M. Maddison, A. Makunin, Irfan Mamun, J. Mansfield,
+    N. Marriott, Matt Martin, Matthew Mayho, Shane A. McCarthy, Jo McClintock, Samantha
+    McGuigan, Sandra McHugh, L. McMinn, C. Meadows, Emily B Mobley, Robin J. Moll,
+    M. Morra, L. Morrow, Kathryn Murie, Sian Nash, C. Nathwani, Plamena P Naydenova,
+    Alexandra Neaverson, Rachel Nelson, E. Nerou, Jon Nicholson, Tabea Nimz, G. Noell,
+    S. O’Meara, Valeriu Ohan, Karen Oliver, Charles Olney, D. Ormond, Agnes Oszlanczi,
+    Steven O. Palmer, Yoke Fei Pang, Barbora Pardubska, Naomi R. Park, A. Parmar,
+    Gaurang Patel, M. Patel, M. Payne, Sharon J. Peacock, Arabella Petersen, Deborah
+    Plowman, T. Preston, Liam J. Prestwood, Christoph Puethe, Michael A. Quail, D.
+    Rajan, S. Rajatileka, Richard Rance, Suzannah Rawlings, Nicholas M. Redshaw, Joe
+    Reynolds, Mark Reynolds, S. Rice, M. Richardson, Connor L. Roberts, Katrina Robinson,
+    Melanie Robinson, David Robinson, H. Rogers, Eduardo Martin Rojo, Daljit Roopra,
+    M. Rose, Luke Rudd, R. Sadri, Nicholas Salmon, David Saul, C. Scott, Phil Seekings,
+    Lesley M Shirley, Alison Simms, M. Sinnott, Shanthi Sivadasan, B. Siwek, Dale
+    Sizer, K. Skeldon, J. Skelton, Joanna Slater-Tunstill, Lisa Sloper, Nathalie C.
+    Smerdon, Christen Smith, Christen Smith, James Smith, Katie Smith, Michelle Smith,
+    Sean Smith, Tina Smith, Leighton Sneade, C. D. Soria, Catarina Sousa, Emily Souster,
+    A. Sparkes, Michael Spencer-Chapman, Janet Squares, Robert Stanley, Claire Steed,
+    T. Stickland, Ian R. Still, Mike Stratton, Michelle Strickland, Allen Swann, A.
+    Świątkowska, N. Sycamore, Emma Swift, Edward L. Symons, Suzanne Szluha, Emma Taluy,
+    Nunu Tao, Katy Taylor, Samuel Taylor, Stacey Thompson, M. Thompson, M. Thomson,
+    N. Thomson, Scott A. J. Thurston, G. Tonkin-Hill, Dee Toombs, Benjamin Topping,
+    Jaime M. Tovar-Corona, D. Ungureanu, J. Uphill, J. Urbanová, P. J. Van Vuuren,
+    Valerie E. Vancollie, Paul Voak, D. Walker, M. Walker, M. Waller, Gary Ward, Charlie
+    Weatherhogg, Niki Webb, Danni Weldon, A. Wells, E. Wells, Luke Westwood, Theodore
+    Whipp, T. Whiteley, Georgia Whitton, Andrew Whitwham, S. Widaa, Mia Williams,
+    Mark Wilson, Sean J. Wright, Samuel C. Thomas R. Nicholas J. Tanya Rocio T. David
+    Andr Robson Connor Loman Golubchik Martinez Nunez Bonsa, S. Robson, Thomas R.
+    Nicholas J. Connor Loman, T. Connor, N. Loman, T. Golubchik, Rocio Martinez Nunez,
+    D. Bonsall, A. Rambaut, L. Snell, C. Ludden, Sally Eleni Corden Nastouli, S. Corden,
+    E. Nastouli, G. Nebbia, Katrina M. Estee Ian G. Lythgoe Torok Goodfellow, K. Lythgoe,
+    M. Torok, I. Goodfellow, Jacqui A. Kordo Prieto Saeed, J. Prieto, K. Saeed, C.
+    Houlihan, D. Frampton, William L. Adam A. Hamilton Witney, W. Hamilton, A. Witney,
+    G. Bucca, C. Pope, Catherine Moore, E. Thomson, E. Harrison, Colin P. Smith, Fiona
+    Rogan, Shaun M. Abigail Dawn Kirstine Liz A. Paul Leigh M. Sóni Beckwith Murray
+    Singleton Eastick Sheridan Randell, Shaun M. Beckwith, Abigail Murray, D. Singleton,
+    K. Eastick, L. Sheridan, P. Randell, L. Jackson, S. Gonçalves, Derek J. Matthew
+    W. Joanne Fairley Loose Watkins, D. Fairley, M. Loose, J. Watkins, S. Moses, Sam
+    Matthew Nicholls Bull, S. Nicholls, M. Bull, Darren L. Smith, D. Aanensen, Dinesh
+    James G. Martin D. Surendra Aggarwal Shepherd Curran Parmar, D. Aggarwal, J. Shepherd,
+    M. Curran, S. Parmar, M. Parker, Catryn Williams, S. Glaysher, Anthony P. Matthew
+    Nicole Katie F. Matthew Underwood Bashton Pacchiarini Loveson Byott, A. Underwood,
+    M. Bashton, Nicole Pacchiarini, Katie F. Loveson, M. Byott, A. Carabelli, K. Templeton,
+    Thushan I. Dennis Cordelia F. de Silva Wang Langford, T. D. de Silva, Dennis Wang,
+    CORDELIA F. Langford, R. Gunson, Simon Justin Dominic Cottrell O’Grady Kwiatkowski,
+    S. Cottrell, J. O’Grady, Dominic P. Kwiatkowski, P. Lillie, Nicholas Nathan Claire
+    Phillipa J. Tabitha W. Steven Cortes Moore Thomas Burns Mahungu Liggett, N. Cortes,
+    N. Moore, Claire Thomas, P. Burns, T. Mahungu, S. Liggett, Angela H. Matthew T.
+    G. Beckett Holden, A. Beckett, M. Holden, Lisa J. Husam Mohammed O. Levett Osman
+    Hassan-Ibrahim, L. Levett, H. Osman, M. Hassan-Ibrahim, D. A. Simpson, Meera Ravi
+    K. Alistair C. Steve Chand Gupta Darby Paterson, M. Chand, R. Gupta, A. Darby,
+    S. Paterson, Oliver G. Erik Daniela David L. Andrew J. Pybus Volz de Angelis Robertson
+    Page, O. Pybus, Erik M. Volz, D. De Angelis, David L. Robertson, A. Page, Andrew
+    Bassett, Nick Yusri Michelle J. Michael H. Wong Taha Erkiert Spencer Chapman,
+    Nick Wong, Yusri Taha, Michelle J. Erkiert, M. Spencer Chapman, Rebecca Martin
+    P. Dewar McHugh, R. Dewar, M. McHugh, S. Mookerjee, Stephen Matthew Thea Helen
+    Helen Aplin Harvey Sass Umpleby Wheeler, Stephen Aplin, M. Harvey, T. Sass, H.
+    Umpleby, H. Wheeler, James P. Ben Joshua F. Yasmin Rhys Aminu S. Gregory R. C
+    McKenna Warne Taylor Chaudhry Izuagbe Jahun Young , J. McKenna, B. Warne, Joshua
+    F. Taylor, Y. Chaudhry, Rhys Izuagbe, A. Jahun, G. Young, C. McMurray, C. McCann,
+    Andrew Nelson, Scott Elliott, Hannah Lowe, Anna Matthew R. Sara Sunando Ben Price
+    Crown Rey Roy Temperton, A. Price, M. Crown, S. Rey, Sunando Roy, Ben Temperton,
+    Sharif Andrew R. Shaaban Hesketh, Sharif Shaaban, A. Hesketh, Kenneth G. Irene
+    M. Judith Laing Monahan Heaney, K. Laing, I. Monahan, J. Heaney, Emanuela Siona
+    Eleri Pelosi Silviera Wilson-Davies, E. Pelosi, Siona Silviera, E. Wilson-Davies,
+    H. Fryer, Helen Louis Rob William T. Joseph Richard J. Lewis G. Ya Adams du Plessis
+    Johnson Harvey Hughes Orton Spurg, Helen Adams, L. du Plessis, Robert Johnson,
+    William T. Harvey, J. Hughes, R. Orton, Lewis G. Spurgin, Y. Bourgeois, C. Ruis,
+    Á. O'toole, Christophe Jonathan Judith Stephen L. John A. Fraser Edgeworth Breuer
+    Michell Todd, C. Fraser, J. Edgeworth, Judith Breuer, S. Michell, J. Todd, Michaela
+    David John Buck, M. John, D. Buck, Kavitha Gemma L. Gajee Kay, K. Gajee, Gemma
+    L. Kay
+  journal: Nature
+  year: '2021'
+  cites: 101
+  link: https://doi.org/10.1038/s41586-021-04069-y
+- title: 'CLIMB-COVID: continuous integration supporting decentralised sequencing
+    for SARS-CoV-2 genomic surveillance'
+  authors: S. Nicholls, Radoslaw Poplawski, M. Bull, A. Underwood, Michael Chapman,
+    Khalil Abu-Dahab, Ben Taylor, R. Colquhoun, <strong>W. Rowe</strong>, B. Jackson,
+    V. Hill, Á. O'toole, S. Rey, Joel Southgate, R. Amato, R. Livett, S. Gonçalves,
+    E. Harrison, S. Peacock, D. Aanensen, A. Rambaut, T. Connor, N. Loman
+  journal: Genome Biology
+  year: '2021'
+  cites: 63
+  link: https://doi.org/10.1186/s13059-021-02395-y
+- title: Assessing transmissibility of SARS-CoV-2 lineage B.1.1.7 in England
+  authors: Erik M. Volz, Swapnil Mishra, M. Chand, J. Barrett, Robert Johnson, L.
+    Geidelberg, W. Hinsley, D. Laydon, G. Dabrera, Á. O'toole, R. Amato, M. Ragonnet-Cronin,
+    Ian Harrison, B. Jackson, C. Ariani, O. Boyd, N. Loman, J. McCrone, S. Gonçalves,
+    D. Jorgensen, R. Myers, V. Hill, D. Jackson, K. Gaythorpe, N. Groves, J. Sillitoe,
+    Dominic P. Kwiatkowski, Cherian Amy Emma Nathan Matilde Nick Jessica Stephen Derek
+    Koshy Ash Wise Moore Mori Cortes Lynch Kidd Fairle, C. Koshy, Amy Ash, Emma Wise,
+    N. Moore, M. Mori, N. Cortes, J. Lynch, Stephen Kidd, D. Fairley, T. Curran, J.
+    McKenna, Helen Adams, C. Fraser, T. Golubchik, D. Bonsall, M. Hassan-Ibrahim,
+    Cassandra S. Malone, Benjamin J. Cogger, Michelle Wantoch, N. Reynolds, B. Warne,
+    Joshua Maksimovic, Karla Spellman, Kathryn Mccluggage, M. John, Robert Beer, Safiah
+    Afifi, Sian Morgan, A. Marchbank, A. Price, C. Kitchen, Huw Gulliver, I. Merrick,
+    Joel Southgate, Martyn F Guest, R. Munn, T. Workman, T. Connor, William Fuller,
+    C. Bresner, L. Snell, Amita Patel, T. Charalampous, G. Nebbia, R. Batra, J. Edgeworth,
+    S. Robson, A. Beckett, D. Aanensen, A. Underwood, C. Yeats, K. AbuDahab, Ben Taylor,
+    Mirko Menegazzo, G. Clark, W. Smith, Manjinder Khakh, Vicki M. Fleming, M. Lister,
+    H. Howson-Wells, L. Berry, T. Boswell, A. Joseph, Iona Willingham, Carl Jones,
+    C. Holmes, P. Bird, Thomas Helmer, K. Fallon, Julian W. Tang, Veena Raviprakash,
+    Sharon Campbell, Nicola Sheriff, Victoria Blakey, L. Williams, M. Loose, N. Holmes,
+    Christopher Moore, Matthew Carlile, V. Wright, Fei Sang, Johnny Debebe, Francesc
+    Coll, A. Signell, G. Betancor, H. Wilson, Sahar Eldirdiri, Anita Kenyon, Thomas
+    Davis, O. Pybus, L. du Plessis, A. Zarebski, J. Raghwani, M. Kraemer, Sarah François,
+    S. Attwood, T. Vasylyeva, M. Zamudio, B. Gutiérrez, M. Torok, W. Hamilton, I.
+    Goodfellow, G. Hall, A. Jahun, Y. Chaudhry, M. Hosmillo, M. Pinckert, I. Georgana,
+    S. Moses, Hannah Lowe, L. Bedford, J. Moore, Susanne Stonehouse, Chloe Fisher,
+    A. Awan, John Boyes, Judith Breuer, K. Harris, Julianne R. Brown, D. Shah, Laura
+    Atkinson, Jack C. D. Lee, N. Storey, F. Flaviani, A. Alcolea-Medina, Rebecca Williams,
+    G. Vernet, Michael Chapman, L. Levett, J. Heaney, W. Chatterton, Monika Pusok,
+    Li Xu-McCrae, Darren L. Smith, M. Bashton, G. Young, Alice Holmes, P. Randell,
+    A. Cox, P. Madona, F. Bolt, J. Price, S. Mookerjee, M. Ragonnet-Cronin, F. F.
+    Nascimento, D. Jorgensen, Igor Siveroni, Robert Johnson, O. Boyd, L. Geidelberg,
+    Erik M. Volz, A. Rowan, Graham W. Taylor, Katherine Smollett, N. Loman, J. Quick,
+    C. McMurray, Joanne Stockton, S. Nicholls, <strong>W. Rowe</strong>, Radoslaw
+    Poplawski, A. McNally, R. M. Nunez, J. Mason, T. Robinson, E. O’Toole, Joanne
+    Watts, Cathy Breen, A. Cowell, Graciela Sluga, Nicholas W. Machin, Shazaad Ahmad,
+    R. George, F. Halstead, Venkat Sivaprakasam, Wendy Hogsden, Christopher J. R.
+    Illingworth, Christopher H Jackson, E. Thomson, J. Shepherd, P. Asamaphan, M.
+    Niebel, Kathy K Li, Rajiv Shah, Natasha Jesudason, Lily Tong, Alice Broos, D.
+    Mair, J. Nichols, Stephen Carmichael, K. Nomikou, Elihu Aranday-Cortes, N. Johnson,
+    Igor Starinskij, A. da Silva Filipe, David L. Robertson, R. Orton, J. Hughes,
+    S. Vattipally, Joshua B. Singer, Seema Nickbakhsh, A. Hale, L. Macfarlane-Smith,
+    Katherine L. Harper, H. Carden, Yusri Taha, Brendan A. I. Payne, S. Burton-Fanning,
+    S. Waugh, J. Collins, G. Eltringham, S. Rushton, S. O’Brien, A. Bradley, A. Maclean,
+    Guy Mollett, Rachel M Blacow, K. Templeton, M. McHugh, R. Dewar, Elizabeth Wastenge,
+    S. Dervisevic, Rachael Stanley, E. Meader, Lindsay J. Coupland, Louise Smith,
+    Clive Graham, E. Barton, D. Padgett, Garren Scott, E. Swindells, J. Greenaway,
+    Andrew Nelson, C. McCann, W. Yew, M. Andersson, T. Peto, A. Justice, D. Eyre,
+    D. Crook, T. Sloan, Nichola Duckworth, Sarah Walsh, A. Chauhan, S. Glaysher, K.
+    Bicknell, S. Wyllie, Scott Elliott, Allyson Lloyd, R. Impey, Nick Levene, Lynn
+    Monaghan, D. Bradley, Tim Wyatt, E. Allara, C. Pearson, H. Osman, A. Bosworth,
+    E. Robinson, P. Muir, I. Vipond, R. Hopes, Hannah M. Pymont, S. Hutchings, M.
+    Curran, S. Parmar, A. Lackenby, T. Mbisa, S. Platt, S. Miah, D. Bibby, C. Manso,
+    Jonathan Hubb, M. Ramsay, D. Bradshaw, A. Thornton, Ulf Schaefer, E. Gallagher,
+    David Lee, David Williams, N. Ellaby, H. Hartman, Nikos Manesis, Vineet Patel,
+    Chloe Bishop, Vicki Chalker, J. Ledesma, K. Twohig, M. Holden, Sharif Shaaban,
+    Alec Birchley, Alexander Adams, A. Davies, Amy Gaskin, Amy Plimmer, Bree Gatica-Wilcox,
+    C. McKerr, Catherine Moore, Chris Williams, David Heyburn, E. Lacy, Ember Hilvers,
+    Fatima Downing, Giri Shankar, H. Jones, H. Asad, J. Coombes, J. Watkins, John
+    Evans, L. Fina, Laura Gifford, L. Gilbert, Lee H. Graham, Malorie Perry, M. Morgan,
+    M. Bull, M. Cronin, Nicole Pacchiarini, N. Craine, Rachel Jones, R. Howe, S. Corden,
+    S. Rey, Sara Kumžiene-Summerhayes, Sarah Taylor, S. Cottrell, Sophie Jones, Sue
+    Edwards, J. O’Grady, A. Page, A. Mather, David J. Baker, Steven Rudder, Alp Aydin,
+    Gemma L. Kay, A. Trotter, N. Alikhan, L. de Oliveira Martins, Thanh Le-Viet, Lizzie
+    Meadows, A. Casey, Liz Ratcliffe, D. A. Simpson, Z. Molnár, T. Thompson, Erwan
+    Acheson, Jane A. H. Masoli, B. Knight, S. Ellard, C. Auckland, Christopher R.
+    Jones, T. Mahungu, Dianne Irish-Tavares, T. Haque, J. Hart, E. Witele, M. Fenton,
+    Ashok Dadrah, Amanda Symmonds, T. Saluja, Y. Bourgeois, G. Scarlett, Katie F.
+    Loveson, S. Goudarzi, C. Fearn, Kate F. Cook, Hannah Dent, Hannah L. Paul, D.
+    Partridge, M. Raza, C. Evans, Katie Johnson, S. Liggett, P. Baker, S. Bonner,
+    S. Essex, R. Lyons, K. Saeed, A. Mahanama, Buddhini Samaraweera, S. Silveira,
+    E. Pelosi, E. Wilson-Davies, Rachel J. Williams, M. Kristiansen, Sunando Roy,
+    C. Williams, M. Cotic, N. Bayzid, A. Westhorpe, J. Hartley, Riaz Jannoo, Helen
+    L Lowe, Angeliki Karamani, L. Ensell, J. Prieto, Sarah Jeremiah, D. Grammatopoulos,
+    Sarojini Pandey, L. Berry, K. Jones, A. Richter, A. Beggs, A. Best, B. Percival,
+    J. Mirza, O. Megram, M. Mayhew, L. Crawford, F. Ashcroft, E. Moles-Garcia, Nicola
+    Cumley, Colin P. Smith, G. Bucca, A. Hesketh, B. Blane, Sophia T. Girgis, D. Leek,
+    S. Sridhar, S. Forrest, C. Cormie, Harmeet Gill, Joana Dias, E. Higginson, Mailis
+    Maes, Jamie Young, L. Kermack, R. Gupta, C. Ludden, S. Peacock, Sophie Palmer,
+    C. Churcher, Nazreen F. Hadjirin, A. Carabelli, E. Brooks, Kim S. Smith, Katerina
+    Galai, Georgina M. McManus, C. Ruis, R. Davidson, A. Rambaut, T. Williams, Carlos
+    E. Balcazar, Michael D. Gallagher, Á. O'toole, Stefan Rooke, V. Hill, K. Williamson,
+    Thomas D. Stanton, S. Michell, C. Bewshea, Ben Temperton, M. Michelsen, J. Warwick-Dugdale,
+    R. Manley, A. Farbos, James W. Harrison, C. Sambles, D. Studholme, A. Jeffries,
+    A. Darby, J. Hiscox, S. Paterson, M. Iturriza-Gómara, K. Jackson, Anita O. Lucaci,
+    Edith E. Vamos, Margaret Hughes, L. Rainbow, R. Eccles, Charlotte Nelson, Mark
+    Whitehead
+  journal: Nature
+  year: '2021'
+  cites: 1087
+  link: https://doi.org/10.1038/s41586-021-03470-x
+- title: SARS-CoV-2 evolution during treatment of chronic infection
+  authors: S. Kemp, D. Collier, R. Datir, I. Ferreira, S. Gayed, A. Jahun, M. Hosmillo,
+    C. Rees-Spear, P. Mlcochova, Ines Ushiro Lumb, D. Roberts, Anita Chandra, N. Temperton,
+    Stephen Gordon Christoph Nathalie Paul J. Paul A. Nicholas Baker Dougan Hess Kingston
+    Lehner Lyons Matheson O, Stephen Gordon Christoph Nathalie Paul J. Paul A. Nicholas
+    Baker Dougan Hess Kingston Lehner Lyons Matheson O, S. Baker, Gordon Dougan, C.
+    Hess, N. Kingston, P. Lehner, P. Lyons, Nicholas J Matheson, Willem H. Owehand,
+    C. Saunders, C. Summers, J. Thaventhiran, M. Toshner, M. Weekes, Ashlea Jo Laura
+    Jason Anne Stewart Julie Sarah Jane Sherl Bucke Calder Canna Domingo Elmer Fuller
+    Harris Hew, Ashlea Bucke, J. Calder, L. Canna, Jason Domingo, A. Elmer, S. Fuller,
+    Julie Harris, S. Hewitt, J. Kennet, Sherly Jose, Jenny Kourampa, A. Meadows, Criona
+    O’Brien, Jane Price, Cherry Publico, Rebecca J Rastall, C. Ribeiro, J. Rowlands,
+    Valentina Ruffolo, Hugo Tordesillas, Ben Benjamin J. Stuart Stefan Josh Christopher
+    Kelvin  Bullman Dunmore Fawke Gräf Hodgson Huang Hunter Jo, Ben Bullman, B. Dunmore,
+    Stuart Fawke, Stefan Gräf, Josh Hodgson, Christopher Huang, K. Hunter, E. Jones,
+    E. Legchenko, C. Matara, Jennifer M Martin, F. Mescia, Ciara O’Donnell, L. Pointon,
+    Nicole Pond, J. Shih, R. Sutcliffe, T. Tilly, C. Treacy, Z. Tong, Jennifer Wood,
+    Marta Wylot, Laura Ariana Georgie Chiara Aloka Madeline Stuart Nick R Bergamaschi
+    Betancourt Bower Cossetti De Sa Epping, L. Bergamaschi, Ariana Betancourt, G.
+    Bower, C. Cossetti, Aloka De Sa, M. Epping, Stuart Fawke, Nicholas S. Gleadall,
+    R. Grenfell, Andrew Hinch, O. Huhn, Sarah Jackson, Isobel Jarvis, Dan Lewis, J.
+    Marsden, Francesca L. Nice, G. Okecha, Ommar Omarjee, Marianne R Perera, N. Richoz,
+    V. Romashova, N. S. Yarkoni, Rahul Sharma, L. Stefanucci, J. Stephens, Mateusz
+    Strezlecki, L. Turner, Eckart M. D. D. Katherine Masa Michael Sabrina Mayurun
+    Sa De Bie Bunclark Josipovic Mackay Rossi Selvan Spen, E. D. De Bie, K. Bunclark,
+    Maša Josipović, Michael Mackay, Sabrina Rossi, Mayurun Selvan, S. Spencer, Cissy
+    Yong, Ali Alice Lucy Caroline Gary Ansaripour Michael Mwaura Patterson Polwarth,
+    A. Ansaripour, A. Michael, L. Mwaura, C. Patterson, Gary Polwarth, Petra Giovanni
+    Polgarova di Stefano, P. Polgarova, Giovanni Di Stefano, Codie Rachel Fahey Michel,
+    Codie Fahey, R. Michel, Sze-How Jerome D. Elaine Bong Coudert Holmes, Sze-How
+    Bong, J. Coudert, E. Holmes, John Helen Daniela Debbie Eleanor Anita Barbara Jennife
+    Allison Butcher Caputo Clapham-Riley Dewhurst Furl, J. Allison, H. Butcher, D.
+    Caputo, Debbie Clapham-Riley, Eleanor F. Dewhurst, A. Furlong, B. Graves, J. Gray,
+    Tasmin Ivers, Mary A. Kasanicki, Emma Le Gresley, R. Linger, Sara E. Meloy, Frances
+    E. Muldoon, Nigel R. Ovington, S. Papadia, Isabel Phelan, H. Stark, K. Stirrups,
+    Paul Townsend, N. Walker, J. Webster, Samuel C. Nicholas J. Thomas R. Tanya Rocio
+    T. Catherine  Robson Loman Connor Golubchik Martinez Nunez Ludde, S. Robson, Nicholas
+    J. Thomas R. Loman Connor, N. Loman, T. Connor, T. Golubchik, Rocio Martinez Nunez,
+    C. Ludden, S. Corden, Ian David Johnston Bonsall, I. Johnston, D. Bonsall, Colin
+    P. Ali R. Smith Awan, Colin P. Smith, A. Awan, G. Bucca, M. Estee Torok, Kordo
+    Jacqui A. Saeed Prieto, K. Saeed, J. Prieto, David K. Jackson, W. Hamilton, L.
+    Snell, Catherine Moore, Ewan M. Harrison, S. Gonçalves, Derek J. Matthew W. Joanne
+    Fairley Loose Watkins, D. Fairley, M. Loose, J. Watkins, R. Livett, S. Moses,
+    Roberto Sam Matthew Amato Nicholls Bull, R. Amato, S. Nicholls, M. Bull, Darren
+    L. Smith, Jeff David M. Barrett Aanensen, J. Barrett, D. Aanensen, Martin D. Surendra
+    Dinesh James G. Curran Parmar Aggarwal Shepherd, M. Curran, S. Parmar, D. Aggarwal,
+    J. Shepherd, M. Parker, S. Glaysher, Matthew Anthony P. Nicole Katie F. Bashton
+    Underwood Pacchiarini Loveson, M. Bashton, A. Underwood, Nicole Pacchiarini, Katie
+    F. Loveson, A. Carabelli, K. Templeton, Cordelia F. John Thushan I. Dennis Langford
+    Sillitoe de Silva Wang, CORDELIA F. Langford, J. Sillitoe, T. D. de Silva, Dennis
+    Wang, Dominic Andrew Justin Simon Kwiatkowski Rambaut O’Grady Cottrell, Dominic
+    P. Kwiatkowski, A. Rambaut, J. O’Grady, S. Cottrell, Matthew T. G. Emma C. Holden
+    Thomson, M. Holden, E. Thomson, Husam Monique Anoop J. Mohammed O. Osman Andersson
+    Chauhan Hassan-Ibrahim, H. Osman, M. Andersson, A. Chauhan, M. Hassan-Ibrahim,
+    Mara Lawniczak, Alex Meera Chrystala Meera Alistair C. Julian A. Steve Alderton
+    Chand Constantinidou Unnikrishnan Darby H, A. Alderton, M. Chand, C. Constantinidou,
+    M. Unnikrishnan, A. Darby, J. Hiscox, S. Paterson, Inigo David L. Erik M. Andrew
+    J. Oliver G. Martincorena Robertson Volz Page Pybus, I. Martincorena, David L.
+    Robertson, E. Volz, A. Page, O. Pybus, Andrew Bassett, Cristina V. Michael H.
+    Kathy K. Rajiv N. Natasha G. Yusri Ariani Spencer Chapman Li Shah Jesudason Taha,
+    C. Ariani, M. Spencer Chapman, Kathy K Li, Rajiv Shah, Natasha Jesudason, Yusri
+    Taha, Martin P. Rebecca McHugh Dewar, M. McHugh, R. Dewar, Aminu S. Claire Sarojini
+    James P. Andrew Gregory R. Clar Jahun McMurray Pandey McKenna Nelson Young McCann
+    , A. Jahun, C. McMurray, Sarojini Pandey, J. McKenna, Andrew Nelson, G. Young,
+    C. McCann, Scott Elliott, Hannah Lowe, Ben Sunando Anna Sara Matthew Temperton
+    Roy Price Rey Wyles, Ben Temperton, Sunando Roy, A. Price, S. Rey, M. Wyles, Stefan
+    Sharif Rooke Shaaban, Stefan Rooke, Sharif Shaaban, M. de Cesare, L. Letchford,
+    Siona Emanuela Eleri Silveira Pelosi Wilson-Davies, S. Silveira, E. Pelosi, E.
+    Wilson-Davies, M. Hosmillo, Áine Andrew R. Richard Louis Chris Helen Yann O’Toole
+    Hesketh Stark du Plessis Ruis Adams Bourge, Á. O'toole, A. Hesketh, R. Stark,
+    L. du Plessis, C. Ruis, Helen Adams, Y. Bourgeois, Stephen L. Dimitris Jonathan
+    Judith John A. Christophe Michell Grammatopoulos Edgeworth Breuer Todd Frase,
+    S. Michell, D. Grammatopoulos, J. Edgeworth, Judith Breuer, J. Todd, C. Fraser,
+    David Michaela Buck John, D. Buck, M. John, Gemma L. Kay, Steve Sharon J. David
+    Palmer Peacock Heyburn, Steven O. Palmer, Sharon J. Peacock, David Heyburn, Danni
+    Esther Alan Peter Ian B. John Venkat Tranprit Sami Weldon Robinson McNally Muir
+    Vipond Boyes Sivaprak, Danni Weldon, E. Robinson, A. McNally, P. Muir, I. Vipond,
+    John Boyes, Venkat Sivaprakasam, Tranprit Salluja, S. Dervisevic, E. Meader, Naomi
+    R. Karen Aaron R. Sascha Ana David A. Chris Park Oliver Jeffries Ott da Silva
+    Filipe Simpson W, Naomi R. Park, Karen Oliver, A. Jeffries, S. Ott, A. da Silva
+    Filipe, D. A. Simpson, Chris J Williams, Jane A. H. Masoli, Bridget A. Christopher
+    R. Cherian Amy Anna Andrew Liz Li H Knight Jones Koshy Ash Casey Bosworth Ratcliffe
+    Xu, B. Knight, Christopher R. Jones, C. Koshy, Amy Ash, A. Casey, A. Bosworth,
+    Liz Ratcliffe, Li Xu-McCrae, Hannah M. Pymont, S. Hutchings, L. Berry, K. Jones,
+    F. Halstead, Thomas Davis, C. Holmes, M. Iturriza-Gómara, Anita O. Lucaci, P.
+    Randell, A. Cox, P. Madona, K. Harris, Julianne R. Brown, T. Mahungu, Dianne Irish-Tavares,
+    T. Haque, J. Hart, E. Witele, M. Fenton, S. Liggett, Clive Graham, E. Swindells,
+    J. Collins, G. Eltringham, Sharon Campbell, P. McClure, G. Clark, T. Sloan, Carl
+    Jones, J. Lynch, Ben Steven Jillian Thomas Sam T. Nathaniel Nabil-Faree Warne
+    Leonard Durham Williams Haldenby Storey Alik, B. Warne, Steven Leonard, J. Durham,
+    T. Williams, S. Haldenby, N. Storey, N. Alikhan, N. Holmes, Christopher Moore,
+    Matthew Carlile, Malorie Perry, N. Craine, R. Lyons, A. Beckett, S. Goudarzi,
+    C. Fearn, Kate F. Cook, Hannah Dent, Hannah L. Paul, Robert M. Davies, Beth Sophia
+    T. Mathew A. Katherine L. Matthew J. Eleano Blane Girgis Beale Bellis Dorman Drury
+    Kane Kay Mc, B. Blane, Sophia T. Girgis, Mathew A. Beale, Katherine L. Bellis,
+    Matthew J. Dorman, Eleanor Drury, Leanne Kane, Sally Kay, Samantha McGuigan, Rachel
+    Nelson, Liam J. Prestwood, S. Rajatileka, R. Batra, Rachel J. Williams, M. Kristiansen,
+    A. Green, A. Justice, A. Mahanama, Buddhini Samaraweera, Nazreen F. Joshua Hadjirin
+    Quick, Nazreen F. Hadjirin, J. Quick, Radoslaw Poplawski, Leanne M. Nicola Grant
+    Yasmin Malte L. Iliana Robin J. Al Kermack Reynolds Hall Chaudhry Pinckert Georgana
+    M, L. Kermack, N. Reynolds, G. Hall, Y. Chaudhry, M. Pinckert, I. Georgana, Robin
+    J. Moll, A. Thornton, R. Myers, Joanne Stockton, C. Williams, W. Yew, A. Trotter,
+    A. Trebes, G. Macintyre-Cockett, Alec Birchley, Alexander Adams, Amy Plimmer,
+    Bree Gatica-Wilcox, C. McKerr, Ember Hilvers, H. Jones, H. Asad, J. Coombes, John
+    Evans, L. Fina, L. Gilbert, Lee H. Graham, M. Cronin, Sara Kumžiene-Summerhayes,
+    Sarah Taylor, Sophie Jones, Danielle C. Groves, Peijun Zhang, M. Gallis, S. Louka,
+    Igor Starinskij, Chris Marina Gerry Kevin Jaime M. Keith Laura Mohammad T Jackson
+    Gourtovaia Tonkin-Hill Lewis Tovar-Corona , Christopher H Jackson, M. Gourtovaia,
+    G. Tonkin-Hill, Kevin Lewis, Jaime M. Tovar-Corona, Keith James, L. Baxter, M.
+    T. Alam, R. Orton, J. Hughes, S. Vattipally, M. Ragonnet-Cronin, F. F. Nascimento,
+    D. Jorgensen, O. Boyd, L. Geidelberg, A. Zarebski, J. Raghwani, M. Kraemer, Joel
+    Southgate, B. Lindsey, T. Freeman, Jon-Paul Joshua B. Leonardo Corin A. Khalil
+    Ben E. W. Mirko Keatley Singer de Oliveira Martins Yeats Abudahab , J. Keatley,
+    Joshua B. Singer, L. de Oliveira Martins, C. Yeats, K. AbuDahab, Ben Taylor, Mirko
+    Menegazzo, John Wendy Sahar Anita Jenifer Trevor I. Alison James J Danesh Hogsden
+    Eldirdiri Kenyon Mason Robinson Hol, J. Danesh, Wendy Hogsden, Sahar Eldirdiri,
+    Anita Kenyon, J. Mason, T. Robinson, Alice Holmes, J. Price, J. Hartley, T. Curran,
+    A. Mather, Giri Shankar, Rachel Jones, R. Howe, Sian Morgan, Elizabeth Michael
+    R. Siddharth Rachael Wendy Timothy David D Wastenge Chapman Mookerjee Stanley
+    Smith Peto Eyre, Elizabeth Wastenge, Michael Chapman, S. Mookerjee, Rachael Stanley,
+    W. Smith, T. Peto, D. Eyre, D. Crook, G. Vernet, C. Kitchen, Huw Gulliver, I.
+    Merrick, Martyn F Guest, R. Munn
+  journal: Nature
+  year: '2021'
+  cites: 928
+  link: https://doi.org/10.1038/s41586-021-03291-y
+- title: An accessible, efficient and global approach for the large-scale sequencing
+    of bacterial genomes
+  authors: B. Perez-Sepulveda, D. Heavens, C. Pulford, A. Predeus, Ross Low, H. Webster,
+    C. Schudoma, <strong>W. Rowe</strong>, J. Lipscombe, C. Watkins, Benjamin Kumwenda,
+    Neil Shearer, Karl Costigan, Kate S. Baker, N. Feasey, J. Hinton, Neil Hall
+  journal: bioRxiv
+  year: '2020'
+  cites: 8
+  link: https://doi.org/10.1101/2020.07.22.200840
+- title: Stepwise evolution of Salmonella Typhimurium ST313 causing bloodstream infection
+    in Africa
+  authors: C. Pulford, B. Perez-Sepulveda, Rocío Canals, Jessica A Bevington, Rebecca
+    J. Bengtsson, N. Wenner, Ella V. Rodwell, Benjamin Kumwenda, Xiaojun Zhu, R. Bennett,
+    George E. Stenhouse, P. Malaka De Silva, H. Webster, J. Bengoechea, A. Dumigan,
+    Alicia Tran-Dien, R. Prakash, H. Banda, Lovemore Alufandika, M. Mautanga, Arthur
+    Bowers-Barnard, A. Beliavskaia, A. Predeus, <strong>W. Rowe</strong>, A. Darby,
+    N. Hall, F. Weill, M. Gordon, N. Feasey, K. Baker, J. Hinton
+  journal: Nature Microbiology
+  year: '2020'
+  cites: 117
+  link: https://doi.org/10.1038/s41564-020-00836-1
+- title: Geographical and temporal distribution of SARS-CoV-2 clades in the WHO European
+    Region, January to June 2020
+  authors: E. Alm, E. Broberg, T. Connor, E. Hodcroft, A. Komissarov, S. Maurer‐Stroh,
+    A. Melidou, R. Neher, Á. O'toole, D. Pereyaslov, N. Beerenwinkel, Susana Posada-Céspedes,
+    K. P. Jablonski, Pedro F. Ferreira, I. Topolsky, T. Avšič-Županc, M. Korva, M.
+    Poljak, Samo Zakotnik, T. M. Zorec, K. Bragstad, O. Hungnes, K. Stene-Johansen,
+    C. Reusken, A. Meijer, H. Vennema, Lidia Ruiz-Roldán, M. Bracho, N. García-González,
+    Á. Chiner-Oms, I. Cancino-Muñoz, I. Comas, G. Goig, M. Torres-Puente, Mariana
+    G. López, L. Martínez-Priego, G. D’Auria, Loreto Ferrús-Abad, Griselda de Marco,
+    Inmaculada Galán-Vendrell, Sandra Carbó-Ramírez, Paula Ruiz-Hueso, M. Coscollá,
+    Katerina Polackova, L. Kramná, O. Cinek, J. Richter, George Krashias, C. Tryfonos,
+    S. Bashiardes, D. Koptides, C. Christodoulou, B. Bartolini, C. Gruber, A. di Caro,
+    C. Castilletti, F. Stefani, S. Rimoldi, Francesca Romeri, F. Salerno, S. Polesello,
+    A. Nagy, H. Jiřincová, J. Vecerova, L. Nováková, S. Cordey, Marine Murtskhvaladze,
+    N. Kotaria, T. Schär, C. Beisel, O. Vugrek, Filip Rokić, L. Trgovec-Greif, I.
+    Jurak, T. Rukavina, Neven Sučić, K. Schønning, S. Karst, R. Kirkegaard, T. Michaelsen,
+    E. Sorensen, Simon Knutson, J. Brandt, Vang Le-Quy, Trine Sørensen, C. Petersen,
+    M. Pedersen, S. L. Larsen, M. Skov, M. Rasmussen, J. Fonager, A. Fomsgaard, R.
+    Maksyutov, E. Gavrilova, O. Pyankov, S. A. Bodnev, Tatyana V. Tregubchak, A. Shvalov,
+    D. Antonets, P. Resende, S. Goya, A. Perrin, R. T. Lee, Shilpa Yadahalli, A. Han,
+    C. Russell, S. Schmutz, M. Zaheri, V. Kufner, M. Huber, A. Trkola, Markus H. Antwerpen,
+    M. Walter, S. van der Werf, F. Gámbaro, S. Behillil, V. Enouf, F. Donati, M. Ustinova,
+    V. Rovite, J. Kloviņš, Oksana Savicka, Anke Wienecke-Baldacchino, C. Ragimbeau,
+    G. Fournier, J. Mossong, S. Aberle, Mattias Haukland, T. Enkirch, A. Advani, M.
+    Karlberg, O. Lindsjö, Sandra Broddesson, M. Sláviková, M. Ličková, B. Klempa,
+    Edita Staroňová, E. Tichá, T. Szemeš, Diana Rusňáková, T. Stadler, J. Quer, A.
+    Antón, C. Andrés, M. Piñana, D. García-Cehic, T. Pumarola, J. Izopet, G. Gioula,
+    M. Exindari, A. Papa, D. Chatzidimitriou, S. Metallidis, Stella Pappa, M. Macek
+    Jr, J. Geryk, P. Brož, A. Briksí, P. Hubáček, P. Dřevínek, M. Zajac, P. Kvapil,
+    M. Holub, K. Kvapilová, Adam Novotný, M. Kašný, Petr Klempt, O. Vapalahti, T.
+    Smura, T. Sironen, P. Selhorst, C. Anthony, K. Ariën, E. Simon-Lorière, L. Rabalski,
+    K. Bieńkowska-Szewczyk, V. Borges, J. Isidro, J. P. Gomes, R. Guiomar, P. Pechirra,
+    I. Costa, S. Duarte, L. Vieira, K. Pyrć, N. Zuckerman, S. Turdikulova, A. Abdullaev,
+    Dilbar Dalimova, A. Abdurakhimov, A. Tagliabracci, F. Alessandrini, F. Melchionda,
+    V. Onofri, C. Turchi, P. Bagnarelli, S. Menzo, S. Caucci, L. Di Sante, A. Popa,
+    Jakob-Wendelin Genger, B. Agerer, A. Lercher, L. Endler, M. Smyth, T. Penz, M.
+    Schuster, M. Senekowitsch, J. Laine, C. Bock, A. Bergthaler, A. Shevtsov, R. Kalendar,
+    Yerlan M. Ramanculov, A. Graf, M. Muenchhoff, O. Keppler, S. Krebs, H. Blum, A.
+    Marcello, Danilo Licastro, P. D’Agaro, F. Laubscher, D. Vidanović, Bojana Tešović,
+    J. Volkening, Nicola Clementi, N. Mancini, M. Rupnik, A. Mahnič, A. Walker, Torsten
+    Houwaart, T. Wienemann, Malte Kohns Vasconcelos, Daniel Strelow, B-E Jensen, T.
+    Senff, Lisanna Hülse, O. Adams, M. Andrée, S. Hauka, T. Feldt, V. Keitel, D. Kindgen-Milles,
+    J. Timm, K. Pfeffer, A. Dilthey, C. Moore, A. Ozdarendeli, Shaikh Terkis Islam
+    Pavel, Hazel Yetiskin, Gunsu Aydin, Can Holyavkin, M. Uygut, Ceren Cevik, A. Shchetinin,
+    V. Gushchin, G. Dinler-Doganay, L. Doğanay, Tugba Kizilboga-Akgun, I. Karacan,
+    K. Pancer, P. Maes, Joan Martí-Carreras, T. Wawina-Bokalanga, B. Vanmechelen,
+    A. Thürmer, M. Wedde, R. Dürrwald, Max von Kleist, O. Drechsel, T. Wolff, Stephan
+    Fuchs, René Kmiecinski, J. Michel, A. Nitsche, I. Casas, M. I. Caballero, Á.
+    Zaballos, P. Jiménez, Mercedes Jiménez, Sara Fernández, Sara Fernandez, Isabel
+    Cuesta De La Plaza, A. Fadeev, A. Ivanova, M. Sergeeva, P. Stefanelli, M. E. Torok,
+    G. Hall, A. da Silva Filipe, L. Turtle, Safiah Afifi, Kathryn Mccluggage, Robert
+    Beer, J. Ledesma, Joshua Maksimovic, Karla Spellman, W. Hamilton, A. Marchbank,
+    Joel Southgate, A. Underwood, Ben Taylor, C. Yeats, K. AbuDahab, M. Gemmell, R.
+    Eccles, Anita O. Lucaci, Charlotte Nelson, L. Rainbow, Mark Whitehead, R. Gregory,
+    S. Haldenby, S. Paterson, M. Hughes, M. Curran, Dave J. Baker, Rachel M. Tucker,
+    Luke R. Green, T. Feltwell, F. Halstead, M. Wyles, A. Jahun, Shazaad Ahmad, I.
+    Georgana, I. Goodfellow, A. Yakovleva, L. Meredith, A. Gavriil, A. Awan, Chloe
+    Fisher, J. Edgeworth, J. Lynch, N. Moore, Rebecca Williams, S. Kidd, N. Cortes,
+    K. Brunker, J. McCrone, J. Quick, Nichola Duckworth, Sarah Walsh, T. Sloan, C.
+    Ludden, R. George, G. Eltringham, Julianne R. Brown, Elihu Aranday-Cortes, J.
+    Shepherd, J. Hughes, Kathy K Li, T. Williams, N. Johnson, Natasha Jesudason, D.
+    Mair, E. Thomson, Rajiv Shah, Yasmin A. Parr, Stephen Carmichael, D. Robertson,
+    K. Nomikou, Alice Broos, M. Niebel, Katherine Smollett, Lily Tong, S. Miah, A.
+    Wittner, Nicole Phillips, Brendan A. I. Payne, R. Dewar, A. Holmes, F. Bolt, J.
+    Price, S. Mookerjee, D. Sethi, Will Potter, Rachael Stanley, R. Prakash, S. Dervisevic,
+    J. C. Graham, Andrew Nelson, Darren L. Smith, G. Young, W. Yew, J. Todd, A. Trebes,
+    M. Andersson, M. Bull, J. Watkins, Alec Birchley, Bree Gatica-Wilcox, L. Gilbert,
+    Sara Kumžiene-Summerhayes, S. Rey, A. Chauhan, Ethan Butcher, K. Bicknell, S.
+    Elliott, S. Glaysher, A. Lackenby, D. Bibby, S. Platt, H. Mohamed, Nicholas W.
+    Machin, J. Mbisa, Jonathan Evans, Malorie Perry, Nicole Pacchiarini, S. Corden,
+    Alexander Adams, Amy Gaskin, Jason Coombs, L. Graham, S. Cottrell, M. Morgan,
+    Laura Gifford, A. Kolyva, Steven Rudder, A. Trotter, A. Mather, Alp Aydin, A.
+    Page, Gemma L. Kay, L. de Oliveira Martins, Muhammad Yasir, N. Alikhan, Nicholas
+    M. Thomson, Rachel Gilroy, R. Kingsley, J. O’Grady, A. Gutiérrez, Marilyn Diaz,
+    Thanh Le Viet, A. Tedim, Evelien M. Adriaenssens, C. P. McClure, Christopher Moore,
+    Fei Sang, G. Clark, H. Howson-Wells, Johnny Debebe, J. Ball, J. Chappell, Manjinder
+    Khakh, Matthew Carlile, M. Loose, M. Lister, Nadine Holmes, T. Tsoleridis, Vicki
+    M. Fleming, V. Wright, W. Smith, M. Gallagher, M. Parker, D. Partridge, C. Evans,
+    P. Baker, S. Essex, S. Liggett, A. Keeley, M. Bashton, Stefan Rooke, E. Meader,
+    Carlos Enrique Balcazar Lopez, A. Angyal, M. Kristiansen, H. Tutill, J. Findlay,
+    Lamia Mestek-Boukhibar, Leysa Forrest, P. Dyal, Rachel J. Williams, Yasmin Panchbhaya,
+    C. Williams, Sunando Roy, Sarojini Pandey, Joanne Stockton, N. Loman, Radoslaw
+    Poplawski, S. Nicholls, <strong>W. Rowe</strong>, F. Khokhar, M. Pinckert, M.
+    Hosmillo, Y. Chaudhry, L. Caller, R. Davidson, Luke Griffith, A. Rambaut, B. Jackson,
+    R. Colquhoun, V. Hill, J. Nichols, P. Asamaphan, A. Darby, K. Jackson, M. Iturriza-Gómara,
+    E. Vamos, A. Green, D. Aanensen
+  journal: 'Euro surveillance : bulletin Europeen sur les maladies transmissibles
+    = European communicable disease bulletin'
+  year: '2020'
+  cites: 193
+  link: https://doi.org/10.2807/1560-7917.ES.2020.25.32.2001410
+- title: Explainable AI reveals changes in skin microbiome composition linked to phenotypic
+    differences
+  authors: A. Carrieri, N. Haiminen, Sean Maudsley-Barton, Laura-Jayne Gardiner, Barry
+    Murphy, A. Mayes, Sarah Paterson, S. Grimshaw, M. Winn, Cameron Shand, <strong>W.
+    Rowe</strong>, S. Hawkins, Ashley MacGuire-Flanagan, Jane Tazzioli, John G Kenny,
+    L. Parida, M. Hoptroff, Edward O. Pyzer-Knapp
+  journal: Scientific Reports
+  year: '2020'
+  cites: 76
+  link: https://doi.org/10.1038/s41598-021-83922-6
+- title: Explainable AI reveals key changes in skin microbiome associated with menopause,
+    smoking, aging and skin hydration
+  authors: A. Carrieri, N. Haiminen, Sean Maudsley-Barton, Laura-Jayne Gardiner, Barry
+    Murphy, A. Mayes, Sarah Paterson, S. Grimshaw, M. Winn, Cameron Shand, <strong>W.
+    Rowe</strong>, S. Hawkins, Ashley MacGuire-Flanagan, Jane Tazzioli, John G Kenny,
+    L. Parida, M. Hoptroff, Edward O. Pyzer-Knapp
+  journal: ''
+  year: '2020'
+  cites: 7
+  link: https://www.semanticscholar.org/paper/add89aefcfaab02183c1e011287e2a87cb92d518
+- title: A Fast Machine Learning Workflow for Rapid Phenotype Prediction from Whole
+    Shotgun Metagenomes
+  authors: A. Carrieri, <strong>W. Rowe</strong>, M. Winn, Edward O. Pyzer-Knapp
+  journal: AAAI Conference on Artificial Intelligence
+  year: '2019'
+  cites: 11
+  link: https://doi.org/10.1609/AAAI.V33I01.33019434
+- title: Adding function to the genome of African Salmonella Typhimurium ST313 strain
+    D23580
+  authors: Rocío Canals, Disa L. Hammarlöf, Carsten Kröger, S. Owen, Wai Yee Fong,
+    L. Lacharme-Lora, Xiaojun Zhu, N. Wenner, Sarah Carden, J. Honeycutt, D. Monack,
+    R. Kingsley, Philip J. Brownridge, R. Chaudhuri, <strong>W. Rowe</strong>, A.
+    Predeus, K. Hokamp, M. Gordon, J. Hinton
+  journal: PLoS Biology
+  year: '2019'
+  cites: 74
+  link: https://doi.org/10.1371/journal.pbio.3000059
+- title: The diversity, evolution and ecology of Salmonella in venomous snakes
+  authors: C. Pulford, N. Wenner, M. Redway, Ella V. Rodwell, H. Webster, R. Escudero,
+    Carsten Kröger, Rocío Canals, <strong>W. Rowe</strong>, J. López, N. Hall, P.
+    Rowley, D. Timofte, R. Harrison, K. Baker, J. Hinton
+  journal: bioRxiv
+  year: '2019'
+  cites: 25
+  link: https://doi.org/10.1371/journal.pntd.0007169
+- &id001
+  title: 'When the levee breaks: a practical guide to sketching algorithms for processing
+    the flood of genomic data'
+  authors: <strong>W. Rowe</strong>
+  journal: Genome Biology
+  year: '2019'
+  cites: 39
+  link: https://doi.org/10.1186/s13059-019-1809-x
+- title: Adding function to the genome of African Salmonella ST313
+  authors: Rocío Canals, Disa L. Hammarlöf, Carsten Kröger, S. Owen, Wai Yee Fong,
+    L. Lacharme-Lora, Xiaojun Zhu, N. Wenner, Sarah Carden, J. Honeycutt, D. Monack,
+    R. Kingsley, Philip J. Brownridge, R. Chaudhuri, <strong>W. Rowe</strong>, A.
+    Predeus, K. Hokamp, M. Gordon, J. Hinton
+  journal: bioRxiv
+  year: '2018'
+  cites: 1
+  link: https://doi.org/10.1101/450098
+- &id002
+  title: Indexed variation graphs for efficient and accurate resistome profiling
+  authors: <strong>W. Rowe</strong>, M. Winn
+  journal: bioRxiv
+  year: '2018'
+  cites: 64
+  link: https://doi.org/10.1093/bioinformatics/bty387
+- &id003
+  title: Streaming histogram sketching for rapid microbiome analytics
+  authors: <strong>Will P. M. Rowe</strong>, A. Carrieri, Cristina Alcon-Giner, Shabhonam
+    Caim, Alexander G. Shaw, Kathleen Sim, J. S. Kroll, Lindsay J Hall, Edward O.
+    Pyzer-Knapp, Martyn D. Winn, <strong>Will P. M. Rowe</strong>, A. Paola
+  journal: Microbiome
+  year: '2018'
+  cites: 23
+  link: https://doi.org/10.1186/s40168-019-0653-2
+- title: Salmonella enterica serovar Typhimurium ST313 responsible for gastroenteritis
+    in the UK are genetically distinct from isolates causing bloodstream infections
+    in Africa
+  authors: P. Ashton, S. Owen, Lukeki Kaindama, <strong>W. Rowe</strong>, C. Lane,
+    L. Larkin, S. Nair, C. Jenkins, E. D. de Pinna, N. Feasey, J. Hinton, T. Dallman
+  journal: bioRxiv
+  year: '2017'
+  cites: 6
+  link: https://doi.org/10.1101/139576
+- title: Public health surveillance in the UK revolutionises our understanding of
+    the invasive Salmonella Typhimurium epidemic in Africa
+  authors: P. Ashton, S. Owen, Lukeki Kaindama, <strong>W. Rowe</strong>, C. Lane,
+    L. Larkin, S. Nair, C. Jenkins, E. D. de Pinna, N. Feasey, J. Hinton, T. Dallman
+  journal: Genome Medicine
+  year: '2017'
+  cites: 70
+  link: https://doi.org/10.1186/s13073-017-0480-7
 firstAuthorPapers:
-  - title: "When the levee breaks: a practical guide to sketching algorithms for processing the flood of genomic data"
-    authors: "<strong>WPM Rowe</strong>"
-    journal: "Genome biology 20, 1-12, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:Se3iqnhoufwC"
-  - title: "Streaming histogram sketching for rapid microbiome analytics"
-    authors: "<strong>WPM Rowe</strong>, AP Carrieri, C Alcon-Giner, S Caim, A Shaw, K Sim, JS Kroll, ..."
-    journal: "Microbiome 7, 1-13, 2019"
-    year: "2019"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:WF5omc3nYNoC"
-  - title: "Indexed variation graphs for efficient and accurate resistome profiling"
-    authors: "<strong>WPM Rowe</strong>, MD Winn"
-    journal: "Bioinformatics 34 (21), 3601-3608, 2018"
-    year: "2018"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:YsMSGLbcyi4C"
-  - title: "Overexpression of antibiotic resistance genes in hospital effluents over time"
-    authors: "<strong>WPM Rowe</strong>, C Baker-Austin, DW Verner-Jeffreys, JJ Ryan, C Micallef, ..."
-    journal: "Journal of Antimicrobial Chemotherapy 72 (6), 1617-1623, 2017"
-    year: "2017"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:IjCSPb-OGe4C"
-  - title: "Comparative metagenomics reveals a diverse range of antimicrobial resistance genes in effluents entering a river catchment"
-    authors: "<strong>W Rowe</strong>, DW Verner-Jeffreys, C Baker-Austin, JJ Ryan, DJ Maskell, ..."
-    journal: "Water Science and Technology 73 (7), 1541-1549, 2016"
-    year: "2016"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:u-x6o8ySG0sC"
-  - title: "Antimicrobial resistance gene monitoring in aquatic environments (thesis)"
-    authors: "<strong>W Rowe</strong>"
-    journal: "University of Cambridge, 2016"
-    year: "2016"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:qjMakFHDy7sC"
-  - title: "Search engine for antimicrobial resistance: a cloud compatible pipeline and web interface for rapidly detecting antimicrobial resistance genes directly from sequence data"
-    authors: "<strong>W Rowe</strong>, KS Baker, D Verner-Jeffreys, C Baker-Austin, JJ Ryan, ..."
-    journal: "PLoS One 10 (7), e0133492, 2015"
-    year: "2015"
-    link: "https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&oe=ASCII&user=sVMdRQMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=sVMdRQMAAAAJ:u5HHmVD_uO8C"
+- *id001
+- *id002
+- *id003

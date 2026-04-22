@@ -13,6 +13,7 @@ sidebar:
   linkedin: will-rowe-13219b136
   github: will-rowe
   twitter: "@wil_rowe"
+  orcid: "0000-0003-0384-4463"
 
   languages:
     - idiom: English
@@ -110,7 +111,7 @@ experience:
       details:
 
 skills:
-  title: "Skills &amp; Strengths"
+  title: "Skills & Strengths"
   slug: "skills"
   toolset:
     - name: Programming
@@ -138,7 +139,7 @@ skills:
       level: 60%
 
 publications:
-  title: "Software, Papers &amp; Funding"
+  title: "Software, Papers & Funding"
   slug: "publications"
 
   software:
@@ -217,7 +218,7 @@ publications:
         notes: "2 rounds of competitive funding, awarded during PhD"
 
 teaching:
-  title: "Teaching, Leadership &amp; Speaking"
+  title: "Teaching, Leadership & Speaking"
   slug: "teaching"
 
   experiences:
@@ -314,3 +315,5 @@ other:
     - name: "Bioinformatics supervision"
       date: ""
       description: ""
+
+footer: "Will Rowe — CV"

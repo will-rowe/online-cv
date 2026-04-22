@@ -1,0 +1,21 @@
+---
+const { footer } = Astro.props;
+---
+
+<footer class="cv-footer">
+  {footer && <p class="copyright">{footer}</p>}
+  <button class="back-top" id="back2Top" title="Back to top">↑ top</button>
+</footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const btn = document.getElementById('back2Top');
+    if (!btn) return;
+    window.addEventListener('scroll', () => {
+      (btn as HTMLElement).style.opacity = window.scrollY > 200 ? '1' : '0';
+    });
+    btn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  });
+</script>
