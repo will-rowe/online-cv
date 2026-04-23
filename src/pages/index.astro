@@ -29,9 +29,31 @@ try {
     const allNonFork = (all as any[]).filter((r) => !r.fork);
 
     // Top repos for the software cards
-    ghRepos = [...allNonFork]
+    const topRepos = [...allNonFork]
       .sort((a, b) => b.stargazers_count - a.stargazers_count)
       .slice(0, 12);
+    ghRepos = await Promise.all(
+      topRepos.map(async (repo) => {
+        let languages: string[] = repo.language ? [repo.language] : [];
+        try {
+          const langRes = await fetch(repo.languages_url, { headers: ghHeaders });
+          if (langRes.ok) {
+            const langData = await langRes.json();
+            languages = Object.entries(langData as Record<string, number>)
+              .sort(([, left], [, right]) => right - left)
+              .slice(0, 3)
+              .map(([name]) => name);
+          }
+        } catch {
+          // Keep the primary language fallback if the per-repo languages request fails.
+        }
+
+        return {
+          ...repo,
+          languages,
+        };
+      }),
+    );
 
     // ── Skill aggregation from ALL non-fork repos ──
     // language field values → group
@@ -81,9 +103,15 @@ try {
       groups[group].add(tag);
     };
 
+    const topRepoNames = new Set(ghRepos.map((r) => r.name));
     for (const r of allNonFork) {
-      // primary language
-      if (r.language && langGroup[r.language]) {
+      // For displayed top repos, use up to 3 languages; for others, use primary language.
+      const enriched = ghRepos.find((repo) => repo.name === r.name);
+      if (topRepoNames.has(r.name) && enriched?.languages?.length) {
+        for (const language of enriched.languages) {
+          if (langGroup[language]) addTag(langGroup[language], language);
+        }
+      } else if (r.language && langGroup[r.language]) {
         addTag(langGroup[r.language], r.language);
       }
       // topics

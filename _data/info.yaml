@@ -161,6 +161,8 @@ publications:
       - title: "ARTIC tools"
         link: "https://github.com/will-rowe/artic-tools"
         description: "A set of tools for viral amplicon schemes"
+        stars: 5
+        languages: ["Python", "Shell", "R"]
         conda: "artic-tools"
         zenodo: 280260660
         github: "will-rowe/artic-tools"
@@ -168,22 +170,30 @@ publications:
       - title: "ARTIC pipeline"
         link: "https://github.com/artic-network/fieldbioinformatics"
         description: "A pipeline for working with virus sequencing data sequenced with nanopore"
+        stars: 131
+        languages: ["Python", "Shell", "Dockerfile"]
         conda: "artic"
         github: "artic-network/fieldbioinformatics"
 
       - title: "STARK"
         link: "https://github.com/will-rowe/stark"
         description: "IPFS-backed database for recording and distributing sequencing data"
+        stars: 3
+        languages: ["Go", "TypeScript", "Shell"]
         github: "will-rowe/stark"
 
       - title: "Baby GROOT"
         link: "https://github.com/will-rowe/baby-groot"
         description: "Appromiately weighted variation graphs for haplotype identification"
+        stars: 8
+        languages: ["C++", "Python", "Shell"]
         github: "will-rowe/baby-groot"
 
       - title: "GROOT"
         link: "https://github.com/will-rowe/groot"
         description: "Identification of Antibiotic Resistance Genes (ARGs) in metagenomic samples (a.k.a. Resistome Profiling)."
+        stars: 66
+        languages: ["Go", "Python", "R"]
         conda: "groot"
         zenodo: 117543539
         github: "will-rowe/groot"
@@ -191,6 +201,8 @@ publications:
       - title: "HULK"
         link: "https://github.com/will-rowe/hulk"
         description: "A tool that creates small, fixed-size sketches from streaming microbiome sequencing data, enabling rapid metagenomic dissimilarity analysis."
+        stars: 57
+        languages: ["Go", "Python", "Shell"]
         conda: "hulk"
         zenodo: 143890875
         github: "will-rowe/hulk"
@@ -198,6 +210,8 @@ publications:
       - title: "DRAX"
         link: "https://github.com/will-rowe/drax"
         description: "A nextflow pipeline for Detecting Resistome Associated taXa"
+        stars: 4
+        languages: ["Nextflow", "Python", "Shell"]
         conda: "drax"
         github: "will-rowe/drax"
 

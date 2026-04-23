@@ -459,7 +459,8 @@ img {
 
     .repo-meta {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
+        justify-content: space-between;
         gap: 0.5rem;
         margin-top: 0.5rem;
         padding-top: 0.5rem;
@@ -470,6 +471,15 @@ img {
         font-size: 0.7rem;
         font-weight: 600;
         color: var(--text-muted);
+        flex-shrink: 0;
+    }
+
+    .repo-langs {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        gap: 0.35rem;
+        margin-left: auto;
     }
 
     .repo-lang {
@@ -479,7 +489,6 @@ img {
         padding: 0.1rem 0.4rem;
         border-radius: 3px;
         font-weight: 500;
-        margin-left: auto;
     }
 }
 
