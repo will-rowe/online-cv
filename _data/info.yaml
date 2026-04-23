@@ -54,22 +54,36 @@ education:
 career-profile:
   title: Career Profile
   summary: |
-    I'm Will Rowe, a software engineer currently working at [GRAIL](https://grail.com/) in the UK engineering
-    team. I mainly work on software for running our clinical trials but I also contribute to the 
-    machine learning classifier and bioinformatics pipeline teams.
+    **Staff Engineer & Computational Biologist**
 
-    I like to work on algorithmic bioinformatics and "big data" problems, developing algorithms for a range of applications and 
-    incorporating the latest advances in data sketching, machine learning and graph theory into my 
-    software and research portfolio. I apply my algorithmic work to biological problems, such as: 
-    featurisation of genetic markers for population screening, real-time genomic epidemiology of viral outbreaks, 
-    gene dynamics in the gut microbiome, and antimicrobial resistance gene surveillance.
+    Currently at **Cloudflare R&D**, architecting AI and distributed compute infrastructure. Formerly Staff Engineer at **GRAIL**, specializing in machine learning classifiers and bioinformatics pipelines.
+    
+    I specialise in algorithmic bioinformatics, solving "big data" problems in the life sciences—ranging from real-time genomic epidemiology to genetic marker featurisation. By leveraging data sketching, graph theory, and global-scale distributed systems, I build the high-performance software necessary for the next generation of genomic research.
 
 experience:
   title: "Employment Record"
   slug: "experience"
   jobs:
+    - role: "Senior System Engineer"
+      time: "2026 - Present"
+      institute:
+      organisation: "Cloudflare"
+      details:
+
     - role: "Staff Software Engineer"
-      time: "2023 - present"
+      time: "2025 - 2026"
+      institute:
+      organisation: "Human Native"
+      details:
+
+    - role: "Staff Research Engineer"
+      time: "2024 - 2025"
+      institute:
+      organisation: "Prima Mente (formerly CFDX)"
+      details:
+
+    - role: "Staff Software Engineer"
+      time: "2023 - 2024"
       institute:
       organisation: "GRAIL"
       details:
@@ -80,34 +94,22 @@ experience:
       organisation: "GRAIL"
       details:
 
-    - role: "Postdoctoral Research Associate"
+    - role: "Postdoctoral Researcher"
       time: "2019 - 2021"
-      institute: "Institute of Microbiology and Infection"
+      institute:
       organisation: "University of Birmingham"
       details:
 
-    - role: "Visiting Scientist"
-      time: "2019 - 2021"
-      institute: "Science and Technology Facilities Council"
-      organisation: "UK Research and Innovation"
-      details:
-
-    - role: "Computational biologist"
+    - role: "Computational Biologist"
       time: "2017 - 2019"
-      institute: "Hartree Centre (IBM/Science and Technology Facilities Council)"
-      organisation: "UK Research and Innovation"
+      institute:
+      organisation: "The Science And Technology Facilities Council"
       details:
 
     - role: "Postdoctoral Research Associate"
       time: "2016 - 2017"
-      institute: "Institute of Integrative Biology"
+      institute:
       organisation: "University of Liverpool"
-      details:
-
-    - role: "Trainee Clinical Scientist"
-      time: "2015 - 2016"
-      institute: "Addenbrooke’s Hospital (Cambridge University Hospitals)"
-      organisation: "National Health Service"
       details:
 
 skills:
