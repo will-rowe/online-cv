@@ -10,9 +10,15 @@ const repos: any[] = (ghRepos as any[]).length > 0
       link: r.html_url,
       description: r.description ?? '',
       stars: r.stargazers_count,
-      language: r.language,
+      languages: Array.isArray(r.languages)
+        ? r.languages.filter(Boolean).slice(0, 3)
+        : (r.language ? [r.language] : []),
     }))
-  : ((pubs as any)?.software?.repos ?? []);
+  : (((pubs as any)?.software?.repos ?? []).map((r: any) => ({
+      ...r,
+      stars: r.stars,
+      languages: Array.isArray(r.languages) ? r.languages.filter(Boolean).slice(0, 3) : [],
+    })));
 ---
 
 {(pubs as any) && (
@@ -29,10 +35,14 @@ const repos: any[] = (ghRepos as any[]).length > 0
           <a href={r.link} class="repo-card" target="_blank" rel="noopener">
             <p class="repo-name">{r.title}</p>
             <p class="repo-desc">{r.description}</p>
-            {(r.stars !== undefined || r.language) && (
+            {(r.stars !== undefined || r.languages?.length) && (
               <div class="repo-meta">
                 {r.stars !== undefined && <span class="repo-stars">★ {r.stars.toLocaleString()}</span>}
-                {r.language && <span class="repo-lang">{r.language}</span>}
+                {r.languages?.length > 0 && (
+                  <div class="repo-langs">
+                    {r.languages.map((language: string) => <span class="repo-lang">{language}</span>)}
+                  </div>
+                )}
               </div>
             )}
           </a>
